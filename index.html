@@ -1,23 +1,18 @@
 ---
-layout: default
+layout: none
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<!DOCTYPE html>
+  <html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="3;url={{ site.baseurl }}/en/">
+    <script language="javascript">
+      var lang = navigator.language || navigator.userLanguage;
+      window.location.href = lang.split('-')[0] + '/';
+    </script>
+    <title>Page Redirection</title>
+  </head>
+  <body>
+    If you are not redirected automatically, please click the link to continue to <a href="{{ site.baseurl }}/en/">{{ site.url }}{{ site.baseurl }}/en/</a>.
+  </body>
+</html>
