@@ -35,3 +35,9 @@ t:
     description: >
       Hier gehört eine Beschreibung für die neue Seite hin.
       Sie kann mehrere Zeilen umfassen.
+
+enabled_languages:
+  - en
+  - de
+
+default_language: en

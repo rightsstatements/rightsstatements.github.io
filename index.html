@@ -1,18 +1,27 @@
 ---
-layout: none
 ---
 <!DOCTYPE html>
   <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="3;url={{ site.baseurl }}/en/">
+    <meta http-equiv="refresh" content="3;url={{ site.baseurl }}/{{ site.default_language }}/">
     <script language="javascript">
-      var lang = navigator.language || navigator.userLanguage;
-      window.location.href = lang.split('-')[0] + '/';
+      var user_language = (navigator.language || navigator.userLanguage).split('-')[0];
+      var enabled_languages = [];
+      console.log(user_language);
+      {% for enabled_language in site.enabled_languages %}
+        enabled_languages.push("{{ enabled_language }}");
+      {% endfor %}
+      var default_language = "{{ site.default_language }}";
+      if (enabled_languages.indexOf(user_language) != -1) {
+        window.location.href = user_language + '/';
+      } else {
+        window.location.href = default_language + '/';
+      }
     </script>
     <title>Page Redirection</title>
   </head>
   <body>
-    If you are not redirected automatically, please click the link to continue to <a href="{{ site.baseurl }}/en/">{{ site.url }}{{ site.baseurl }}/en/</a>.
+    If you are not redirected automatically, please click the link to continue to <a href="{{ site.baseurl }}/en/">{{ site.url }}{{ site.baseurl }}/{{ site.default_language }}/</a>.
   </body>
 </html>
