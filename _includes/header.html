@@ -23,11 +23,19 @@
       </div>
       <div class="trigger">
         {% if page.id %}
-          {% assign translations=site.posts | where:"slug", page.slug | sort: 'path' %}
+          {% assign translations = "" | split:"|"  %}
+          {% assign this = page.url | split:'/' | last %}
+          {% for post in site.posts %}
+            {% assign that = post.url | split:'/' | last %}
+            {% if this == that %}
+              {% assign translations = translations | push: post %}
+            {% endif %}
+          {% endfor %}
         {% else %}
-          {% assign translations=site.pages | where:"name", page.name | sort: 'path' %}
+          {% assign translations=site.pages | where:"name", page.name %}
         {% endif %}
         <ul class="inline-list">
+          {% assign translations = translations | sort: 'lang' %}
           {% for translation in translations %}
           <li class="lang">
               <a href="{{ translation.url | prepend: site.baseurl }}" class="{{ translation.lang }}">{{ translation.lang }}</a>
