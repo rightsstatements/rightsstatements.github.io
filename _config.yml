@@ -1,9 +1,9 @@
 # Site settings
 email: your-email@domain.com
-baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/rights-site"
+url: "http://graphthinking.github.io"
+twitter_username: literarymachine
+github_username:  literarymachine
 
 # Build settings
 markdown: kramdown
