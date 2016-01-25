@@ -30,7 +30,7 @@
         <ul class="inline-list">
           {% for translation in translations %}
           <li class="lang">
-              <a href="{{ translation.url }}" class="{{ translation.lang }}">{{ translation.lang }}</a>
+              <a href="{{ translation.url | prepend: site.baseurl }}" class="{{ translation.lang }}">{{ translation.lang }}</a>
           </li>
           {% endfor %}
         </ul>
