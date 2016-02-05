@@ -1,7 +1,7 @@
 # Site settings
 email: your-email@domain.com
-baseurl: "/rights-site"
-url: "http://graphthinking.github.io"
+baseurl: ""
+url: "http://literarymachine.github.io"
 twitter_username: literarymachine
 github_username:  literarymachine
 
