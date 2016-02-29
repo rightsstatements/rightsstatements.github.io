@@ -1,0 +1,27 @@
+language: ruby
+rvm:
+- 2.1
+install: gem install jekyll
+script: jekyll build
+branches:
+  only:
+  - master
+after_success:
+- git clone https://$GITHUB_REPO
+- cd $(basename ${GITHUB_REPO%.git})
+- git config user.name "Travis CI"
+- git config user.email ${EMAIL}
+- rsync -az --delete --exclude '.git*' ../_site/ .
+- touch .nojekyll
+- git add -A .
+- git commit -m "Generated Jekyll site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
+- ! '[ "${TRAVIS_BRANCH}" = "master" ] && [ "${TRAVIS_PULL_REQUEST}" = "false" ] && git push --force "https://${DEPLOY_KEY}@${GITHUB_REPO}" HEAD:${PRODUCTION_TARGET_BRANCH}'
+- ! '[ "${TRAVIS_BRANCH}" = "master" ] && [ "${TRAVIS_PULL_REQUEST}" != "false" ] && git push --force "https://${DEPLOY_KEY}@${GITHUB_REPO}" HEAD:${STAGING_TARGET_BRANCH}'
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - GITHUB_REPO: github.com/literarymachine/rightsstatements.github.io.git
+  - STAGING_TARGET_BRANCH: pages-staging
+  - PRODUCTION_TARGET_BRANCH: pages-production
+  - secure: fcUbt+eAuewteV66cpux0vfNz+Z29kfOTDGA50CYtSzfCDW6Ga6RgQbKMy75na2d4LSaL4tpLZK80pikjw4Vq5bXl3JR94eXZbKIZjvg2KufcgHEUMRjbjAjhcrIS3TvIFRSNw7CTrUOrGmLRRBkFV/vwvJ86v8tKKVMqlF2+8G6DdgvF9yW+piZJ9pFUe5F/9DC+chSGYOA+/LcoaT6vrpZfz7qFe0UXHyW7Vw8y5utnwhbJ6zTvwN3c7re7gNjsE5/hj/jdsuiw53drv/HXR9m+TgpaWRslRwOF/JyKydcGZKANNBF9SW4jdUM1HfrmbYWSgL2fZfkOvVOXTuZrq46aacMrXxmJ7PFQUDXjbwAv/LXwthpb/J2GBchdqyATKYJq7EOpqKhqIEou/GD/MqbmQFLvoGnGomV0R7k305Ad60gfRlAu2VFy5Ob7rF4Lf98hGNG2DtzRhmHnnu2PEyGaRumX6rQ80ED+iIaQkCKqc7KeKShz/oCKdHQ7hIpt35WBJp7g086zjJyKcc0kK3/TMSjXKEfyj5LFQYLxCgNWK0VlPTH3Ggsg+x90iSfaDN2JnulsS5TyKDQnD1FBA8RhjNakTZM1aHkaWIiSIIQQvfc6Bw3j9eEaqwPXe7ruM+X72pfoSh6/KH08WJahnVBQuqNb3+hvKGcdOOItiw=
+  - secure: Bid0+ARvbKVLLojwGEyJ36/TfY9l9J+7edz6Qxov7o5vjcJ3SY5DOlGTjt6SonP5H3/ugLBJTzdJKZidSfBzH1xkBE8nbVtUjYfUQZ0btx9a0dC2LEKN2RRo8gSEZwColA0cDmq6OY1dSYGBHPEwCi8DvN4kdBXjkpm2sTojXOf2zHVbAGfp8CAF8Pw73knS141+/Fm6RlYVGdvL2qWSdtNKcWPVKA0J8cFjY83na2W42HMgneiaGMCV+h30bc9XTbcpWCGM0iDx8CpfhP3o0idlwF/l21m4JxVEnjs9MPuQY+m0Xfznu4AT4ihfZCKaEr2GSEyw89iRFG1w5oV16C/pZNT2ziTrzYoZ+UCGCGoUXMElz1sSGOojt7pSxNJYJpSig5rQahkZw7MX6mWcw8p4a7pYqbGyUPuHOADJ+X1RjyOCFaszyQBXRBoem0AaDM+g7AglH0XUBVjkunbT7tqfdciO+07kX8jRjytdlcJs6w2pnR3FumunbVjck/XQ73PADhdi9osVe3GAwjUYsme4QEzrKWcOdmgmP0EjrCd9htnb/nnnZGgDs3SVnI4TOmY6u4JdXYudsFrilB55XcRd/e2GWsppX8BNly5HfBTOSVZNfHV8j3FftDklYkaH0m4kxvKo5PvwU3mLHDl5BmsJVN+VS/gYyatE3jPDN9E=
