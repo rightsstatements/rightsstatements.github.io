@@ -19,7 +19,6 @@ after_success:
 - ! '[ "${TRAVIS_BRANCH}" = "master" ] && [ "${TRAVIS_PULL_REQUEST}" != "false" ] && git push --force "https://${DEPLOY_KEY}@${GITHUB_REPO}" HEAD:${STAGING_TARGET_BRANCH}'
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - GITHUB_REPO: github.com/literarymachine/rightsstatements.github.io.git
   - STAGING_TARGET_BRANCH: pages-staging
   - PRODUCTION_TARGET_BRANCH: pages-production
