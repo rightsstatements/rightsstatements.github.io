@@ -15,8 +15,8 @@ after_success:
 - touch .nojekyll
 - git add -A .
 - git commit -m "Generated Jekyll site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
-- ! '[ "${TRAVIS_BRANCH}" = "master" ] && [ "${TRAVIS_PULL_REQUEST}" = "false" ] && git push --force "https://${DEPLOY_KEY}@${GITHUB_REPO}" HEAD:${PRODUCTION_TARGET_BRANCH}'
-- ! '[ "${TRAVIS_BRANCH}" = "master" ] && [ "${TRAVIS_PULL_REQUEST}" != "false" ] && git push --force "https://${DEPLOY_KEY}@${GITHUB_REPO}" HEAD:${STAGING_TARGET_BRANCH}'
+- ! '[ "${TRAVIS_BRANCH}" = "master" ] && [ "${TRAVIS_PULL_REQUEST}" = "false" ] && git push --force --quiet "https://${DEPLOY_KEY}@${GITHUB_REPO}" HEAD:${PRODUCTION_TARGET_BRANCH} > /dev/null 2>&1'
+- ! '[ "${TRAVIS_BRANCH}" = "master" ] && [ "${TRAVIS_PULL_REQUEST}" != "false" ] && git push --force --quiet "https://${DEPLOY_KEY}@${GITHUB_REPO}" HEAD:${STAGING_TARGET_BRANCH} > /dev/null 2>&1'
 env:
   global:
   - GITHUB_REPO: github.com/rightsstatements/rightsstatements.github.io.git
