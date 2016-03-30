@@ -1,4 +1,5 @@
 name: rightsstatements
+url: http://rightsstatements.org
 markdown: kramdown
 highlighter: rouge
 excerpt_separator: <!--more-->
