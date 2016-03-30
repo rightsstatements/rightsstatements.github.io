@@ -6,7 +6,7 @@ script: jekyll build
 branches:
   only:
   - master
-  - develop
+  - production
 deploy:
   skip_cleanup: true
   provider: script
@@ -14,7 +14,7 @@ deploy:
   on:
     branch:
     - master
-    - develop
+    - production
 env:
   global:
   - GITHUB_REPO=github.com/rightsstatements/rightsstatements.github.io.git
