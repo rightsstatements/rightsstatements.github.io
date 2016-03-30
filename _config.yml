@@ -1,43 +1,13 @@
-# Site settings
-email: your-email@domain.com
-baseurl: ""
-url: "http://rightsstatements.github.io"
-twitter_username: dpla
-github_username:  rightsstatements
-
-# Build settings
+name: rightsstatements
 markdown: kramdown
-
-# Defaults for languages, no need specify them in the
-# front-matter of every file.
+highlighter: rouge
+excerpt_separator: <!--more-->
 defaults:
   -
     scope:
-      path: en
+      path: "en"
     values:
-      lang: en
-  -
-    scope:
-      path: de
-    values:
-      lang: de
-
-# Translations
-
-t:
-  en:
-    title: Your English title
-    description: >
-      Write an awesome description for your new site here.
-      You can use multiple lines.
-  de:
-    title: Dein deutscher Titel
-    description: >
-      Hier gehört eine Beschreibung für die neue Seite hin.
-      Sie kann mehrere Zeilen umfassen.
-
-enabled_languages:
-  - en
-  - de
-
+      lang: "en"
+      iso_name: "English"
 default_language: en
+languages_enables: no

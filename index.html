@@ -8,20 +8,22 @@
     <script language="javascript">
       var user_language = (navigator.language || navigator.userLanguage).split('-')[0];
       var enabled_languages = [];
-      console.log(user_language);
-      {% for enabled_language in site.enabled_languages %}
-        enabled_languages.push("{{ enabled_language }}");
+      {% for default in site.defaults %}
+        {% if default.values.lang == default.scope.path %}
+          enabled_languages.push("{{ default.values.lang }}");
+        {% endif %}
       {% endfor %}
       var default_language = "{{ site.default_language }}";
       if (enabled_languages.indexOf(user_language) != -1) {
-        window.location.href = user_language + '/';
+        window.location.href = "{{ site.baseurl }}/" + user_language + "/";
       } else {
-        window.location.href = default_language + '/';
+        window.location.href = "{{ site.baseurl }}/" + default_language + "/";
       }
     </script>
     <title>Page Redirection</title>
   </head>
   <body>
-    If you are not redirected automatically, please click the link to continue to <a href="{{ site.baseurl }}/en/">{{ site.url }}{{ site.baseurl }}/{{ site.default_language }}/</a>.
+    If you are not redirected automatically, please click the link to continue to
+    <a href="{{ site.baseurl }}/{{ site.default_language }}/">{{ site.baseurl }}/{{ site.default_language }}/</a>.
   </body>
 </html>
