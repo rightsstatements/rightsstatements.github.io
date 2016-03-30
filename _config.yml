@@ -2,6 +2,7 @@ name: rightsstatements
 markdown: kramdown
 highlighter: rouge
 excerpt_separator: <!--more-->
+exclude: [scripts]
 defaults:
   -
     scope:
