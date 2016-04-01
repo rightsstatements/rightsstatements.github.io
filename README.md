@@ -1,6 +1,22 @@
 # rightsstatements.org CMS
 
-This CMS uses [jekyll](https://jekyllrb.com/). No plugins are currently in use, allowing deployment to [GitHub Pages](https://pages.github.com/).
+This CMS uses [Jekyll](https://jekyllrb.com/).
+
+## Deployment
+
+No Jekyll plugins are currently in use, allowing deployment to [GitHub Pages](https://pages.github.com/). Committing or merging into the `master` branch automatically triggers a rebuild of the pages available at http://rightsstatements.github.io/. Committing or merging into either `master` or `production` also triggers a build of the site to be pushed into `master-pages` or `production-pages` respectively. To deploy such a build, you can use the `site.yml` ansible playbook:
+
+    $ git clone https://github.com/rightsstatements/rights-deploy.git
+    $ cd rights-deploy
+    $ ansible-playbook -i {staging|production} -u {user} site.yml
+
+This will install the Apache webserver and configure a virtual host according to the settings defined in the `[site:vars]` section of the inventory file. As is, the inventory files will expose the site on port 8080 and use `master-pages` and `production-pages` for the `staging` and `production` inventories respectively.
+
+Please note that port 8080 is blocked for the outside on our target servers, which makes it necessary to also configure the proxy:
+
+    $ ansible-playbook -i {staging|production} -u {user} proxy.yml
+
+Please also note that it is not necessary to deploy the `master-pages` to the staging server, because the proxy can directly retrieve them from GitHub Pages. To configure this, set `rights_site_server=rightsstatements.github.io` in the inventory file and run the proxy playbook.
 
 ## Editing content
 
