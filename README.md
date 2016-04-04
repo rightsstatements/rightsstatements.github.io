@@ -16,7 +16,7 @@ Please note that port 8080 is blocked for the outside on our target servers, whi
 
     $ ansible-playbook -i {staging|production} -u {user} proxy.yml
 
-Please also note that it is not necessary to deploy the `master-pages` to the staging server, because the proxy can directly retrieve them from GitHub Pages. To configure this, set `rights_site_server=rightsstatements.github.io` in the inventory file and run the proxy playbook.
+Please also note that it is not necessary to deploy the `master-pages` to the staging server, because http://rightsstatements.github.io/ always shows the corresponding build.
 
 ## Editing content
 
