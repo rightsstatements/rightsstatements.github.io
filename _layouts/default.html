@@ -11,18 +11,22 @@
       <link href='{{ site.baseurl }}/css/syntax.css' rel='stylesheet'>
       <link href='{{ site.baseurl }}/css/style.css' rel='stylesheet'>
       <link href='{{ site.baseurl }}/css/fontello.css' rel='stylesheet'>
+      <link href='{{ site.baseurl }}/css/rs.css' rel='stylesheet'>
+
+      <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7018914/6677352/css/fonts.css" />
 
       <script src='{{ site.baseurl }}/js/modernizr.js'></script>
 
     </head>
-    <body>
-      <div class='contain-to-grid sticky'>
+    <body class="page-{{page.path}}">
+      <div class='contain-to-grid sticky header'>
         <nav class='top-bar' data-options='sticky_on: large' data-topbar=''>
           <ul class='title-area'>
             <li class='name'>
               <h1>
-                <img src='{{site.baseurl}}/files/images/logo.png'>
-                <a href='{{site.baseurl}}/{{page.lang}}/'>{{ site.name }}</a>
+                <a href='{{site.baseurl}}/{{page.lang}}/'>
+	                <img src='{{site.baseurl}}/files/images/logo.svg' alt="Rights Statements">
+                </a>
               </h1>
             </li>
             <li class='toggle-topbar menu-icon'>
@@ -70,66 +74,33 @@
         </nav>
       </div>
 
-
       {{ content }}
 
 
-      <div class='footer centered-text'>
-        <div class='spacing'></div>
-        {% if site.languages_enables %}
-          <div class='row'>
-            <p class='light'>This pages is available in the following languages</p>
-            {% if page.id %}
-              {% assign translations = "" | split:"|"  %}
-              {% assign this = page.url | split:'/' | last %}
-              {% for post in site.posts %}
-                {% assign that = post.url | split:'/' | last %}
-                {% if this == that %}
-                  {% assign translations = translations | push: post %}
-                {% endif %}
-              {% endfor %}
-            {% else %}
-              {% assign translations=site.pages | where:"name", page.name %}
-            {% endif %}
-            {% assign translations = translations | sort: 'lang' %}
-            {% for translation in translations %}
-              {% if translation.lang == page.lang %}
-                <span>{% include languages.html lang=translation.lang %}</span>
-              {% else %}
-                <a href='{{ translation.url | prepend: site.baseurl }}' class='{{ translation.lang }}'>
-                  {% include languages.html lang=translation.lang %}
-                </a>
-              {% endif %}
-            {% endfor %}
-          </div>
-        {% endif %}
-        <div class='row'>
-          <div class='large-12 columns'></div>
-          <h1 class='light'>
-            <img src='{{site.baseurl}}/files/images/logo-grey.png'>
-            <br>
-            <div class='spacing'></div>
-            {{ site.name }}
-          </h1>
-          <div class='spacing'></div>
-          <div class='spacing'></div>
-          <div class='socials centered-text'>
-            <a href='#'>
-              <i class='icon-twitter grey'></i>
-            </a>
-            <a href='#'>
-              <i class='icon-facebook grey'></i>
-            </a>
-            <a href='#'>
-              <i class='icon-vimeo grey'></i>
-            </a>
-            <a href='#'>
-              <i class='icon-mail grey'></i>
-            </a>
-          </div>
-          <p class='copyright'>Copyright 2013 Squarebox</p>
-        </div>
+      <div class='footer'>
+
+	      <div class="row">
+		      <div class="negative-margin">
+						<div class="large-8 columns">
+							<p>
+								RightsStatements.org is a project of <a href="http://dp.la">DP.LA</a> and <a href="http://www.europeana.eu">Europeana</a>
+							</p>
+							<p class="small">
+								Except where otherwise noted, content on this site is licensed under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero</a> International license.
+							</p>
+						</div>
+						<div class="large-4 columns">
+							<ul class="right footer-nav">
+								<li><a href="#">Terms of Use</a></li>
+								<li><a href="#">Privacy Policy</a></li>
+								<li><a href="#">Contact</a></li>
+							</ul>
+						</div>
+		      </div>
+	      </div>
+
       </div>
+
 
       <script src='{{ site.baseurl }}/js/jquery.min.js'></script>
       <script src='{{ site.baseurl }}/js/foundation.min.js'></script>

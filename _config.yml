@@ -1,6 +1,8 @@
 name: rightsstatements
 url: http://rightsstatements.org
 markdown: kramdown
+kramdown: 
+  parse_block_html: true
 highlighter: rouge
 excerpt_separator: <!--more-->
 exclude: [scripts]
