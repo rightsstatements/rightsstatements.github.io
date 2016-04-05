@@ -8,7 +8,7 @@ body {
 
 body,
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Gotham";
+	font-family: "Gotham SSm A", "Gotham SSm B";
 	color: #414042;
 }
 
@@ -231,6 +231,10 @@ small,
 	border-bottom-right-radius: 30px;
 	padding: 40px 50px;
 	margin: 60px 0;
+}
+
+.box h1:first-child, .box h2:first-child, .box h3:first-child, .box h4:first-child, .box h5:first-child, .box h6:first-child {
+	margin-top: 0px;
 }
 
 .full.home .box {
