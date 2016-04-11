@@ -1,6 +1,6 @@
 - image: slide-1.jpg
   desc_location: left
   desc:
-    <h2>Rightsstatements.org provides a suite of 11 standardized rights statements for online cultural heritage.</h2>
+    <h2>RightsStatements.org provides 11 standardized rights statements for online cultural heritage.</h2>
     <p>Our rights statements make it easy to see if and how online cultural heritage works can be reused.</p>
-    <p>Find out more about our statements <a href="#">here</a>.</p>
+    <p>Find out more about our statements <a href="/en/statements/">here</a>.</p>
