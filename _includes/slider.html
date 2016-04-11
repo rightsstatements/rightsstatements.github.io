@@ -1,16 +1,17 @@
 <div class="bg-white">
-	<div class="rounded-corners">
-		<ul data-orbit=''>
-		  {% for slide in site.data.slides %}
-		    <li>
-		      <img src="{{site.baseurl}}/files/images/{{slide.image}}" />
-		      <div class='orbit-caption caption-{{ slide.desc_location }}'>
-		        <div class='row rounded-corners'>
-		          {{ slide.desc }}
-		        </div>
-		      </div>
-		    </li>
-		  {% endfor %}
-		</ul>
-	</div>
+  <ul data-orbit=''>
+    {% for slide in site.data.slides %}
+      <li>
+        <div class="rounded-corners">
+          <img src="{{site.baseurl}}/files/images/{{slide.image}}" />
+        </div>
+        <div class='orbit-caption caption-{{ slide.desc_location }}'>
+          <div class='row rounded-corners'>
+            {{ slide.desc }}
+          </div>
+        </div>
+        <div class="caption"><div class="row text-right">{{ slide.title }}</div></div>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
