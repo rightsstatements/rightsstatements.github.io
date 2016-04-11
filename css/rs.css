@@ -26,6 +26,7 @@ h2 {
 	font-size: 32px;
 	font-weight: 200;
 	margin-top: 1.8em;
+	text-transform: none;
 }
 
 h3 {
