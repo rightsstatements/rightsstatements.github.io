@@ -6,9 +6,7 @@ section_id: documentation
 
 # Documentation
 
-<div class="intro">
 Our rights statements have been specifically designed to be used by cultural heritage institutions and cultural heritage aggregation platforms to indicate the copyright status of digital objects that they make available online. They are not intended to be used for other purpose such as licensing works created by individuals. If you are looking for tools to license your own creations for re-use we encourage you to take a look at the [Creative Commons licenses](http://creativecommons.org/licenses/).
-</div>
 
 <div class="box">
 ## White Papers
@@ -18,11 +16,11 @@ You can find more information about the rights statements and about the technial
 
 ## Use by cultural heritage institutions
 
-RightsSstatements.org provides standardized rights statements that can be used by cultural heritage institutions to indicate the copyright status of digital objects that they make available online, either on their own website or via aggregation platforms. 
+RightsStatements.org provides standardized rights statements that can be used by cultural heritage institutions to indicate the copyright status of digital objects that they make available online, either on their own website or via aggregation platforms. 
 
 These rights statements are high level summaries of the underlying rights status of the digital objects that they apply to. By providing a limited number of standardized statements we aim to facilitate the online discovery of cultural heritage objects based on their rights status. **Our rights statements are intended to be used in addition to (more detailed) rights information that institutions already have and not to replace existing information.**
 
-## How to apply the Rights Statements
+### How to apply the Rights Statements
 
 **Note:** Before you apply rights statements to digital objects from your collection please make sure that you are doing so in line with institutional policies, or in agreement with aggregation platforms that that apply to your situation. Often such policies will be more specific than the general information provided below.
 
