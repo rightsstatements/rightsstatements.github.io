@@ -69,7 +69,7 @@
                   </li>
                 {% else %}
                   <li class="{{active_class}}">
-                    <a href="{{site.baseurl}}/{{ page.lang }}{{ item_path }}">{{ item.name }}</a>
+                    <a href="{{ href }}">{{ item.name }}</a>
                   </li>
                 {% endif %}
               {% endfor %}
