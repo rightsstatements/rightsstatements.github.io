@@ -1,0 +1,13 @@
+<div markdown="0">
+{% raw %}
+  {{#id "{% endraw %}{{ include.collection_id }}{% raw %}" data.[@graph]}}
+    {{#member}}
+      {{#id . data.[@graph]}}
+        <h3>{{ prefLabel.[@value] }}</h3>
+        <p>{{ scopeNote.[@value] }}</p>
+        <p>URL: {{a [@id] }}</p>
+      {{/id}}
+    {{/member}}
+  {{/id}}
+{% endraw %}
+</div>
