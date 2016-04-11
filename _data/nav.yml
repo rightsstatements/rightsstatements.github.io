@@ -1,18 +1,18 @@
 - name: Statements
-  path: /statements/
+  path: statements
   section_id: statements
-  children:
-    - name: List of In Copyright statements
-      path: /statements/in_copyright.html
-    - name: List of No Copyright statements
-      path: /statements/no_copyright.html
-    - name: List of other statements
-      path: /statements/other.html
+  # children:
+  #   - name: List of In Copyright statements
+  #     path: /statements/in_copyright.html
+  #   - name: List of No Copyright statements
+  #     path: /statements/no_copyright.html
+  #   - name: List of other statements
+  #     path: /statements/other.html
 - name: About
   path: about.html
   section_id: about
 - name: Documentation
-  path: documentation/
+  path: documentation
   section_id: documentation
   # children:
   #   - name: FAQ
