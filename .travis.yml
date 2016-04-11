@@ -7,6 +7,7 @@ branches:
   only:
   - master
   - production
+  - develop
 deploy:
   skip_cleanup: true
   provider: script
@@ -15,6 +16,7 @@ deploy:
     branch:
     - master
     - production
+    - develop
 env:
   global:
   - GITHUB_REPO=github.com/rightsstatements/rightsstatements.github.io.git

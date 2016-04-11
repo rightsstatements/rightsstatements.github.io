@@ -1,18 +1,18 @@
 - name: Statements
-  path: /statements/
+  path: "http://rights_app_server/vocab/rights_data_version/"
   section_id: statements
   children:
     - name: List of In Copyright statements
-      path: /statements/in_copyright.html
+      path: "http://rights_app_server/vocab/collection-ic/rights_data_version/"
     - name: List of No Copyright statements
-      path: /statements/no_copyright.html
+      path: "http://rights_app_server/vocab/collection-nc/rights_data_version/"
     - name: List of other statements
-      path: /statements/other.html
+      path: "http://rights_app_server/vocab/collection-other/rights_data_version/"
 - name: About
-  path: about.html
+  path: /about.html
   section_id: about
 - name: Documentation
-  path: documentation/
+  path: /documentation/
   section_id: documentation
   # children:
   #   - name: FAQ
@@ -20,5 +20,5 @@
   #   - name: Buttons and other assets
   #     path: /documentation/assets.html
 - name: Get Involved
-  path: get_involved.html
+  path: /get_involved.html
   section_id: get_involved

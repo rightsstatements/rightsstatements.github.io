@@ -41,10 +41,13 @@
                 {% else %}
                   {% assign active_class = "" %}
                 {% endif %}
-                {% if item.path contains "http://" %}
-                  {% capture href %}{{ item.path }}{% endcapture %}
+
+                {% capture item_path %}{{ item.path | replace: 'rights_app_server', site.rights_app_server | replace: 'rights_data_version', site.rights_data_version }}{% endcapture %}
+
+                {% if item_path contains "http://" %}
+                  {% capture href %}{{ item_path }}{% endcapture %}
                 {% else %}
-                  {% capture href %}{{site.baseurl}}/{{ page.lang }}{{ item.path }}{% endcapture %}
+                  {% capture href %}{{site.baseurl}}/{{ page.lang }}{{ item_path }}{% endcapture %}
                 {% endif %}
 
                 {% if item.children %}
@@ -52,10 +55,11 @@
                     <a href="{{ href }}">{{ item.name }}</a>
                     <ul class='dropdown'>
                       {% for child in item.children %}
-                        {% if child.path contains "http://" %}
-                          {% capture child_href %}{{ child.path }}{% endcapture %}
+                        {% capture child_path %}{{ child.path | replace: 'rights_app_server', site.rights_app_server | replace: 'rights_data_version', site.rights_data_version }}{% endcapture %}
+                        {% if child_path contains "http://" %}
+                          {% capture child_href %}{{ child_path }}{% endcapture %}
                         {% else %}
-                          {% capture child_href %}{{ site.baseurl }}/{{ page.lang }}{{ child.path }}{% endcapture %}
+                          {% capture child_href %}{{ site.baseurl }}/{{ page.lang }}{{ child_path }}{% endcapture %}
                         {% endif %}
                         <li>
                           <a href="{{ child_href }}">{{ child.name }}</a>
@@ -65,7 +69,7 @@
                   </li>
                 {% else %}
                   <li class="{{active_class}}">
-                    <a href="{{site.baseurl}}/{{ page.lang }}/{{ item.path }}">{{ item.name }}</a>
+                    <a href="{{site.baseurl}}/{{ page.lang }}{{ item_path }}">{{ item.name }}</a>
                   </li>
                 {% endif %}
               {% endfor %}
