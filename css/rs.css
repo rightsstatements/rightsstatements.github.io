@@ -117,6 +117,14 @@ small,
 }
 */
 
+.header:before, .header:after {
+  content: " ";
+  display: table;
+}
+
+.header:after {
+  clear: both;
+}
 .top-bar .name h1 {
   width: 355px;
 }
