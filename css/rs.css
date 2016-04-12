@@ -196,6 +196,12 @@ small,
 
 /* --- slide show --- */
 
+@media screen and (max-width: 932px) {
+  .orbit-container {
+    display: none;
+  }
+}
+
 .orbit-container {
   background: white;
 }
