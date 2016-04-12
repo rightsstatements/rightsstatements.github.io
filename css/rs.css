@@ -313,3 +313,8 @@ small,
 .statement-box h3 {
   text-align: left;
 }
+
+.statement-iconcolumn > img {
+  width: 100%;
+  height: 50px;
+}
