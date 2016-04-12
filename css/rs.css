@@ -117,6 +117,14 @@ small,
 }
 */
 
+.header:before, .header:after {
+  content: " ";
+  display: table;
+}
+
+.header:after {
+  clear: both;
+}
 .top-bar .name h1 {
   width: 355px;
 }
@@ -187,6 +195,12 @@ small,
 
 
 /* --- slide show --- */
+
+@media screen and (max-width: 932px) {
+  .orbit-container {
+    display: none;
+  }
+}
 
 .orbit-container {
   background: white;
