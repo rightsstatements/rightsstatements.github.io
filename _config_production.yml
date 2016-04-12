@@ -1,0 +1,19 @@
+name: rightsstatements
+url: http://rightsstatements.org
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+highlighter: rouge
+excerpt_separator: <!--more-->
+exclude: [scripts]
+defaults:
+  -
+    scope:
+      path: "en"
+    values:
+      lang: "en"
+      iso_name: "English"
+default_language: en
+languages_enables: no
+rights_app_server: rightsstatements.org
+rights_data_version: 1.0

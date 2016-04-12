@@ -1,6 +1,12 @@
 - image: slide-1.jpg
   desc_location: left
+  title: <a href="http://dp.la/item/c5b87d8f1cc44cc2765345ccafbb7a5b">Mt. Mitchell Station, Mt. Mitchell, N.C.</a>
   desc:
-    <h2>Rightsstatements.org provides a suite of 11 standardized rights statements for online cultural heritage.</h2>
+    <h2>RightsStatements.org provides 11 standardized rights statements for online cultural heritage.</h2>
     <p>Our rights statements make it easy to see if and how online cultural heritage works can be reused.</p>
-    <p>Find out more about our statements <a href="#">here</a>.</p>
+- image: slide-2.jpg
+  desc_location: left
+  title: <a href="http://www.europeana.eu/portal/record/2020601/attachments_149982_6103_149982_original_149982_jpg.html#">Postcard from Vienna (Luigi Meula) CC-BY-SA</a>
+  desc:
+    <h2>RightsStatements.org provides 11 standardized rights statements for online cultural heritage.</h2>
+    <p>Our rights statements make it easy to see if and how online cultural heritage works can be reused.</p>

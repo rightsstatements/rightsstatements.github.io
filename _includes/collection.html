@@ -1,0 +1,24 @@
+<div markdown="0">
+{% raw %}
+  {{#id "{% endraw %}{{ include.collection_id }}{% raw %}" data.[@graph]}}
+    {{#member}}
+      <div class="statement-box">
+        <div class="row">
+          {{#id . data.[@graph]}}
+            <div class="large-4 columns">
+              <div class="statement-iconcolumn">
+                <img src="/files/icons/{{ identifier }}.white.svg" title="{{ prefLabel.[@value] }}" />
+              </div>
+            </div>
+            <div class="large-8 columns">
+              <h3>{{ prefLabel.[@value] }}</h3>
+              <p>{{ scopeNote.[@value] }}</p>
+              <p>URI: {{a [@id] }}</p>
+            </div>
+          {{/id}}
+        </div>
+      </div>
+    {{/member}}
+  {{/id}}
+{% endraw %}
+</div>

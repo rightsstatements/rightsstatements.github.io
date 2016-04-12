@@ -1,3 +1,5 @@
+---
+---
 // Foundation JavaScript
 // Documentation can be found at: http://foundation.zurb.com/docs
 $(document).foundation();
@@ -67,6 +69,12 @@ $(document).foundation();
       return false;
     });
 
+    var url = location.protocol + '//' + location.hostname + (location.port ? ':' + location.port : '');
+    if ("http://rightsstatements.org".lastIndexOf(url) != 0) {
+      $('body').children('div').first().prepend(
+        $('<div data-alert class="alert-box warning row centered-text">You are seeing a preview of this page. To visit the currently published version, click <a href="http://rightsstatements.org' + location.pathname +'">here</a>.<a href="#" class="close">&times;</a></div>')
+      ).foundation();
+    }
 
   });
 })(jQuery);

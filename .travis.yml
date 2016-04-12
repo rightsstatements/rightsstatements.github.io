@@ -2,11 +2,12 @@ language: ruby
 rvm:
 - 2.1
 install: gem install jekyll
-script: jekyll build
+script: "[ -e _config_${TRAVIS_BRANCH}.yml ] && jekyll build --config _config_${TRAVIS_BRANCH}.yml || jekyll build"
 branches:
   only:
   - master
   - production
+  - develop
 deploy:
   skip_cleanup: true
   provider: script
@@ -15,6 +16,7 @@ deploy:
     branch:
     - master
     - production
+    - develop
 env:
   global:
   - GITHUB_REPO=github.com/rightsstatements/rightsstatements.github.io.git

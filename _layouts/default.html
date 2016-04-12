@@ -6,22 +6,27 @@
       <title>{{ page.title }}</title>
       <meta content='width=device-width, initial-scale=1.0' name='viewport'>
       <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-      <link href='{{ site.baseurl }}/css/framework.css' rel='stylesheet'>
-      <link href='{{ site.baseurl }}/css/syntax.css' rel='stylesheet'>
-      <link href='{{ site.baseurl }}/css/style.css' rel='stylesheet'>
-      <link href='{{ site.baseurl }}/css/fontello.css' rel='stylesheet'>
+      <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html',''}}">
+      <link href='{{ site.url }}{{ site.baseurl }}/css/framework.css' rel='stylesheet'>
+      <link href='{{ site.url }}{{ site.baseurl }}/css/syntax.css' rel='stylesheet'>
+      <link href='{{ site.url }}{{ site.baseurl }}/css/style.css' rel='stylesheet'>
+      <link href='{{ site.url }}{{ site.baseurl }}/css/fontello.css' rel='stylesheet'>
+      <link href='{{ site.url }}{{ site.baseurl }}/css/rs.css' rel='stylesheet'>
 
-      <script src='{{ site.baseurl }}/js/modernizr.js'></script>
+      <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7018914/6677352/css/fonts.css" />
+
+      <script src='{{ site.url }}{{ site.baseurl }}/js/modernizr.js'></script>
 
     </head>
-    <body>
-      <div class='contain-to-grid sticky'>
+    <body class="page-{{page.path}}">
+      <div class='contain-to-grid sticky header'>
         <nav class='top-bar' data-options='sticky_on: large' data-topbar=''>
           <ul class='title-area'>
             <li class='name'>
               <h1>
-                <img src='{{site.baseurl}}/images/logo.png'>
-                <a href='{{site.baseurl}}/{{page.lang}}/'>{{ site.name }}</a>
+                <a href='{{ site.url }}{{ site.baseurl }}/{{page.lang}}/'>
+	                <img src='{{ site.url }}{{ site.baseurl }}/files/images/logo.svg' alt="Rights Statements">
+                </a>
               </h1>
             </li>
             <li class='toggle-topbar menu-icon'>
@@ -36,10 +41,13 @@
                 {% else %}
                   {% assign active_class = "" %}
                 {% endif %}
-                {% if item.path contains "http://" %}
-                  {% capture href %}{{ item.path }}{% endcapture %}
+
+                {% capture item_path %}{{ item.path | replace: 'rights_app_server', site.rights_app_server | replace: 'rights_data_version', site.rights_data_version }}{% endcapture %}
+
+                {% if item_path contains "http://" %}
+                  {% capture href %}{{ item_path }}{% endcapture %}
                 {% else %}
-                  {% capture href %}{{site.baseurl}}/{{ page.lang }}{{ item.path }}{% endcapture %}
+                  {% capture href %}{{ site.url }}{{ site.baseurl }}/{{ page.lang }}{{ item_path }}{% endcapture %}
                 {% endif %}
 
                 {% if item.children %}
@@ -47,10 +55,11 @@
                     <a href="{{ href }}">{{ item.name }}</a>
                     <ul class='dropdown'>
                       {% for child in item.children %}
-                        {% if child.path contains "http://" %}
-                          {% capture child_href %}{{ child.path }}{% endcapture %}
+                        {% capture child_path %}{{ child.path | replace: 'rights_app_server', site.rights_app_server | replace: 'rights_data_version', site.rights_data_version }}{% endcapture %}
+                        {% if child_path contains "http://" %}
+                          {% capture child_href %}{{ child_path }}{% endcapture %}
                         {% else %}
-                          {% capture child_href %}{{ site.baseurl }}/{{ page.lang }}{{ child.path }}{% endcapture %}
+                          {% capture child_href %}{{ site.url }}{{ site.baseurl }}/{{ page.lang }}{{ child_path }}{% endcapture %}
                         {% endif %}
                         <li>
                           <a href="{{ child_href }}">{{ child.name }}</a>
@@ -60,7 +69,7 @@
                   </li>
                 {% else %}
                   <li class="{{active_class}}">
-                    <a href="{{site.baseurl}}/{{ page.lang }}/{{ item.path }}">{{ item.name }}</a>
+                    <a href="{{ href }}">{{ item.name }}</a>
                   </li>
                 {% endif %}
               {% endfor %}
@@ -69,71 +78,40 @@
         </nav>
       </div>
 
-
       {{ content }}
 
 
-      <div class='footer centered-text'>
-        <div class='spacing'></div>
-        {% if site.languages_enables %}
-          <div class='row'>
-            <p class='light'>This pages is available in the following languages</p>
-            {% if page.id %}
-              {% assign translations = "" | split:"|"  %}
-              {% assign this = page.url | split:'/' | last %}
-              {% for post in site.posts %}
-                {% assign that = post.url | split:'/' | last %}
-                {% if this == that %}
-                  {% assign translations = translations | push: post %}
-                {% endif %}
-              {% endfor %}
-            {% else %}
-              {% assign translations=site.pages | where:"name", page.name %}
-            {% endif %}
-            {% assign translations = translations | sort: 'lang' %}
-            {% for translation in translations %}
-              {% if translation.lang == page.lang %}
-                <span>{% include languages.html lang=translation.lang %}</span>
-              {% else %}
-                <a href='{{ translation.url | prepend: site.baseurl }}' class='{{ translation.lang }}'>
-                  {% include languages.html lang=translation.lang %}
-                </a>
-              {% endif %}
-            {% endfor %}
-          </div>
-        {% endif %}
-        <div class='row'>
-          <div class='large-12 columns'></div>
-          <h1 class='light'>
-            <img src='{{site.baseurl}}/images/logo-grey.png'>
-            <br>
-            <div class='spacing'></div>
-            {{ site.name }}
-          </h1>
-          <div class='spacing'></div>
-          <div class='spacing'></div>
-          <div class='socials centered-text'>
-            <a href='#'>
-              <i class='icon-twitter grey'></i>
-            </a>
-            <a href='#'>
-              <i class='icon-facebook grey'></i>
-            </a>
-            <a href='#'>
-              <i class='icon-vimeo grey'></i>
-            </a>
-            <a href='#'>
-              <i class='icon-mail grey'></i>
-            </a>
-          </div>
-          <p class='copyright'>Copyright 2013 Squarebox</p>
-        </div>
+      <div class='footer'>
+
+	      <div class="row">
+		      <div class="negative-margin">
+						<div class="large-8 columns">
+							<p>
+								RightsStatements.org is a project of <a href="http://dp.la">DPLA</a> and <a href="http://www.europeana.eu">Europeana</a>
+							</p>
+							<p class="small">
+								Except where otherwise noted, content on this site is licensed under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 Public Domain Dedication</a>.
+							</p>
+						</div>
+						<div class="large-4 columns">
+							<ul class="right footer-nav">
+<!--
+								<li><a href="#">Terms of Use</a></li>
+								<li><a href="#">Privacy Policy</a></li>
+-->
+								<li><a href="/en/get_involved.html">Contact</a></li>
+							</ul>
+						</div>
+		      </div>
+	      </div>
+
       </div>
 
-      <script src='{{ site.baseurl }}/js/jquery.min.js'></script>
-      <script src='{{ site.baseurl }}/js/foundation.min.js'></script>
-      <script src='{{ site.baseurl }}/js/jquery.countTo.js'></script>
-      <script src='{{ site.baseurl }}/js/jquery.appear.js'></script>
-      <script src='{{ site.baseurl }}/js/app.js'></script>
+
+      <script src='{{ site.url }}{{ site.baseurl }}/js/jquery.min.js'></script>
+      <script src='{{ site.url }}{{ site.baseurl }}/js/foundation.min.js'></script>
+      <script src='{{ site.url }}{{ site.baseurl }}/js/jquery.countTo.js'></script>
+      <script src='{{ site.url }}{{ site.baseurl }}/js/jquery.appear.js'></script>
+      <script src='{{ site.url }}{{ site.baseurl }}/js/app.js'></script>
     </body>
 </html>

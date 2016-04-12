@@ -1,14 +1,18 @@
-<ul data-orbit=''>
-  {% for slide in site.data.slides %}
-    <li>
-      <img src="{{site.baseurl}}/images/{{slide.image}}" />
-      <div class='orbit-caption caption-{{ slide.desc_location }}'>
-        <div class='row'>
-          <div class='large-12 columns right'>
+<div class="bg-white">
+  <ul data-orbit=''>
+    {% for slide in site.data.slides %}
+      <li>
+        <div class="rounded-corners">
+          <img src="{{ site.url }}{{ site.baseurl }}/files/images/{{slide.image}}" />
+        </div>
+        <div class='orbit-caption caption-{{ slide.desc_location }}'>
+          <div class='row rounded-corners'>
             {{ slide.desc }}
+            <p>Find out more about our statements <a href="http://{{ site.rights_app_server }}/vocab/{{ site.rights_data_version }}/">here</a>.</p>
           </div>
         </div>
-      </div>
-    </li>
-  {% endfor %}
-</ul>
+        <div class="caption"><div class="row text-right">{{ slide.title }}</div></div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

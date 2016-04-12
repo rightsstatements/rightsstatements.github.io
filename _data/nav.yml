@@ -1,46 +1,24 @@
 - name: Statements
-  path: /statements/
+  path: "http://rights_app_server/vocab/rights_data_version/"
   section_id: statements
-  children:
-    - name: List of In Copyright statements
-      path: /statements/in_copyright.html
-    - name: List of No Copyright statements
-      path: /statements/no_copyright.html
-    - name: List of other statements
-      path: /statements/other.html
-    - name: In Copyright
-      path: "http://rights-stg.rightsstatements.org/vocab/InC/1.0/"
-    - name: In Copyright - EU Orphan Work
-      path: "http://rights-stg.rightsstatements.org/vocab/InC-OW-EU/1.0/"
-    - name: In Copyright - Rights-holder(s) Unlocatable or Unidentifiable
-      path: "http://rights-stg.rightsstatements.org/vocab/InC-RUU/1.0/"
-    - name: In Copyright - Educational Use Permitted
-      path: "http://rights-stg.rightsstatements.org/vocab/InC-EDU/1.0/"
-    - name: In Copyright - Non-Commercial Use Permitted
-      path: "http://rights-stg.rightsstatements.org/vocab/InC-NC/1.0/"
-    - name: No Copyright - Non-Commercial Use Only
-      path: "http://rights-stg.rightsstatements.org/vocab/NoC-NC/1.0/"
-    - name: No Copyright - Contractual Restrictions
-      path: "http://rights-stg.rightsstatements.org/vocab/NoC-CR/1.0/"
-    - name: No Copyright - Other Known Legal Restrictions
-      path: "http://rights-stg.rightsstatements.org/vocab/NoC-OKLR/1.0/"
-    - name: No Copyright - United States
-      path: "http://rights-stg.rightsstatements.org/vocab/NoC-US/1.0/"
-    - name: No Known Copyright
-      path: "http://rights-stg.rightsstatements.org/vocab/NKC/1.0/"
-    - name: Copyright Not Evaluated
-      path: "http://rights-stg.rightsstatements.org/vocab/CNE/1.0/"
+  # children:
+  #  - name: List of In Copyright statements
+  #    path: "http://rights_app_server/vocab/collection-ic/rights_data_version/"
+  #  - name: List of No Copyright statements
+  #    path: "http://rights_app_server/vocab/collection-nc/rights_data_version/"
+  #  - name: List of other statements
+  #    path: "http://rights_app_server/vocab/collection-other/rights_data_version/"
 - name: About
-  path: about.html
+  path: /about.html
   section_id: about
 - name: Documentation
   path: /documentation/
   section_id: documentation
-  children:
-    - name: FAQ
-      path: /documentation/faq.html
-    - name: Buttons and other assets
-      path: /documentation/assets.html
+  # children:
+  #   - name: FAQ
+  #     path: /documentation/faq.html
+  #   - name: Buttons and other assets
+  #     path: /documentation/assets.html
 - name: Get Involved
-  path: get_involved.html
+  path: /get_involved.html
   section_id: get_involved
