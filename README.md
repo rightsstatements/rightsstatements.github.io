@@ -64,8 +64,8 @@ Then, click on "Upload files":
 
 When done adding files, again commit them to the `master` branch and create a pull request as described above. To reference an asset from a page, take a note of the file name and create a link or embed an image like so:
 
-    [Link caption]({{ site.baseurl }}/files/document.pdf)
-    ![Image text]({{ site.baseurl }}/files/images/picture.png)
+    [Link caption]({{ site.url }}{{ site.baseurl }}/files/document.pdf)
+    ![Image text]({{ site.url }}{{ site.baseurl }}/files/images/picture.png)
 
 ## Managing the menu structure
 

@@ -7,15 +7,15 @@
       <meta content='width=device-width, initial-scale=1.0' name='viewport'>
       <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
       <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html',''}}">
-      <link href='{{ site.baseurl }}/css/framework.css' rel='stylesheet'>
-      <link href='{{ site.baseurl }}/css/syntax.css' rel='stylesheet'>
-      <link href='{{ site.baseurl }}/css/style.css' rel='stylesheet'>
-      <link href='{{ site.baseurl }}/css/fontello.css' rel='stylesheet'>
-      <link href='{{ site.baseurl }}/css/rs.css' rel='stylesheet'>
+      <link href='{{ site.url }}{{ site.baseurl }}/css/framework.css' rel='stylesheet'>
+      <link href='{{ site.url }}{{ site.baseurl }}/css/syntax.css' rel='stylesheet'>
+      <link href='{{ site.url }}{{ site.baseurl }}/css/style.css' rel='stylesheet'>
+      <link href='{{ site.url }}{{ site.baseurl }}/css/fontello.css' rel='stylesheet'>
+      <link href='{{ site.url }}{{ site.baseurl }}/css/rs.css' rel='stylesheet'>
 
       <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7018914/6677352/css/fonts.css" />
 
-      <script src='{{ site.baseurl }}/js/modernizr.js'></script>
+      <script src='{{ site.url }}{{ site.baseurl }}/js/modernizr.js'></script>
 
     </head>
     <body class="page-{{page.path}}">
@@ -24,8 +24,8 @@
           <ul class='title-area'>
             <li class='name'>
               <h1>
-                <a href='{{site.baseurl}}/{{page.lang}}/'>
-	                <img src='{{site.baseurl}}/files/images/logo.svg' alt="Rights Statements">
+                <a href='{{ site.url }}{{ site.baseurl }}/{{page.lang}}/'>
+	                <img src='{{ site.url }}{{ site.baseurl }}/files/images/logo.svg' alt="Rights Statements">
                 </a>
               </h1>
             </li>
@@ -47,7 +47,7 @@
                 {% if item_path contains "http://" %}
                   {% capture href %}{{ item_path }}{% endcapture %}
                 {% else %}
-                  {% capture href %}{{site.baseurl}}/{{ page.lang }}{{ item_path }}{% endcapture %}
+                  {% capture href %}{{ site.url }}{{ site.baseurl }}/{{ page.lang }}{{ item_path }}{% endcapture %}
                 {% endif %}
 
                 {% if item.children %}
@@ -59,7 +59,7 @@
                         {% if child_path contains "http://" %}
                           {% capture child_href %}{{ child_path }}{% endcapture %}
                         {% else %}
-                          {% capture child_href %}{{ site.baseurl }}/{{ page.lang }}{{ child_path }}{% endcapture %}
+                          {% capture child_href %}{{ site.url }}{{ site.baseurl }}/{{ page.lang }}{{ child_path }}{% endcapture %}
                         {% endif %}
                         <li>
                           <a href="{{ child_href }}">{{ child.name }}</a>
@@ -108,10 +108,10 @@
       </div>
 
 
-      <script src='{{ site.baseurl }}/js/jquery.min.js'></script>
-      <script src='{{ site.baseurl }}/js/foundation.min.js'></script>
-      <script src='{{ site.baseurl }}/js/jquery.countTo.js'></script>
-      <script src='{{ site.baseurl }}/js/jquery.appear.js'></script>
-      <script src='{{ site.baseurl }}/js/app.js'></script>
+      <script src='{{ site.url }}{{ site.baseurl }}/js/jquery.min.js'></script>
+      <script src='{{ site.url }}{{ site.baseurl }}/js/foundation.min.js'></script>
+      <script src='{{ site.url }}{{ site.baseurl }}/js/jquery.countTo.js'></script>
+      <script src='{{ site.url }}{{ site.baseurl }}/js/jquery.appear.js'></script>
+      <script src='{{ site.url }}{{ site.baseurl }}/js/app.js'></script>
     </body>
 </html>
