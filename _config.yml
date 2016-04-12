@@ -1,5 +1,5 @@
 name: rightsstatements
-url: http://rightsstatements.org
+url: http://rightsstatements.github.io
 markdown: kramdown
 kramdown:
   parse_block_html: true
@@ -15,5 +15,5 @@ defaults:
       iso_name: "English"
 default_language: en
 languages_enables: no
-rights_app_server: rightsstatements.org
+rights_app_server: rights-stg.rightsstatements.org
 rights_data_version: 1.0
