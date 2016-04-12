@@ -2,7 +2,7 @@ language: ruby
 rvm:
 - 2.1
 install: gem install jekyll
-script: [ -e _config_${TRAVIS_BRANCH}.yml ] && jekyll build --config _config_${TRAVIS_BRANCH}.yml || jekyll build
+script: "[ -e _config_${TRAVIS_BRANCH}.yml ] && jekyll build --config _config_${TRAVIS_BRANCH}.yml || jekyll build"
 branches:
   only:
   - master
