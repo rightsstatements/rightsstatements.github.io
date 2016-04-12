@@ -1,5 +1,5 @@
 name: rightsstatements
-url: h2481931.stratoserver.net:4000
+url: http://h2481931.stratoserver.net:4000
 markdown: kramdown
 kramdown:
   parse_block_html: true
