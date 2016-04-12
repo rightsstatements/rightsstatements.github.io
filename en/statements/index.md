@@ -17,21 +17,21 @@ The rights statements have been specifically developed for the needs of cultural
   <div class="large-4 columns">
     <div class="statements-category-teaser">
        <h3>In Copyright</h3>
-       <img src="/files/icons/InC.Solo.dark-white-interior.svg" />
+       <img src="/files/icons/InC.Icon-Only.dark.svg" />
        <p>Statements for works that are in copyright</p>
     </div>
   </div>
   <div class="large-4 columns">
     <div class="statements-category-teaser">
        <h3>No Copyright</h3>
-       <img src="/files/icons/NoC.Solo.dark-white-interior.svg" />
+       <img src="/files/icons/NoC.Icon-Only.dark.svg" />
        <p>Statements for works that are not in copyright</p>
     </div>
   </div>
   <div class="large-4 columns">
     <div class="statements-category-teaser">
        <h3>Other</h3>
-       <img src="/files/icons/Other.Solo.dark-white-interior.svg" />
+       <img src="/files/icons/Other.Icon-Only.dark.svg" />
        <p>Statements for works where the copyright status is unclear</p>
     </div>
   </div>
