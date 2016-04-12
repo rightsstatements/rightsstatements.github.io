@@ -31,7 +31,7 @@ We recommend that institutions that are using the statements provided by RightsS
 When publishing the digital object online the name of the rights statement together with a link to the URI of the rights statement should be displayed in close proximity to the object. Users or software agents that want to obtain more information about the rights status of the digital object can follow the link. Based on the preference of the client accessing this URI, our service provides either a human readable version of the statement or machine readable data that describes it.
 
 <div class="box">
-## Creative Commons Licenses and Legal tools
+## Creative Commons Licenses and Legal Tools
 Our rights statements have been developed to be used alongside the Licenses and Public Domain Tools provided by Creative Commons. Our rights statements can be applied in situations where the Creative Commons tools and licenses cannot be used.
 
 Works that are known to be free from copyright and related works across the globe should be labelled with the [Creative Commons Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/). Works that for which the institution publishing the work is the sole rights holder and intends to make them available for re-use should be labelled with one of [the six Creative Commons licenses](https://creativecommons.org/licenses/) or with the [CC0 Public Domain dedication](https://creativecommons.org/publicdomain/zero/1.0/). 
