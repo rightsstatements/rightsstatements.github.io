@@ -44,7 +44,7 @@
 
                 {% capture item_path %}{{ item.path | replace: 'rights_app_server', site.rights_app_server | replace: 'rights_data_version', site.rights_data_version }}{% endcapture %}
 
-                {% if item_path contains "http://" %}
+                {% if item_path contains "//" %}
                   {% capture href %}{{ item_path }}{% endcapture %}
                 {% else %}
                   {% capture href %}{{ site.url }}{{ site.baseurl }}/{{ page.lang }}{{ item_path }}{% endcapture %}
@@ -56,7 +56,7 @@
                     <ul class='dropdown'>
                       {% for child in item.children %}
                         {% capture child_path %}{{ child.path | replace: 'rights_app_server', site.rights_app_server | replace: 'rights_data_version', site.rights_data_version }}{% endcapture %}
-                        {% if child_path contains "http://" %}
+                        {% if child_path contains "//" %}
                           {% capture child_href %}{{ child_path }}{% endcapture %}
                         {% else %}
                           {% capture child_href %}{{ site.url }}{{ site.baseurl }}/{{ page.lang }}{{ child_path }}{% endcapture %}
