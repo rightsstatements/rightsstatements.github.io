@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements
 section_id: statements
+alias: /vocab/
 ---
 
 # Rights statements 

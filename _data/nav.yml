@@ -1,13 +1,13 @@
 - name: Statements
-  path: "http://rights_app_server/vocab/rights_data_version/"
+  path: "rights_app_server/vocab/rights_data_version/"
   section_id: statements
   # children:
   #  - name: List of In Copyright statements
-  #    path: "http://rights_app_server/vocab/collection-ic/rights_data_version/"
+  #    path: "rights_app_server/vocab/collection-ic/rights_data_version/"
   #  - name: List of No Copyright statements
-  #    path: "http://rights_app_server/vocab/collection-nc/rights_data_version/"
+  #    path: "rights_app_server/vocab/collection-nc/rights_data_version/"
   #  - name: List of other statements
-  #    path: "http://rights_app_server/vocab/collection-other/rights_data_version/"
+  #    path: "rights_app_server/vocab/collection-other/rights_data_version/"
 - name: About
   path: /about.html
   section_id: about
