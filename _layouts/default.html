@@ -6,7 +6,12 @@
       <title>{{ page.title }}</title>
       <meta content='width=device-width, initial-scale=1.0' name='viewport'>
       <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-      <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html',''}}">
+
+      {% if page.alias %}
+      <link rel="canonical" href="{{ site.canonical_url }}{{ page.alias }}{{ site.rights_data_version }}/">
+      {% else %}
+      <link rel="canonical" href="{{ site.canonical_url }}{{ site.baseurl }}{{ page.url | replace:'index.html',''}}">
+      {% endif %}
       <link href='{{ site.url }}{{ site.baseurl }}/css/framework.css' rel='stylesheet'>
       <link href='{{ site.url }}{{ site.baseurl }}/css/syntax.css' rel='stylesheet'>
       <link href='{{ site.url }}{{ site.baseurl }}/css/style.css' rel='stylesheet'>
@@ -18,7 +23,7 @@
       <script src='{{ site.url }}{{ site.baseurl }}/js/modernizr.js'></script>
 
     </head>
-    <body class="page-{{page.path}}">
+    <body>
       <div class='contain-to-grid sticky header'>
         <nav class='top-bar' data-options='sticky_on: large' data-topbar=''>
           <ul class='title-area'>
@@ -44,7 +49,7 @@
 
                 {% capture item_path %}{{ item.path | replace: 'rights_app_server', site.rights_app_server | replace: 'rights_data_version', site.rights_data_version }}{% endcapture %}
 
-                {% if item_path contains "http://" %}
+                {% if item_path contains "//" %}
                   {% capture href %}{{ item_path }}{% endcapture %}
                 {% else %}
                   {% capture href %}{{ site.url }}{{ site.baseurl }}/{{ page.lang }}{{ item_path }}{% endcapture %}
@@ -56,7 +61,7 @@
                     <ul class='dropdown'>
                       {% for child in item.children %}
                         {% capture child_path %}{{ child.path | replace: 'rights_app_server', site.rights_app_server | replace: 'rights_data_version', site.rights_data_version }}{% endcapture %}
-                        {% if child_path contains "http://" %}
+                        {% if child_path contains "//" %}
                           {% capture child_href %}{{ child_path }}{% endcapture %}
                         {% else %}
                           {% capture child_href %}{{ site.url }}{{ site.baseurl }}/{{ page.lang }}{{ child_path }}{% endcapture %}

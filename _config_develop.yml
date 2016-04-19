@@ -1,5 +1,6 @@
 name: rightsstatements
-url: http://h2481931.stratoserver.net:4000
+url: //h2481931.stratoserver.net:4000
+canonical_url: //rightsstatements.org
 markdown: kramdown
 kramdown:
   parse_block_html: true
@@ -15,5 +16,5 @@ defaults:
       iso_name: "English"
 default_language: en
 languages_enables: no
-rights_app_server: h2481931.stratoserver.net:9001
+rights_app_server: //h2481931.stratoserver.net:9001
 rights_data_version: 1.0
