@@ -7,8 +7,7 @@
         </div>
         <div class='orbit-caption caption-{{ slide.desc_location }}'>
           <div class='row rounded-corners'>
-            {{ slide.desc }}
-            <p>Find out more about our statements <a href="{{ site.rights_app_server }}/vocab/{{ site.rights_data_version }}/">here</a>.</p>
+            {{ slide.desc | replace: 'rights_app_server', site.rights_app_server | replace: 'rights_data_version', site.rights_data_version }}
           </div>
         </div>
         <div class="caption"><div class="row text-right">{{ slide.title }}</div></div>
