@@ -5,7 +5,7 @@ section_id: statements
 alias: /vocab/
 ---
 
-# Rights statements 
+# Rights statements
 
 RightsStatements.org currently provides 11 different rights statements that can be used by cultural heritage institutions to communicate the copyright and re-use status of digital objects to the public. The rights statements have been designed with both human users and machine users (such as search engines) in mind and are made available as linked data. Each rights statement is located at a unique URI.
 
@@ -18,21 +18,21 @@ The rights statements have been specifically developed for the needs of cultural
   <div class="large-4 columns">
     <div class="statements-category-teaser">
        <h3>In Copyright</h3>
-       <img src="/files/icons/InC.Icon-Only.dark.svg" />
+       <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
        <p>Statements for works that are in copyright</p>
     </div>
   </div>
   <div class="large-4 columns">
     <div class="statements-category-teaser">
        <h3>No Copyright</h3>
-       <img src="/files/icons/NoC.Icon-Only.dark.svg" />
+       <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
        <p>Statements for works that are not in copyright</p>
     </div>
   </div>
   <div class="large-4 columns">
     <div class="statements-category-teaser">
        <h3>Other</h3>
-       <img src="/files/icons/Other.Icon-Only.dark.svg" />
+       <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
        <p>Statements for works where the copyright status is unclear</p>
     </div>
   </div>
@@ -43,7 +43,7 @@ The rights statements have been specifically developed for the needs of cultural
 
 </div>
 
-## Rights statements for in copyright objects 
+## Rights statements for in copyright objects
 
 The following five rights statements are intended for use with digital objects that are in copyright. If your organization is the rightsholder for such objects and wants to encourage re-use you should consider making the objects available under an open [Creative Commons license](https://creativecommons.org/licenses/).
 
@@ -60,4 +60,3 @@ The following 4 rights statements are intended for works that are not in copyrig
 The following two rights statements are intended for use with digital objects where the copyright status has not been determined with certainty. These should only be used if it is not possible to use a clearer rights statement or license.
 
 {% include collection.html collection_id="http://rightsstatements.org/vocab/collection-other/1.0/" %}
-
