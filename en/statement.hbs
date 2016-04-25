@@ -25,7 +25,7 @@
         <div class="row statement-main">
             <div class="large-4 columns">
                 <div class="statement-iconcolumn">
-                    <img src="{{ site.url }}{{ site.baseurl }}/files/icons/{{ data.identifier }}.white.svg" title="{{ data.prefLabel.[@value] }}" />
+                    <img src="{% endraw %}{{ site.url }}{{ site.baseurl }}{% raw %}/files/icons/{{ data.identifier }}.white.svg" title="{{ data.prefLabel.[@value] }}" />
                 </div>
             </div>
             <div class="large-8 columns">
@@ -55,7 +55,7 @@
                 {{{ i18n "provider" locale=language }}}
             </div>
             <div class="large-3 columns">
-                <img src="{{ site.url }}{{ site.baseurl }}/files/images/logo.svg" />
+                <img src="{% endraw %}{{ site.url }}{{ site.baseurl }}{% raw %}/files/images/logo.svg" />
             </div>
         </div>
     </div>
