@@ -17,23 +17,29 @@ The rights statements have been specifically developed for the needs of cultural
 <div class="row" markdown="0">
   <div class="large-4 columns">
     <div class="statements-category-teaser">
-       <h3>In Copyright</h3>
-       <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
-       <p>Statements for works that are in copyright</p>
+      <a href="#rights-statements-for-in-copyright-objects"><h3>In Copyright</h3></a>
+      <a href="#rights-statements-for-in-copyright-objects">
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
+      </a>
+      <p>Statements for works that are in copyright</p>
     </div>
   </div>
   <div class="large-4 columns">
     <div class="statements-category-teaser">
-       <h3>No Copyright</h3>
-       <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
-       <p>Statements for works that are not in copyright</p>
+      <a href="#rights-statements-for-objects-that-are-not-in-copyright"><h3>No Copyright</h3></a>
+      <a href="#rights-statements-for-objects-that-are-not-in-copyright">
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
+      </a>
+      <p>Statements for works that are not in copyright</p>
     </div>
   </div>
   <div class="large-4 columns">
     <div class="statements-category-teaser">
-       <h3>Other</h3>
-       <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
-       <p>Statements for works where the copyright status is unclear</p>
+      <a href="#other-rights-statements"><h3>Other</h3></a>
+      <a href="#other-rights-statements">
+        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
+      </a>
+      <p>Statements for works where the copyright status is unclear</p>
     </div>
   </div>
 </div>
