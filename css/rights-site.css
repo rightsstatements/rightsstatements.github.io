@@ -2,15 +2,16 @@
 
 body {
   background: #858589;
-  font-size: 18px;
-  line-height: 1.4;
+  font-size: 16px;
+  line-height: 1.5;
+  overflow-x: hidden;
 }
 
 body,
 h1, h2, h3, h4, h5, h6,
 .top-bar-section ul li > a {
-	font-family: "Gotham SSm A", "Gotham SSm B";
-	color: #414042;
+        font-family: "Gotham SSm A", "Gotham SSm B";
+        color: #414042;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,15 +20,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   font-size: 32px;
   margin-top: 1.5em;
 }
 
 h2 {
-	font-size: 32px;
-	font-weight: 200;
-	margin-top: 1.8em;
-	text-transform: none;
+-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+        font-size: 34px;
+        font-weight: 200;
+        margin-top: 1.8em;
+        text-transform: none;
 }
 
 h3 {
@@ -46,9 +51,9 @@ a {
 }
 
 p {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 300;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 p:last-child {
@@ -90,6 +95,7 @@ small,
 .full.home {
   background: white;
   border-top-left-radius: 0px;
+  padding-top: 0px;
 }
 
 .bg-white {
@@ -107,6 +113,15 @@ small,
   margin: 0 -15px;
 }
 
+@media screen and (max-width: 1160px) {
+	.negative-margin {
+	  margin: 0 0;
+	}
+}
+
+.row.column {
+	float: none;
+}
 
 /* --- header --- */
 
@@ -127,6 +142,13 @@ small,
 }
 .top-bar .name h1 {
   width: 355px;
+  padding-left: 20px;
+}
+
+@media screen and (max-width: 480px) {
+	.top-bar .name h1 {
+		width: 250px;
+	}
 }
 
 .top-bar .name h1 a {
@@ -197,9 +219,30 @@ small,
 /* --- slide show --- */
 
 @media screen and (max-width: 932px) {
+/*
   .orbit-container {
     display: none;
   }
+*/
+
+	.orbit-container p {
+		font-size: 13px !important;
+	}
+
+	.orbit-caption h2 {
+	  font-size: 18px !important;
+	}
+
+	.orbit-container .orbit-slides-container li .orbit-caption {
+		top: 20px;
+	}
+}
+
+@media screen and (max-width: 720px) {
+
+	.orbit-caption {
+		display: none;
+	}
 }
 
 .orbit-container {
@@ -229,7 +272,8 @@ small,
 }
 
 .orbit-slides-container .caption {
-  position: relative
+  position: relative;
+  margin-right: 20px;
 }
 
 
@@ -254,7 +298,7 @@ small,
   border-top-left-radius: 30px;
   border-bottom-right-radius: 30px;
   padding: 40px 50px;
-  margin: 60px 0;
+  margin: 60px -50px;
 }
 
 .box h1:first-child, .box h2:first-child, .box h3:first-child, .box h4:first-child, .box h5:first-child, .box h6:first-child {
@@ -263,6 +307,19 @@ small,
 
 .full.home .box {
   background: #f1f2f2;
+}
+
+@media screen and (max-width: 480px) {
+  .box {
+    margin: 20px -50px;
+  }
+  .full {
+    padding: 10px;
+  }
+  .rounded-corners {
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  }
 }
 
 
