@@ -6,7 +6,7 @@
     // Randomize slider images in DOM to obviate patching
     // foundation library.
     var ul = $('ul[data-orbit]')[0];
-    for (var i = ul.children.length; i >= 0; i--) {
+    if (ul) for (var i = ul.children.length; i >= 0; i--) {
         ul.appendChild(ul.children[Math.random() * i | 0]);
     }
 

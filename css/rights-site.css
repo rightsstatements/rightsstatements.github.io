@@ -170,6 +170,12 @@ small,
   z-index: 9;
 }
 
+@media only screen and (min-width: 60em) {
+  .top-bar-section ul li.active > a:after
+    background: #FFFFFF !important;
+  }
+}
+
 .top-bar-section ul li.active > a:after {
   content: '';
   background: #008CC8;
@@ -245,6 +251,13 @@ small,
 	}
 }
 
+@media screen and (max-width: 480px) {
+
+	.orbit-container {
+		display: none;
+	}
+}
+
 .orbit-container {
   background: white;
 }
@@ -309,7 +322,7 @@ small,
   background: #f1f2f2;
 }
 
-@media screen and (max-width: 480px) {
+@media only screen and (max-width: 60em) {
   .box {
     margin: 20px -50px;
   }
