@@ -15,7 +15,7 @@ The rights statements have been specifically developed for the needs of cultural
 ## Three Categories of Rights Statements
 
 <div class="row" markdown="0">
-  <div class="large-4 columns">
+  <div class="medium-4 columns">
     <div class="statements-category-teaser">
       <a href="#rights-statements-for-in-copyright-objects"><h3>In Copyright</h3></a>
       <a href="#rights-statements-for-in-copyright-objects">
@@ -24,7 +24,7 @@ The rights statements have been specifically developed for the needs of cultural
       <p>Statements for works that are in copyright</p>
     </div>
   </div>
-  <div class="large-4 columns">
+  <div class="medium-4 columns">
     <div class="statements-category-teaser">
       <a href="#rights-statements-for-objects-that-are-not-in-copyright"><h3>No Copyright</h3></a>
       <a href="#rights-statements-for-objects-that-are-not-in-copyright">
@@ -33,7 +33,7 @@ The rights statements have been specifically developed for the needs of cultural
       <p>Statements for works that are not in copyright</p>
     </div>
   </div>
-  <div class="large-4 columns">
+  <div class="medium-4 columns">
     <div class="statements-category-teaser">
       <a href="#other-rights-statements"><h3>Other</h3></a>
       <a href="#other-rights-statements">
