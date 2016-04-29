@@ -407,10 +407,28 @@ small,
 }
 
 .statement-iconcolumn > img {
-  width: 100%;
   height: 50px;
 }
 
 .statement-box a {
   word-wrap: break-word;
+}
+
+/* --- buttons and other assets --- */
+
+.statement-button {
+  background-color: #f1f2f2;
+  margin: 20px;
+  padding: 20px;
+}
+
+.statement-button h4 {
+  padding-top: 20px;
+  margin-bottom: 0px;
+  text-align: left;
+  color: #858589;
+}
+
+.statement-button img {
+  height: 50px;
 }
