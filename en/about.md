@@ -32,6 +32,35 @@ The basic principles and the technical infrastructure of RightsStatements.org ha
 [![Kennisland](/files/images/kennisland-logo.svg)](http://www.kl.nl/)
 </div>
 </div>
+<div class="row centered-text">
+<div class="medium-3 columns">
+&nbsp;
+</div>
+<div class="medium-3 columns">
+[![Bibliothèque nationale de Luxembourg](/files/images/bnl-logo.svg)](http://www.bnl.public.lu/)
+</div>
+<div class="medium-3 columns">
+[![Creative Commons](/files/images/cc-logo.svg)](http://creativecommons.org/)
+</div>
+<div class="medium-3 columns">
+&nbsp;
+</div>
+</div>
+<br/>
+<div class="row centered-text">
+<div class="medium-3 columns">
+&nbsp;
+</div>
+<div class="medium-3 columns">
+[![University of Michigan Library](/files/images/MLibLogo.svg)](http://www.lib.umich.edu/)
+</div>
+<div class="medium-3 columns">
+[![The New York Public Library](/files/images/nypl-logo.svg)](http://nypl.org/)
+</div>
+<div class="medium-3 columns">
+&nbsp;
+</div>
+</div>
 
 ## Financial Support
 
