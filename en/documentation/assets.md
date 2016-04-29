@@ -10,25 +10,27 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 ## Buttons
 
-<div class="box row" markdown="0">
-
-{% for member in site.data.assets %}
-
-<div class="medium-4 columns">
+<div class="box" markdown="0">
   <div class="row">
-    <h3>{{ member.name }}</h3>
-  </div>
-  {% for button in member.buttons %}
-  <div class="row">
-    <div class="statement-button">
-      <img src="{{ site.url }}{{ site.baseurl }}/files/icons/{{ button }}" />
-      <h4>Download</h4>
-      <a href="{{ site.url }}{{ site.baseurl }}/files/icons/{{ button }}">SVG</a>
+  
+  {% for member in site.data.assets %}
+  
+    <div class="medium-4 columns">
+      <div class="row">
+        <h3>{{ member.name }}</h3>
+      </div>
+      {% for button in member.buttons %}
+      <div class="row">
+        <div class="statement-button">
+          <img src="{{ site.url }}{{ site.baseurl }}/files/icons/{{ button }}" />
+          <h4>Download</h4>
+          <a href="{{ site.url }}{{ site.baseurl }}/files/icons/{{ button }}">SVG</a>
+        </div>
+      </div>
+      {% endfor %}
     </div>
-  </div>
+  
   {% endfor %}
-</div>
-
-{% endfor %}
-
+  
+  </div>
 </div>
