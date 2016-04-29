@@ -170,11 +170,6 @@ small,
   z-index: 9;
 }
 
-@media only screen and (min-width: 60em) {
-  .top-bar-section ul li.active > a:after
-    background: #FFFFFF !important;
-  }
-}
 
 .top-bar-section ul li.active > a:after {
   content: '';
@@ -221,6 +216,12 @@ small,
   line-height: 50px;
 }
 
+:target:before {
+  content: "";
+  display: block;
+  height: 140px;
+  margin: -140px 0 0;
+}
 
 /* --- slide show --- */
 
