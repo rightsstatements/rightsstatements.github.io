@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Rights Statements</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.0/foundation.min.css" />
-    <link href='{{ site.url }}{{ site.baseurl }}/css/stmt.css' rel='stylesheet'>
+    <link href='{{ site.url }}{{ site.baseurl }}/css/rights-stmt.css' rel='stylesheet'>
     <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7018914/6677352/css/fonts.css" />
 </head>
 
@@ -22,40 +22,42 @@
     </script>
 
     <div class="row columns statement-container">
-        <div class="row statement-main">
-            <div class="large-4 columns">
-                <div class="statement-iconcolumn">
-                    <img src="/files/icons/{{ data.identifier }}.white.svg" title="{{ data.prefLabel.[@value] }}" />
+        <div class="statement-wrapper">
+            <div class="row statement-main">
+                <div class="large-4 columns">
+                    <div class="statement-iconcolumn">
+                        <img src="{% endraw %}{{ site.url }}{{ site.baseurl }}{% raw %}/files/icons/{{ data.identifier }}.white.svg" title="{{ data.prefLabel.[@value] }}" />
+                    </div>
+                </div>
+                <div class="large-8 columns">
+                    <div class="statement-textcolumn">
+                        <h1>{{ data.prefLabel.[@value] }}</h1>
+                        <p>{{ data.definition.[@value] }}</p>
+                        {{#parameters.date}}
+                            <p>{{i18n data.identifier . locale=language}}</p>
+                        {{/parameters.date}}
+
+                        {{#parameters.relatedURL}}
+                            <p>{{{i18n data.identifier . locale=language}}}</p>
+                        {{/parameters.relatedURL}}
+                        <h2>{{i18n "notices" locale=language}}</h2>
+                        <ul>
+                            {{#sort data.note direction="asc"}}
+                                <li><span>{{ [@value] }}</span></li>
+                            {{/sort}}
+                        </ul>
+                        <p class="disclaimer">{{{i18n "Disclaimer" locale=language}}}</p>
+                    </div>
                 </div>
             </div>
-            <div class="large-8 columns">
-                <div class="statement-textcolumn">
-                    <h1>{{ data.prefLabel.[@value] }}</h1>
-                    <p>{{ data.definition.[@value] }}</p>
-                    {{#parameters.date}}
-                        <p>{{i18n data.identifier . locale=language}}</p>
-                    {{/parameters.date}}
 
-                    {{#parameters.relatedURL}}
-                        <p>{{{i18n data.identifier . locale=language}}}</p>
-                    {{/parameters.relatedURL}}
-                    <h2>{{i18n "notices" locale=language}}</h2>
-                    <ul>
-                        {{#sort data.note direction="asc"}}
-                            <li><span>{{ [@value] }}</span></li>
-                        {{/sort}}
-                    </ul>
-                    <p class="disclaimer">{{{i18n "Disclaimer" locale=language}}}</p>
+            <div class="row footer">
+                <div class="large-9 columns">
+                    {{{ i18n "provider" locale=language }}}
                 </div>
-            </div>
-        </div>
-
-        <div class="row footer">
-            <div class="large-9 columns">
-                {{{ i18n "provider" locale=language }}}
-            </div>
-            <div class="large-3 columns">
-                <img src="/files/images/logo.svg" />
+                <div class="large-3 columns">
+                    <img src="{% endraw %}{{ site.url }}{{ site.baseurl }}{% raw %}/files/images/logo.svg" />
+                </div>
             </div>
         </div>
     </div>

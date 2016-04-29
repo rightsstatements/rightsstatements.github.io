@@ -14,11 +14,13 @@
 - name: Documentation
   path: /documentation/
   section_id: documentation
-  # children:
+  children:
   #   - name: FAQ
   #     path: /documentation/faq.html
-  #   - name: Buttons and other assets
-  #     path: /documentation/assets.html
+    - name: Documentation
+      path: /documentation/
+    - name: Buttons and other assets
+      path: /documentation/assets.html
 - name: Get Involved
   path: /get_involved.html
   section_id: get_involved

@@ -1,12 +1,14 @@
 ---
 ---
-// Foundation JavaScript
-// Documentation can be found at: http://foundation.zurb.com/docs
-$(document).foundation();
-
-
 (function($) {
   $(document).ready(function() {
+
+    // Randomize slider images in DOM to obviate patching
+    // foundation library.
+    var ul = $('ul[data-orbit]')[0];
+    if (ul) for (var i = ul.children.length; i >= 0; i--) {
+        ul.appendChild(ul.children[Math.random() * i | 0]);
+    }
 
     $('.milestone strong').appear(function() {
       $(this).countTo(100);
@@ -73,8 +75,12 @@ $(document).foundation();
     if ("http://rightsstatements.org".lastIndexOf(url) != 0) {
       $('body').children('div').first().prepend(
         $('<div data-alert class="alert-box warning row centered-text">You are seeing a preview of this page. To visit the currently published version, click <a href="http://rightsstatements.org' + location.pathname +'">here</a>.<a href="#" class="close">&times;</a></div>')
-      ).foundation();
+      );
     }
+
+    // Foundation JavaScript
+    // Documentation can be found at: http://foundation.zurb.com/docs
+    $(document).foundation();
 
   });
 })(jQuery);
