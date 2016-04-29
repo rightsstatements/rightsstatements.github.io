@@ -4820,8 +4820,8 @@ table tfoot tr td {
   }
 }
 meta.foundation-mq-topbar {
-  font-family: "/only screen and (min-width:40.063em)/";
-  width: 40.063em;
+  font-family: "/only screen and (min-width:60em)/";
+  width: 60em;
 }
 
 /* Wrapped around .top-bar to contain to grid width */
@@ -5187,7 +5187,8 @@ meta.foundation-mq-topbar {
   display: block;
 }
 
-@media only screen and (min-width: 40.063em) {
+/* @media only screen and (min-width: 40.063em) { */
+@media only screen and (min-width: 60em) {
   .top-bar {
     background: white;
     *zoom: 1;

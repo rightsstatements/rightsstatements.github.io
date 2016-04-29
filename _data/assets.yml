@@ -1,0 +1,50 @@
+- name: In Copyright
+  buttons:
+    - InC.dark-white-interior-blue-type.svg
+    - InC-OW-EU.dark-white-interior-blue-type.svg
+    - InC-EDU.dark-white-interior-blue-type.svg
+    - InC-NC.dark-white-interior-blue-type.svg
+    - InC-RUU.dark-white-interior-blue-type.svg
+    - InC.dark-white-interior.svg
+    - InC-OW-EU.dark-white-interior.svg
+    - InC-EDU.dark-white-interior.svg
+    - InC-NC.dark-white-interior.svg
+    - InC-RUU.dark-white-interior.svg
+    - InC.dark.svg
+    - InC-OW-EU.dark.svg
+    - InC-EDU.dark.svg
+    - InC-NC.dark.svg
+    - InC-RUU.dark.svg
+    - InC.white.svg
+    - InC-OW-EU.white.svg
+    - InC-EDU.white.svg
+    - InC-NC.white.svg
+    - InC-RUU.white.svg
+- name: No Copyright
+  buttons:
+    - NoC-CR.dark-white-interior-blue-type.svg
+    - NoC-NC.dark-white-interior-blue-type.svg
+    - NoC-OKLR.dark-white-interior-blue-type.svg
+    - NoC-US.dark-white-interior-blue-type.svg
+    - NoC-CR.dark-white-interior.svg
+    - NoC-NC.dark-white-interior.svg
+    - NoC-OKLR.dark-white-interior.svg
+    - NoC-US.dark-white-interior.svg
+    - NoC-CR.dark.svg
+    - NoC-NC.dark.svg
+    - NoC-OKLR.dark.svg
+    - NoC-US.dark.svg
+    - NoC-CR.white.svg
+    - NoC-NC.white.svg
+    - NoC-OKLR.white.svg
+    - NoC-US.white.svg
+- name: Other
+  buttons:
+    - CNE.dark-white-interior-blue-type.svg
+    - NKC.dark-white-interior-blue-type.svg
+    - CNE.dark-white-interior.svg
+    - NKC.dark-white-interior.svg
+    - CNE.dark.svg
+    - NKC.dark.svg
+    - CNE.white.svg
+    - NKC.white.svg
