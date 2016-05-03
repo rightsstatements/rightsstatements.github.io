@@ -22,7 +22,7 @@ section_id: documentation
         <div class="statement-button">
           <img src="{{ site.url }}{{ site.baseurl }}/files/icons/{{ button }}" />
           <h4>Download</h4>
-          <a href="{{ site.url }}{{ site.baseurl }}/files/icons/{{ button }}">SVG</a>
+          <a href="{{ site.url }}{{ site.baseurl }}/files/icons/{{ button }}">SVG</a> <a href="{{ site.url }}{{ site.baseurl }}/files/icons/{{ button | replace: 'svg', 'png' }}">PNG</a>
         </div>
       </div>
       {% endfor %}
