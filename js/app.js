@@ -71,12 +71,20 @@
       return false;
     });
 
+    // Show warning if not on production
     var url = location.protocol + '//' + location.hostname + (location.port ? ':' + location.port : '');
     if ("http://rightsstatements.org".lastIndexOf(url) != 0) {
       $('body').children('div').first().prepend(
         $('<div data-alert class="alert-box warning row centered-text">You are seeing a preview of this page. To visit the currently published version, click <a href="http://rightsstatements.org' + location.pathname +'">here</a>.<a href="#" class="close">&times;</a></div>')
       );
     }
+
+    // FAQ section
+    $('.faq li p:not(:first-child)').hide();
+    $('.faq li p:first-child').bind('click', function() {
+      $('.faq li p:not(:first-child)').hide();
+      $(this).nextAll().show();
+    });
 
     // Foundation JavaScript
     // Documentation can be found at: http://foundation.zurb.com/docs
