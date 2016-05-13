@@ -432,3 +432,39 @@ small,
 .statement-button img {
   height: 50px;
 }
+
+/* --- faq --- */
+
+.faq {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.faq h2 {
+  text-align: left;
+  margin-top: 50px;
+}
+
+.faq ul {
+  list-style:none;
+  padding: 0;
+  margin: 0;
+}
+
+.faq li {
+  padding-bottom: 20px;
+}
+
+.faq li p {
+  padding-left: 25px;
+}
+
+.faq li:before, .faq li p:first-of-type {
+  content: "Q:";
+  color: #008CC8;
+  font-weight: bold;
+  display: inline;
+  padding: 0px;
+  cursor: pointer;
+  cursor: hand;
+}
