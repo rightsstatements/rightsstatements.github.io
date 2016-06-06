@@ -7,7 +7,7 @@ alias: /vocab/
 
 # Rights statements
 
-RightsStatements.org currently provides 11 different rights statements that can be used by cultural heritage institutions to communicate the copyright and re-use status of digital objects to the public. The rights statements have been designed with both human users and machine users (such as search engines) in mind and are made available as linked data. Each rights statement is located at a unique URI.
+RightsStatements.org currently provides 12 different rights statements that can be used by cultural heritage institutions to communicate the copyright and re-use status of digital objects to the public. The rights statements have been designed with both human users and machine users (such as search engines) in mind and are made available as linked data. Each rights statement is located at a unique URI.
 
 The rights statements have been specifically developed for the needs of cultural heritage institutions and online cultural heritage aggregation platforms and are not intended to be used to be used by individuals to license their own creations. (If you are looking for a tool to license your own works you should consider using one of the [Creative Commons licenses](https://creativecommons.org/licenses/){:target="_blank"}).
 
