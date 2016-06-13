@@ -10,7 +10,7 @@ RightsStatements.org is a joint initiative of [Europeana](http://europeana.eu/) 
 
 Currently, there is no global approach to rights statements that works for a broad set of institutions, leading to a confusing proliferation of terms. Simplifying the use and application of Rights Statements benefits both contributing organizations, which share their valuable collections online through aggregators such as Europeana and the DPLA, and the people who engage with those collections. 
 
-RightsStatements.org provides 11 standardized [rights statements]({{ site.rights_app_server }}/vocab/{{ site.rights_data_version }}/) that can be used by cultural heritage institutions to communicate the copyright and re-use status of digital objects to the public. These statements provide a  minimum, baseline standard for organizations contributing to the DPLA, Europeana and any other digital aggregator that adopts the RightsStatements.org standard.
+RightsStatements.org provides 12 standardized [rights statements]({{ site.rights_app_server }}/vocab/{{ site.rights_data_version }}/) that can be used by cultural heritage institutions to communicate the copyright and re-use status of digital objects to the public. These statements provide a  minimum, baseline standard for organizations contributing to the DPLA, Europeana and any other digital aggregator that adopts the RightsStatements.org standard.
 
 RightsStatements.org establishes the vocabulary that every organization can use to talk to their audiences about copyright and related rights in a meaningful way. It provides the technical and governance infrastructure to support their development and adoption, and ensure their on­going relevance.
 
