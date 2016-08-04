@@ -41,10 +41,15 @@
 - name: Other
   buttons:
     - CNE.dark-white-interior-blue-type.svg
+    - UND.dark-white-interior-blue-type.svg
     - NKC.dark-white-interior-blue-type.svg
     - CNE.dark-white-interior.svg
+    - UND.dark-white-interior.svg
     - NKC.dark-white-interior.svg
     - CNE.dark.svg
+    - UND.dark.svg
     - NKC.dark.svg
     - CNE.white.svg
+    - UND.white.svg
     - NKC.white.svg
+    
