@@ -21,13 +21,13 @@ section_id: documentation
       <div class="row">
         <div class="statement-buttons">
           <div class="statement-button">
-            {% capture file_url %} {{ site.url }}{{ site.baseurl }} /files/icons/{{ button }}.dark-white-interior-blue-type{% endcapture %}
+            {% capture file_url %} {{ site.url }}{{ site.baseurl }}/files/icons/{{ button }}.dark-white-interior-blue-type{% endcapture %}
             <img src="{{ file_url }}.svg" />
             <h4>Download</h4>
             <a href="{{ file_url }}.svg">SVG</a> <a href="{{ file_url }}.png">PNG</a>
           </div>
           <div class="statement-button">
-            {% capture file_url %} {{ site.url }}{{ site.baseurl }} /files/icons/{{ button }}.dark-white-interior{% endcapture %}
+            {% capture file_url %} {{ site.url }}{{ site.baseurl }}/files/icons/{{ button }}.dark-white-interior{% endcapture %}
             <img src="{{ file_url }}.svg" />
             <h4>Download</h4>
             <a href="{{ file_url }}.svg">SVG</a> <a href="{{ file_url }}.png">PNG</a>
