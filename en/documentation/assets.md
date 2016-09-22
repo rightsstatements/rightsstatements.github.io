@@ -6,10 +6,12 @@ section_id: documentation
 
 # Buttons and other assets
 
+On this page you find the statement buttons and icons that you can use when applying the rights statements online. Please refer to our [guidelines for applying the rights statements]({{ site.url }}{{ site.baseurl }}/en/documentation/guidelines.html) for more information on how to correctly apply the rights statements online.
+
 <div class="box">
 ## Buttons
 
-Below you find svg and png versions of our buttons that are intended for use as links to the rights statements. For each button we provide a version with blue text and a black and white version. You can also download [a zip file with all button images]({{ site.url }}{{ site.baseurl }}/files/buttons/rs_buttons_all.zip) which also includes a black version with a fully transparent background and a white version with a fully transparent background of each button.
+Below you find SVG and PNG versions of our buttons that are intended for use as links to the rights statements. For each button we provide a version with blue text and a black and white version. You can also download [a ZIP file with all button images]({{ site.url }}{{ site.baseurl }}/files/buttons/rs_buttons_all.zip) which also includes a black version with a fully transparent background and a white version with a fully transparent background of each button.
 
   <div class="row" markdown="0">
 
@@ -47,7 +49,7 @@ Below you find svg and png versions of our buttons that are intended for use as 
 <div class="box">
 ## Icons
 
-Below you find the three icons for the three different categories of rights statements. For each icon we are providing both an svg and a png version. You can also download [a zip file with all icons]({{ site.url }}{{ site.baseurl }}/files/icons/rs_icons_all.zip) which also includes a black version with a fully transparent background and a white version with a fully transparent background of each icon.
+Below you find the three icons for the three different categories of rights statements. For each icon we are providing both an SVG and a PNG version. You can also download [a ZIP file with all icons]({{ site.url }}{{ site.baseurl }}/files/icons/rs_icons_all.zip) which also includes a black version with a fully transparent background and a white version with a fully transparent background of each icon.
 
   <div class="row" markdown="0">
 
