@@ -5,14 +5,20 @@
     - InC-EDU
     - InC-NC
     - InC-RUU
+  icons:
+    - InC
 - name: No Copyright
   buttons:
     - NoC-CR
     - NoC-NC
     - NoC-OKLR
     - NoC-US
+  icons:
+    - NoC
 - name: Other
   buttons:
     - CNE
     - UND
     - NKC
+  icons:
+    - Other

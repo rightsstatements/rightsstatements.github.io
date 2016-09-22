@@ -437,6 +437,19 @@ small,
   padding: 10px 20px ;
 }
 
+.statement-icon {
+  background-color: #f1f2f2;
+  padding: 20px;
+  margin: 20px;
+}
+
+.statement-icon h4 {
+  padding-top: 20px;
+  margin-bottom: 0px;
+  text-align: left;
+  color: #858589;
+}
+
 /* --- faq --- */
 
 .faq {
