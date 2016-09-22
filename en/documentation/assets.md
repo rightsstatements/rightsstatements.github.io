@@ -42,7 +42,9 @@ Below you find svg and png versions of our buttons that are intended for use as 
   {% endfor %}
 
   </div>
+</div>
 
+<div class="box">
 ## Icons
 
 Below you find the three icons for the three different categories of rights statements. For each icon we are providing both an svg and a png version. You can also download [a zip file with all icons]({{ site.url }}{{ site.baseurl }}/files/icons/rs_icons_all.zip) which also includes a black version with a fully transparent background and a white version with a fully transparent background of each icon.
