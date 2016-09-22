@@ -57,12 +57,12 @@ The following five rights statements are intended for use with digital objects t
 
 ## Rights statements for objects that are not in copyright
 
-The following 4 rights statements are intended for works that are not in copyright but where there are restrictions other than copyright that prevent free re-use or where the out of copyright status has only been ascertained for a specific jurisdiction. These rights statements should only be used when it is not possible to use the [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/) or the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+The following four rights statements are intended for works that are not in copyright but where there are restrictions other than copyright that prevent free re-use or where the out of copyright status has only been ascertained for a specific jurisdiction. These rights statements should only be used when it is not possible to use the [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/) or the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 {% include collection.html collection_id="http://rightsstatements.org/vocab/collection-nc/1.0/" %}
 
 ## Other rights statements
 
-The following two rights statements are intended for use with digital objects where the copyright status has not been determined with certainty. These should only be used if it is not possible to use a clearer rights statement or license.
+The following three rights statements are intended for use with digital objects where the copyright status has not been determined with certainty. These should only be used if it is not possible to use a clearer rights statement or license.
 
 {% include collection.html collection_id="http://rightsstatements.org/vocab/collection-other/1.0/" %}

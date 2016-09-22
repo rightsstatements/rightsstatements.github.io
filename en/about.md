@@ -16,52 +16,42 @@ RightsStatements.org establishes the vocabulary that every organization can use 
 
 ## Working Groups
 
-The basic principles and the technical infrastructure of RightsStatements.org have been developed by DPLA and Europeana with the help of two working groups (the International Rights Statements Working Group, and its Technical Working Group) comprised of individuals from Europeana, DPLA and a number of organizations contributing to these platforms. In addition, Creative Commons has provided technical and legal advice to the project (see below for a full list of partners). 
+The basic principles and the technical infrastructure of rightsstatements.org have been developed by DPLA and Europeana with the help of two working groups (the International Rights Statements Working Group, and its Technical Working Group) comprised of individuals from Europeana, DPLA and a number of organizations contributing to these platforms.
 
 <div class="box">
 ## Partner Organizations
 
 <div class="row centered-text">
-<div class="medium-4 columns">
+<div class="medium-4 columns logo">
 [![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
 </div>
-<div class="medium-4 columns">
+<div class="medium-4 columns logo">
 [![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
 </div>
-<div class="medium-4 columns">
+<div class="medium-4 columns logo">
 [![Kennisland](/files/images/kennisland-logo.svg)](http://www.kl.nl/)
 </div>
 </div>
 <div class="row centered-text">
-<div class="medium-3 columns">
-&nbsp;
-</div>
-<div class="medium-3 columns">
+<div class="medium-4 columns logo">
 [![Bibliothèque nationale de Luxembourg](/files/images/bnl-logo.svg)](http://www.bnl.public.lu/)
 </div>
-<div class="medium-3 columns">
-[![Creative Commons](/files/images/cc-logo.svg)](http://creativecommons.org/)
-</div>
-<div class="medium-3 columns">
-&nbsp;
-</div>
-</div>
-<br/>
-<div class="row centered-text">
-<div class="medium-3 columns">
-&nbsp;
-</div>
-<div class="medium-3 columns">
+<div class="medium-4 columns logo">
 [![University of Michigan Library](/files/images/MLibLogo.svg)](http://www.lib.umich.edu/)
 </div>
-<div class="medium-3 columns">
+<div class="medium-4 columns logo">
 [![The New York Public Library](/files/images/nypl-logo.svg)](http://nypl.org/)
 </div>
-<div class="medium-3 columns">
-&nbsp;
 </div>
 </div>
 
+
+## Advisors
+
+Creative Commons is consulted and advises on this initiative. CC licenses and public domain tools are stewarded independently of the rights statements. The rights statements are not licenses and should not be used to license your work. Learn more about Creative Commons at <http://creativecommons.org/>.
+
+
+<div class="box">
 ## Financial Support
 
 RightsStatements.org has been realized with the support from: 
