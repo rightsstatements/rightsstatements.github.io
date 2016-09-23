@@ -8,5 +8,5 @@ section_id: statements
 
 The following five rights statements are intended for use with digital objects that are in copyright. If your organisation is the rightsholder for such objects and wants to encourage re-use you should consider making the objects available under an open Creative Commons license.
 
-{% include collection.html collection_id="http://rightsstatements.org/vocab/collection-ic/1.0/" %}
+{% include collection.html collection_id="collection-ic" %}
 

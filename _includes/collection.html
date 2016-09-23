@@ -1,6 +1,6 @@
 <div markdown="0">
 {% raw %}
-  {{#resource "{% endraw %}{{ include.collection_id }}{% raw %}" data.[@graph]}}
+  {{#resource "{% endraw %}http://rightsstatements.org/vocab/{{ include.collection_id }}/{{ site.rights_data_version }}/{% raw %}" data.[@graph]}}
     {{#property member data.[@graph] sort="prefLabel asc"}}
       <div class="statement-box">
         <div class="row">
