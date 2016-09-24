@@ -47,12 +47,10 @@
                   {% assign active_class = "" %}
                 {% endif %}
 
-                {% capture item_path %}{{ item.path | replace: 'rights_app_server', site.rights_app_server | replace: 'rights_data_version', site.rights_data_version }}{% endcapture %}
-
-                {% if item_path contains "//" %}
-                  {% capture href %}{{ item_path }}{% endcapture %}
+                {% if item.path contains "//" %}
+                  {% capture href %}{{ item.path }}{% endcapture %}
                 {% else %}
-                  {% capture href %}{{ site.url }}{{ site.baseurl }}/{{ page.lang }}{{ item_path }}{% endcapture %}
+                  {% capture href %}{{ site.url }}{{ site.baseurl }}/{{ page.lang }}{{ item.path }}{% endcapture %}
                 {% endif %}
 
                 {% if item.children %}
