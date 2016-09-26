@@ -1,5 +1,5 @@
 - name: Statements
-  path: "rights_app_server/vocab/rights_data_version/"
+  path: /statements/
   section_id: statements
   # children:
   #  - name: List of In Copyright statements
