@@ -416,21 +416,38 @@ small,
 
 /* --- buttons and other assets --- */
 
-.statement-button {
+.statement-buttons {
   background-color: #f1f2f2;
+  padding: 10px 0px;
   margin: 20px;
-  padding: 20px;
 }
 
-.statement-button h4 {
+.statement-buttons h4 {
   padding-top: 20px;
   margin-bottom: 0px;
   text-align: left;
   color: #858589;
 }
 
-.statement-button img {
+.statement-buttons img {
   height: 50px;
+}
+
+.statement-button {
+  padding: 10px 20px ;
+}
+
+.statement-icon {
+  background-color: #f1f2f2;
+  padding: 20px;
+  margin: 20px;
+}
+
+.statement-icon h4 {
+  padding-top: 20px;
+  margin-bottom: 0px;
+  text-align: left;
+  color: #858589;
 }
 
 /* --- faq --- */

@@ -1,12 +1,12 @@
 <div markdown="0">
 {% raw %}
-  {{#resource "{% endraw %}{{ include.collection_id }}{% raw %}" data.[@graph]}}
+  {{#resource "{% endraw %}http://rightsstatements.org/vocab/{{ include.collection_id }}/{{ site.rights_data_version }}/{% raw %}" data.[@graph]}}
     {{#property member data.[@graph] sort="prefLabel asc"}}
       <div class="statement-box">
         <div class="row">
           <div class="large-4 columns">
             <div class="statement-iconcolumn">
-              <img src="{% endraw %}{{ site.url }}{{ site.baseurl }}{% raw %}/files/icons/{{ identifier }}.white.svg" title="{{ prefLabel.[@value] }}" />
+              <img src="{% endraw %}{{ site.url }}{{ site.baseurl }}{% raw %}/files/buttons/{{ identifier }}.white.svg" title="{{ prefLabel.[@value] }}" />
             </div>
           </div>
           <div class="large-8 columns">

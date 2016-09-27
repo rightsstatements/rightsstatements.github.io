@@ -1,5 +1,5 @@
 - name: Statements
-  path: "rights_app_server/vocab/rights_data_version/"
+  path: /statements/
   section_id: statements
   # children:
   #  - name: List of In Copyright statements
@@ -17,10 +17,14 @@
   children:
     - name: Documentation
       path: /documentation/
-  #  - name: FAQ
-  #    path: /documentation/faq.html
+    - name: FAQ
+      path: /documentation/faq.html
     - name: Buttons and other assets
       path: /documentation/assets.html
+    - name: Usage guidelines
+      path: /documentation/usage_guidelines.html
+    - name: Change log
+      path: /documentation/changelog.html
 - name: Get Involved
   path: /get_involved.html
   section_id: get_involved
