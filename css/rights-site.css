@@ -485,3 +485,7 @@ small,
   cursor: pointer;
   cursor: hand;
 }
+
+.faq li p:last-of-type {
+  margin-top: 0.6em;
+}
