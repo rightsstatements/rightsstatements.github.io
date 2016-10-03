@@ -26,7 +26,7 @@ In the online environment the rights statements should be used by linking to the
 <blockquote>
 <a href="http://rightsstatements.org/vocab/InC-EDU/1.0/">
     <img height="31" width="144" alt="In Copyright - Educational Use Permitted"
-      src="http://rightsstatements.org/files/icons/InC-EDU.dark-white-interior.png"
+      src="http://rightsstatements.org/files/buttons/InC-EDU.dark-white-interior.png"
     />
 </a>
 </blockquote>
@@ -34,7 +34,7 @@ This can be done by using the following bit of code (using the example of the [I
 
     <a href="http://rightsstatements.org/vocab/InC-EDU/1.0/">
         <img height="31" alt="In Copyright - Educational Use Permitted"
-          src="http://rightsstatements.org/files/icons/InC-EDU.dark-white-interior.png"/>
+          src="http://rightsstatements.org/files/buttons/InC-EDU.dark-white-interior.png"/>
     </a>
 
 <br/>
