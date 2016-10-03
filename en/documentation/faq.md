@@ -34,7 +34,7 @@ section_id: documentation
 
 - How can I use these statements?
 
-    In most cases you will be using these statements as part of the process of publishing via an aggregation platform such as Europeana or the DPLA. If this is the case you should apply the rights statements in line with the metadata guidelines of the platform you are working with. <br/><br/>If you are using the statements in order to label digital objects that you publish on your own website or application you should follow our [guidelines for applying the rights statements](http://rightsstatements.org/en/documentation/guidelines.html).
+    In most cases you will be using these statements as part of the process of publishing via an aggregation platform such as Europeana or the DPLA. If this is the case you should apply the rights statements in line with the metadata guidelines of the platform you are working with. <br/><br/>If you are using the statements in order to label digital objects that you publish on your own website or application you should follow our [guidelines for applying the rights statements](http://rightsstatements.org/en/documentation/usage_guidelines.html).
 
 - I feel that none of the statements covers the copyright status of digital objects that I want to make available
 
