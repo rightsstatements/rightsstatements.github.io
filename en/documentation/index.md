@@ -11,7 +11,7 @@ Our rights statements have been specifically designed to be used by cultural her
 <div class="box">
 ## White Papers
 
-You can find more information about the rights statements and about the technical architecture of RightsStatements.org in our White Papers. The whitepaper ["Recommendations for Standardized International Rights Statements"](http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf) outlines the design principle behind our rights statements and provides detailed information about each individual Rights Statement. The ["Requirements for the Technical Infrastructure for Standardized International Rights Statements"](http://rightsstatements.org/files/170106requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.1.pdf) white paper describes the technical underpinnings of our Rights Statements.
+You can find more information about the rights statements and about the technical architecture of RightsStatements.org in our White Papers. The whitepaper ["Recommendations for Standardized International Rights Statements"](/en/documentation/rights-statements-white-paper/) outlines the design principle behind our rights statements and provides detailed information about each individual Rights Statement. The ["Requirements for the Technical Infrastructure for Standardized International Rights Statements"](/en/documentation/technical-white-paper/) white paper describes the technical underpinnings of our Rights Statements.
 </div>
 
 ## Use by cultural heritage institutions
