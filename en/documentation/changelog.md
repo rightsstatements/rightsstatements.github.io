@@ -11,12 +11,16 @@ This page contains an overview of all changes made to the rights statements publ
 <div class="box">
 ## RightsStatements.org change log
 
+### 2017-01-06
+
+* Release of the latest revision of the white paper ["Requirements for the Technical Infrastructure for Standardized International Rights Statements"](/files/170106requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.2.pdf).
+
 ### 2016-06-14
 
 * Addition of the [Copyright Undetermined](http://rightsstatements.org/vocab/UND/1.0/) statement. See the proposal for implementation of a new rights statement for more information.
 
 ### 2016-04-14
 
-* Initial launch of version 1.0 of the 11 rights statements as described in the whitepaper "[Recommendations for Standardized International Rights Statements](http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf)."  
+* Initial launch of version 1.0 of the 11 rights statements as described in the white paper "[Recommendations for Standardized International Rights Statements](/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf)."
 
 </div>
