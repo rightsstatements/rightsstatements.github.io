@@ -18,3 +18,5 @@ default_language: en
 languages_enables: no
 rights_app_server: //h2481931.stratoserver.net:9001
 rights_data_version: 1.0
+white_paper_tech_version: 170106requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.2.pdf
+white_paper_rs_version: 160208recommendations_for_standardized_international_rights_statements_v1.1.pdf
