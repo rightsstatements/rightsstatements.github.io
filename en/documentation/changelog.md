@@ -13,7 +13,7 @@ This page contains an overview of all changes made to the rights statements publ
 
 ### 2016-06-14
 
-* Addition of the [Copyright Undetermined](http://rightsstatements.org/vocab/UND/1.0/) statement. See the proposal for implementation of a new rights statement for more information.
+* Addition of the [Copyright Undetermined](http://rightsstatements.org/vocab/UND/1.0/) statement. See the [proposal for implementation of a new rights statement](http://rightsstatements.org/files/160611proposal_for_implementation_UND.pdf) for more information.
 
 ### 2016-04-14
 
