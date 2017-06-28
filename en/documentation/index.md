@@ -9,9 +9,11 @@ section_id: documentation
 Our rights statements have been specifically designed to be used by cultural heritage institutions and cultural heritage aggregation platforms to indicate the copyright status of digital objects that they make available online. They are not intended to be used for other purpose such as licensing works created by individuals. If you are looking for tools to license your own creations for re-use we encourage you to take a look at the [Creative Commons licenses](http://creativecommons.org/licenses/).
 
 <div class="box">
-## White Papers
+## White Papers & Policies
 
 You can find more information about the rights statements and about the technical architecture of RightsStatements.org in our White Papers. The whitepaper ["Recommendations for Standardized International Rights Statements"](/en/documentation/rights-statements-white-paper/) outlines the design principle behind our rights statements and provides detailed information about each individual Rights Statement. The ["Requirements for the Technical Infrastructure for Standardized International Rights Statements"](/en/documentation/technical-white-paper/) white paper describes the technical underpinnings of our Rights Statements.
+
+Changes to the published rights statements are governed by our [editorial policy](/en/documentation/editorial-policy/). Our [translation policy](/en/documentation/translation-policy/) outlines the process for creating [official translations](/en/documentation/translations.html) of our rights statements. 
 </div>
 
 ## Use by cultural heritage institutions
