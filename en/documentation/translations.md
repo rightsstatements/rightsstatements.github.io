@@ -22,7 +22,7 @@ There are currently 4 translation efforts underway:
 If you are intrested in contributing to one of these translations please contact us at [info@rightstatesments.org](mailto:info@rightstatesments.org). 
 </div>
 
-## rightsstatements.org translation policy 
+## Rightsstatements.org translation policy 
 
 Last updated: 12-06-2017
 
