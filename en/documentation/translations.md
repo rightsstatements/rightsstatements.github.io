@@ -23,8 +23,7 @@ If you are intrested in contributing to one of these translations please contact
 </div>
 
 ## Rightsstatements.org translation policy 
-
-Last updated: 12-06-2017
+### Last updated: 12-06-2017
 
 This document outlines the procedure for dealing with translations of the rights statements provided by rightsstatements.org. Currently there are no plans for rightsstatements.org to undertake translations on its own. Instead we endeavour to work with external partners ('translation partners') on translating the suite of rights statements into other languages.
  
