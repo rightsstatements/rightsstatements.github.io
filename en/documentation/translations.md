@@ -23,9 +23,8 @@ If you are intrested in contributing to one of these translations please contact
 </div>
 
 ## Rightsstatements.org translation policy 
-### Last updated: 12-06-2017
 
-This document outlines the procedure for dealing with translations of the rights statements provided by rightsstatements.org. Currently there are no plans for rightsstatements.org to undertake translations on its own. Instead we endeavour to work with external partners ('translation partners') on translating the suite of rights statements into other languages.
+**[Last updated: 12-06-2017]** This document outlines the procedure for dealing with translations of the rights statements provided by rightsstatements.org. Currently there are no plans for rightsstatements.org to undertake translations on its own. Instead we endeavour to work with external partners ('translation partners') on translating the suite of rights statements into other languages.
  
 The aim of this policy is to ensure that we achieve the best possible translations and that translations have are of comparable quality to the original English language version. This policy does not deal with technical issues related to translations of the rights statements; rather, it has been drafted in the understanding that the rightsstatements.org backend can handle translations in an unlimited number of languages, provided that the translations follow the requirements specified in the technical white paper (i.e., language codes are specified according to BCP47, and with translated text represented in a UTF-8 encoding).
 
