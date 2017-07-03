@@ -23,6 +23,8 @@
       path: /documentation/assets.html
     - name: Usage guidelines
       path: /documentation/usage_guidelines.html
+    - name: Translations
+      path: /documentation/translations.html
     - name: Change log
       path: /documentation/changelog.html
 - name: Get Involved
