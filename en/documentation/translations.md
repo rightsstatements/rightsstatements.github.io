@@ -17,6 +17,7 @@ There are currently 4 translation efforts underway:
 2. **Portugese** -  Expression of interest received, no translation partner selected yet
 3. **Finnish** - Expression of interest received, no translation partner selected yet
 4. **Spanish** - Expression of interest received, no translation partner selected yet
+5. **Estonian** - Expression of interest received, no translation partner selected yet
 
 If you are interested in contributing to one of these translations please contact us at [info@rightstatements.org](mailto:info@rightstatements.org).
 </div>
