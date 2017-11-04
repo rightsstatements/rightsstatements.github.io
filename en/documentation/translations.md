@@ -17,7 +17,7 @@ There are currently 4 translation efforts underway:
 2. **Portugese** -  Expression of interest received, no translation partner selected yet
 3. **Finnish** - Expression of interest received, no translation partner selected yet
 4. **Spanish** - Expression of interest received, no translation partner selected yet
-5. **Estonian** - Expression of interest received, no translation partner selected yet
+5. **Estonian** - Translation partner: [Wikimedia Eesti](https://ee.wikimedia.org/wiki/Esileht) and [Estonian Photographic Heritage Society](http://fotoparand.org.ee/wp/eng/)
 
 If you are interested in contributing to one of these translations please contact us at [info@rightsstatements.org](mailto:info@rightsstatements.org).
 </div>
