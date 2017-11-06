@@ -38,8 +38,8 @@ The task of Technical Working Group is to develop and maintain the technical inf
 The Technical Working Group is chaired by Mark Matienzo (Stanford University Libraries) and Antoine Isaac (Europeana) and has the following members: 
 * Valentine Charles, Data R&D Coordinator, Europeana; 
 * Esmé Cowles, Digital Infrastructure Developer, Princeton University; 
-* Karen Estlund, Associate Dean for Technology and Digital Strategies, 
-* Penn State University Libraries; * Tom Johnson, PhD Student, University of Washington Information School; 
+* Karen Estlund, Associate Dean for Technology and Digital Strategies, Penn State University Libraries; 
+* Tom Johnson, PhD Student, University of Washington Information School; 
 * Patrick Peiffer, Digital Librarian, Bibliothèque Nationale de Luxembourg; 
 * Richard J. Urban, Digital Asset Manager and Strategist, Corning Museum of Glass; and 
 * Maarten Zeinstra, Advisor, Copyright and Technology, Kennisland.
