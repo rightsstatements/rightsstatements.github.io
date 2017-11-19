@@ -11,6 +11,10 @@ This page contains an overview of all changes made to the rights statements publ
 <div class="box">
 ## RightsStatements.org change log
 
+### 2017-11-20
+
+* Minor changes to the 1.0 version of the rights statements as detailed in the [Recommendations for minor changes to the 1.0 version of the rights statements](/files/170907recommendations_for_minor_update.pdf). These changes have been reflected in an updated version of the [Recommendations for Standardized International Rights Statements](/files/171116recommendations_for_standardized_international_rights_statements_v1.2.pdf) white paper.
+
 ### 2017-06-29
 
 * Release of the [Translation Policy](/en/documentation/translation-policy/) and [Editoral Policy](/en/documentation/editorial-policy) for rightsstatements.org.
