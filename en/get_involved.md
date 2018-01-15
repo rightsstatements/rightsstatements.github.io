@@ -36,6 +36,7 @@ The International Rights Statements Working Group is chaired by Emily Gore (DPLA
 The task of Technical Working Group is to develop and maintain the technical infrastructure and data model that powers the rights statements offered by RightsStatements.org, as defined in the white paper "[Requirements for the Technical Infrastructure for Standardized International Rights Statements](/en/documentation/technical-white-paper/)".
 
 The Technical Working Group is chaired by Mark Matienzo (Stanford University Libraries) and Antoine Isaac (Europeana) and has the following members: 
+* Plaban Kumar Bhowmik, Assistant Professor, Indian Institute of Technology Kharagpur;
 * Valentine Charles, Data R&D Coordinator, Europeana; 
 * Esmé Cowles, Digital Infrastructure Developer, Princeton University; 
 * Karen Estlund, Associate Dean for Technology and Digital Strategies, Penn State University Libraries; 
@@ -43,3 +44,4 @@ The Technical Working Group is chaired by Mark Matienzo (Stanford University Lib
 * Patrick Peiffer, Digital Librarian, Bibliothèque Nationale de Luxembourg; 
 * Richard J. Urban, Digital Asset Manager and Strategist, Corning Museum of Glass; and 
 * Maarten Zeinstra, Advisor, Copyright and Technology, Kennisland.
+
