@@ -4,15 +4,15 @@ This CMS uses [Jekyll](https://jekyllrb.com/).
 
 ## Deployment
 
-No Jekyll plugins are currently in use, allowing deployment to [GitHub Pages](https://pages.github.com/). Committing or merging into the `master` branch automatically triggers a rebuild of the pages available at http://rightsstatements.github.io/. Committing or merging into either `master` or `production` also triggers a build of the site to be pushed into `master-pages` or `production-pages` respectively. To deploy such a build, you can use the `site.yml` ansible playbook:
+No Jekyll plugins are currently in use, allowing deployment to [GitHub Pages](https://pages.github.com/). Committing or merging into the `master` branch automatically triggers a rebuild of the pages available at http://rightsstatements.github.io/. Committing or merging into either `master` or `production` also triggers a build of the site to be pushed into `master-pages` or `production-pages` respectively. To deploy such a build (from your local machine), you can use the `site.yml` ansible playbook:
 
     $ git clone https://github.com/rightsstatements/rights-deploy.git
     $ cd rights-deploy
     $ ansible-playbook -i {staging|production} -u {user} site.yml
 
-This will install the Apache webserver and configure a virtual host according to the settings defined in the `[site:vars]` section of the inventory file. As is, the inventory files will expose the site on port 8080 and use `master-pages` and `production-pages` for the `staging` and `production` inventories respectively.
+This will install the Apache webserver and configure a virtual host according to the settings defined in the `[site:vars]` section of the inventory file. As is, the inventory files will expose the site on port 8080 and use `master-pages` and `production-pages` for the `staging` and `production` inventories respectively. Note that this requires a user account with the appropriate permissions on the staging and/or the production server.
 
-Please note that port 8080 is blocked for the outside on our target servers, which makes it necessary to also configure the proxy:
+Please also note that port 8080 is blocked for the outside on our target servers, which makes it necessary to also configure the proxy:
 
     $ ansible-playbook -i {staging|production} -u {user} proxy.yml
 
@@ -40,6 +40,8 @@ Create a pull request from the `master` to the `production` branch:
 
 ![Create pull request](files/images/create_pull_request.png?raw=true)
 
+After this, deploy the site (or have it deployed by someone with the right permission) on the staging and/or the production server using the instructions in the Deployment section above.
+
 ## Adding content
 
 To add content, navigate to [en](https://github.com/rightsstatements/rightsstatements.github.io/tree/master/en) or a sub-directory thereof and click on "New file":
@@ -50,7 +52,8 @@ Then, assign a file name with the `.md` extension, add the front matter and fina
 
 ![Add file](files/images/add_file.png?raw=true)
 
-When you are done, commit the file to `master` and create a pull request as described above.
+When you are done, commit the file to `master` and create a pull request as described above. 
+After this, deploy the site (or have it deployed by someone with the right permission) on the staging and/or the production server using the instructions in the Deployment section above.
 
 ## Managing assets
 
@@ -66,6 +69,8 @@ When done adding files, again commit them to the `master` branch and create a pu
 
     [Link caption]({{ site.url }}{{ site.baseurl }}/files/document.pdf)
     ![Image text]({{ site.url }}{{ site.baseurl }}/files/images/picture.png)
+    
+After this, deploy the site (or have it deployed by someone with the right permission) on the staging and/or the production server using the instructions in the Deployment section above.
 
 ## Managing the menu structure
 
