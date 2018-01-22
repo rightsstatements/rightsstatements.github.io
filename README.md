@@ -40,6 +40,8 @@ Create a pull request from the `master` to the `production` branch:
 
 ![Create pull request](files/images/create_pull_request.png?raw=true)
 
+NB: a Pull Request shall be merged only after the build has completed. Doing otherwise may create a build error.
+
 After this, deploy the site (or have it deployed by someone with the right permission) on the staging and/or the production server using the instructions in the Deployment section above.
 
 ## Adding content
