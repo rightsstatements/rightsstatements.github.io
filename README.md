@@ -40,6 +40,8 @@ Create a pull request from the `master` to the `production` branch:
 
 ![Create pull request](files/images/create_pull_request.png?raw=true)
 
+NB: a Pull Request shall be merged only after the build has completed. Doing otherwise may create a build error.
+
 After this, deploy the site (or have it deployed by someone with the right permission) on the staging and/or the production server using the instructions in the Deployment section above.
 
 ## Adding content
@@ -71,6 +73,8 @@ When done adding files, again commit them to the `master` branch and create a pu
     ![Image text]({{ site.url }}{{ site.baseurl }}/files/images/picture.png)
     
 After this, deploy the site (or have it deployed by someone with the right permission) on the staging and/or the production server using the instructions in the Deployment section above.
+
+NB: adding some files may require changing existing redirections (notably, for the whitepaper URIs). These updates currently need to be done in three different config files at the root of the repository: _config.yml, _config_develop.yml and _config_production.yml
 
 ## Managing the menu structure
 
