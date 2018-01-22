@@ -74,6 +74,8 @@ When done adding files, again commit them to the `master` branch and create a pu
     
 After this, deploy the site (or have it deployed by someone with the right permission) on the staging and/or the production server using the instructions in the Deployment section above.
 
+NB: adding some files may require changing existing redirections (notably, for the whitepaper URIs). These updates currently need to be done in three different config files at the root of the repository: _config.yml, _config_develop.yml and _config_production.yml
+
 ## Managing the menu structure
 
 The menu is built from the [nav.yml](https://github.com/rightsstatements/rightsstatements.github.io/blob/master/_data/nav.yml). All top level entries consist of a `name`, the `path` and a `section_id`. Currently only one level of child entries is supported, these entries only have a `name` and the `path`. Any paths starting with `http://` are interpreted as external links, the others are interpreted as internal and prefixed with the current language automatically.
