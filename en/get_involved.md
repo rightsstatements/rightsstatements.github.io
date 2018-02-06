@@ -40,6 +40,7 @@ The Technical Working Group is chaired by Mark Matienzo (Stanford University Lib
 * Valentine Charles, Data R&D Coordinator, Europeana; 
 * Esmé Cowles, Digital Infrastructure Developer, Princeton University; 
 * Karen Estlund, Associate Dean for Technology and Digital Strategies, Penn State University Libraries; 
+* Gretchen Gueguen, Data Services Coordinator, DPLA;
 * Tom Johnson, PhD Student, University of Washington Information School; 
 * Patrick Peiffer, Digital Librarian, Bibliothèque Nationale de Luxembourg; 
 * Richard J. Urban, Digital Asset Manager and Strategist, Corning Museum of Glass; and 
