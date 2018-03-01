@@ -11,12 +11,12 @@ The rights statements and underlying infrastructure of rightsstatements.org have
 <div class="box">
 ## Ongoing translation efforts
 
-There are currently 4 translation efforts underway:
+There are currently 5 translation efforts underway:
 
-1. **German** - Translation partner: [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/)
+1. **German** - Translation partner: Prof Ellen Euler and [Ilja Braun](http://iljabraun.de/) - **[OPEN FOR PUBLIC REVIEW UNTIL 30th MARCH 2018](https://docs.google.com/document/d/1OuAFgkl1JE_962K-_xtOHyNskFfRtWI4LB8bfFTzhWI/edit#heading=h.ybogfta4vh2s)**
 2. **Portugese** -  Expression of interest received, no translation partner selected yet
-3. **Finnish** - Expression of interest received, no translation partner selected yet
-4. **Spanish** - Expression of interest received, no translation partner selected yet
+3. **Finnish** - The Ministry of Education and Culture, no translation partner selected yet
+4. **Spanish** - Museo del Cine Pablo Ducrós Hicken, no translation partner selected yet
 5. **Estonian** - Translation partner: [Wikimedia Eesti](https://ee.wikimedia.org/wiki/Esileht) and [Estonian Photographic Heritage Society](http://fotoparand.org.ee/wp/eng/)
 
 If you are interested in contributing to one of these translations please contact us at [info@rightsstatements.org](mailto:info@rightsstatements.org).
