@@ -13,7 +13,7 @@ The rights statements and underlying infrastructure of rightsstatements.org have
 
 There are currently 5 translation efforts underway:
 
-1. **German** - Translation partner: Prof Ellen Euler and [Ilja Braun](http://iljabraun.de/) - **[OPEN FOR PUBLIC REVIEW UNTIL 30th MARCH 2018](https://docs.google.com/document/d/1OuAFgkl1JE_962K-_xtOHyNskFfRtWI4LB8bfFTzhWI/edit#heading=h.ybogfta4vh2s)**
+1. **German** - Translation partner: Prof [Ellen Euler](https://www.fh-potsdam.de/studieren/fachbereiche/informationswissenschaften/personen/lehrende/detailansicht/person-action/ellen-euler/show/Person/) and [Ilja Braun](http://iljabraun.de/) - **[OPEN FOR PUBLIC REVIEW UNTIL 30th MARCH 2018](https://docs.google.com/document/d/1OuAFgkl1JE_962K-_xtOHyNskFfRtWI4LB8bfFTzhWI/edit#heading=h.ybogfta4vh2s)**
 2. **Portugese** -  Expression of interest received, no translation partner selected yet
 3. **Finnish** - The Ministry of Education and Culture, no translation partner selected yet
 4. **Spanish** - Museo del Cine Pablo Ducrós Hicken, no translation partner selected yet
