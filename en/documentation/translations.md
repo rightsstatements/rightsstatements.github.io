@@ -22,5 +22,5 @@ There are currently 8 translation efforts underway:
 7. **Swedish-Finnish** - The Ministry of Education and Culture, no reviewer selected yet
 8. **Polish** – Poznań Supercomputing and Networking Center, no reviewer selected yet 
 
-Applications from new translation partners will be accepted from 1st June 2018.  You can contact [info@rightsstatements.org] (mailto:info@rightsstatements.org) with any questions. 
+Applications from new translation partners will be accepted from 1st June 2018.  You can contact [info@rightsstatements.org](mailto:info@rightsstatements.org) with any questions. 
 </div>
