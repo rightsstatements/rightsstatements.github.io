@@ -24,9 +24,10 @@ The Consortium Business Plan for 2018 prepared by the Steering Committee and sup
 The Steering Committee overseas the development of the work of the Consortium. Consisting of 9 members representing fee paying member of the consortium, the co-chairs of the working groups, and supported by a Coordinator, they meet virtually bi-monthly and once in person annually. The first annual meeting of the Steering Committee was held in September 2017, at the offices of Europeana Foundation, The Hague, Netherlands. The minutes of that meeting are publicly [available here](https://docs.google.com/document/d/1FHgxm9YF4ZWBtcDRjfBvcm8SG984cS1bVhPLpmTXQ28/). Minutes of subsequent meetings will be published in due course.
 
 Chair:  Jill Cousins, on behalf of Europeana Foundation
+
 Vice Chair: Caitlin Horrall, Library & Archives Canada
 
-Members
+Members:
 * Partha Pratim Das, National Digital Library India
 * Cathie Oates, Trove at the National Digital Library of Australia
 * Emily Gore, the Digital Public Library of America (also Co-Chair of the Statements WG)
