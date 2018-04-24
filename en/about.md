@@ -19,6 +19,24 @@ The Consortium Business Plan for 2018 prepared by the Steering Committee and sup
 1. [2018 Business Plan](http://bit.ly/2oZQe4m)
 2. [Consortium Work Plan 2018](http://bit.ly/2DiEbTS)
 
+## Steering Committee
+
+The Steering Committee overseas the development of the work of the Consortium. Consisting of 9 members representing fee paying member of the consortium, the co-chairs of the working groups, and supported by a Coordinator, they meet virtually bi-monthly and once in person annually. The first annual meeting of the Steering Committee was held in September 2017, at the offices of Europeana Foundation, The Hague, Netherlands. The minutes of that meeting are publicly [available here](https://docs.google.com/document/d/1FHgxm9YF4ZWBtcDRjfBvcm8SG984cS1bVhPLpmTXQ28/). Minutes of subsequent meetings will be published in due course.
+
+Chair:  Jill Cousins, on behalf of Europeana Foundation
+
+Vice Chair: Caitlin Horrall, Library & Archives Canada
+
+Members:
+* Partha Pratim Das, National Digital Library India
+* Cathie Oates, Trove at the National Digital Library of Australia
+* Emily Gore, the Digital Public Library of America (also Co-Chair of the Statements WG)
+* Paul Keller, Kennisland (Co-Chair of the Statements WG)
+* Antoine Isaac, Europeana Foundation (Co-Chair of the Technical Working Group)
+* Mark Matienzo, Stanford University (Co-Chair of the Technical Working Group)
+
+Coordinator:  Julia Fallon, Europeana Foundation
+
 ## Working Groups
 
 The basic principles and the technical infrastructure of rightsstatements.org have been developed by DPLA and Europeana with the help of two working groups (the International Rights Statements Working Group, and its Technical Working Group) comprised of individuals from Europeana, DPLA and a number of organizations contributing to these platforms.
