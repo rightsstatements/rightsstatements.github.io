@@ -17,7 +17,7 @@ There are currently 8 translation efforts underway:
 2. **Portugese** -  Expression of interest received, no translation partner selected yet
 3. **Finnish** - The Ministry of Education and Culture, no reviewer selected yet
 4. **Spanish** - Museo del Cine Pablo Ducrós Hicken, no translation partner selected yet
-5. **Estonian** - Translation partner: [Wikimedia Eesti](https://ee.wikimedia.org/wiki/Esileht) and [Estonian Photographic Heritage Society](http://fotoparand.org.ee/wp/eng/) - **[OPEN FOR PUBLIC REVIEW UNTIL 27th APRIL 2018](https://docs.google.com/document/d/1-Kb3Ji_-8TkAIHl2S2l2JMcGC1X68x1NtV4ang35efo/edit?usp=sharing)**
+5. **Estonian** - Translation partner: [Wikimedia Eesti](https://ee.wikimedia.org/wiki/Esileht) and [Estonian Photographic Heritage Society](http://fotoparand.org.ee/wp/eng/) - Public review has now closed
 6. **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board, no translation reviewer selected yet
 7. **Swedish-Finnish** - The Ministry of Education and Culture, no reviewer selected yet
 8. **Polish** – Poznań Supercomputing and Networking Center, no reviewer selected yet 
