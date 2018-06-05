@@ -17,7 +17,7 @@ Added German translation of [version 1.0 the rights statements](http://rightssta
 
 ### 2018-05-31
 
-Minor changes to the 1.0 version of the rights statements as detailed in the [Recommendations for minor changes to the 1.0 version of the rights statements (May 2018)](/files/180524minor_changes_to_v1.0.pdf). These changes have been reflected in an [updated version of the Recommendations for Standardized International Rights Statements white paper](/files/180531recommendations_for_ standardized_international_rights_statements_v1.2.2.pdf).
+Minor changes to the 1.0 version of the rights statements as detailed in the [Recommendations for minor changes to the 1.0 version of the rights statements (May 2018)](/files/180524minor_changes_to_v1.0.pdf). These changes have been reflected in an [updated version of the Recommendations for Standardized International Rights Statements white paper](/files/180531recommendations_for_standardized_international_rights_statements_v1.2.2.pdf).
 
 ### 2017-11-20
 
