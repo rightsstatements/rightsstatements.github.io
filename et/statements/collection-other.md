@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rights Statements - Muud autoriõigusliku seisundi deklaratsioonid
-
+lang: et
 section_id: statements
 ---
 

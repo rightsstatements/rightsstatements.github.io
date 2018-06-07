@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - List of In Copyright statements
 section_id: statements
+lang: en
 ---
 
 ## Rights statements for in copyright objects:

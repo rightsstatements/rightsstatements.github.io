@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - Translations
 section_id: documentation
+lang: en
 ---
 
 # Translations of the rights statements

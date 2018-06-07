@@ -20,6 +20,12 @@ defaults:
     values:
       lang: "de"
       iso_name: "Deutsch"
+  -
+    scope:
+      path: "et"
+    values:
+      lang: "et"
+      iso_name: "Eesti"
 default_language: en
 languages_enabled: yes
 rights_app_server: //rightsstatements.org

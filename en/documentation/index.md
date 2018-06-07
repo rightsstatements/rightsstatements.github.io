@@ -2,6 +2,7 @@
 layout: page
 title: Documentation
 section_id: documentation
+lang: en
 ---
 
 # Documentation
