@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.0/foundation.min.css" />
     <link href='{{ site.url }}{{ site.baseurl }}/css/rights-stmt.css' rel='stylesheet'>
     <link rel="stylesheet" type="text/css" href="{{ site.font_css_url }}" />
+    {% if site.google_analytics %}{% include analytics.html %}{% endif %}
 </head>
 
 {% raw %}
