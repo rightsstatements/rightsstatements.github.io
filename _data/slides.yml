@@ -11,6 +11,11 @@
       header: RightsStatements.org bietet 12 standardisierte Rechtehinweise für das online verfügbare Kulturerbe.
       about:
         Unsere Rechtehinweise vereinfachen es zu erkennen, ob und wie online verfügbares Kulturerbe genutzt werden kann. Erfahren Sie <a href="rights_app_server/vocab/rights_data_version/">hier</a> mehr über unsere Rechtehinweise.
+    et:
+      header: RightsStatements.org koduleht sisaldab kaksteist digitaalse kultuuripärandi kasutusõigusi kirjeldavat standardiseeritud autoriõigusliku seisundi deklaratsiooni.
+      about:
+        Autoriõigusliku seisundi deklaratsioonid võimaldavad kiiresti hinnata, kas ja kuidas on digitaalset kultuuripärandit lubatud taaskasutada.  <a href="rights_app_server/vocab/rights_data_version/">Täiendavat infot deklaratsioonide kohta leiab dokumentatsioonilehelt</a>.
+
 
 - image: slide-2.jpg
   desc_location: left
@@ -25,3 +30,7 @@
       header: RightsStatements.org bietet 12 standardisierte Rechtehinweise für das online verfügbare Kulturerbe.
       about:
         Unsere Rechtehinweise vereinfachen es zu erkennen, ob und wie online verfügbares Kulturerbe genutzt werden kann. Erfahren Sie <a href="rights_app_server/vocab/rights_data_version/">hier</a> mehr über unsere Rechtehinweise.
+    et:
+      header: RightsStatements.org koduleht sisaldab kaksteist digitaalse kultuuripärandi kasutusõigusi kirjeldavat standardiseeritud autoriõigusliku seisundi deklaratsiooni.
+      about:
+        Autoriõigusliku seisundi deklaratsioonid võimaldavad kiiresti hinnata, kas ja kuidas on digitaalset kultuuripärandit lubatud taaskasutada.  <a href="rights_app_server/vocab/rights_data_version/">Täiendavat infot deklaratsioonide kohta leiab dokumentatsioonilehelt</a>.

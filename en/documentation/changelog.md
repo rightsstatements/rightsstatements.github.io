@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - Change Log
 section_id: documentation
+lang: en
 ---
 
 # Change Log

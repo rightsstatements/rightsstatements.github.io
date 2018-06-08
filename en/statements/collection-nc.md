@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - List of No Copyright statements
 section_id: statements
+lang: en
 ---
 
 ## Rights statements for objects that are not in copyright

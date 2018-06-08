@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - Get Involved
 section_id: get_involved
+lang: en
 ---
 
 # Get Involved
