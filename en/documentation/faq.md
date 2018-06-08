@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - FAQ
 section_id: documentation
+lang: en
 ---
 
 # Frequently Asked Questions

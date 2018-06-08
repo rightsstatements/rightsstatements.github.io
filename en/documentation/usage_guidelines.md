@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - Usage Guidelines
 section_id: documentation
+lang: en
 ---
 
 # Guidelines for applying the rights statements

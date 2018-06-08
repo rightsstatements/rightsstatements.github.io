@@ -1,6 +1,7 @@
 ---
 layout: front
 title: RightsStatements.org
+lang: en
 ---
 
 <div class="box">

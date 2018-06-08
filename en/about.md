@@ -2,6 +2,7 @@
 layout: page
 title: About
 section_id: about
+lang: en
 ---
 
 # About RightsStatements.org

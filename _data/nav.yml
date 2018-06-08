@@ -1,6 +1,11 @@
 - name: Statements
   path: /statements/
   section_id: statements
+  i18n:
+    localize: true
+    keys:
+      de: Hinweise
+      et: Deklaratsioonid
   # children:
   #  - name: List of In Copyright statements
   #    path: "rights_app_server/vocab/collection-ic/rights_data_version/"
@@ -30,3 +35,11 @@
 - name: Get Involved
   path: /get_involved.html
   section_id: get_involved
+- name: More info (English)
+  path: //rightsstatements.org/en/
+  section_id: more_info
+  i18n:
+    localize: true
+    keys:
+      de: Mehr Informationen (Englisch)
+      et: Rohkem informatsiooni (inglise)
