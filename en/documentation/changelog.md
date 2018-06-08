@@ -14,7 +14,7 @@ This page contains an overview of all changes made to the rights statements publ
 
 ### 2018-06-08
 
-Added Estonian translation of [version 1.0 the rights statements](http://rightsstatements.org/page/1.0/?language=ee), and the [home page](http://rightsstatements.org/ee/). See the [translation document](/files/180606RS_1.0_translation_EE_approved.pdf) for a documentation of the translation process. 
+Added Estonian translation of [version 1.0 the rights statements](http://rightsstatements.org/page/1.0/?language=et), and the [home page](http://rightsstatements.org/et/). See the [translation document](/files/180606RS_1.0_translation_EE_approved.pdf) for a documentation of the translation process. 
 
 ### 2018-06-05 
 
