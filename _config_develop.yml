@@ -26,6 +26,13 @@ defaults:
     values:
       lang: "et"
       iso_name: "Eesti"
+author: rightsstatements.org
+permalink: /:categories/:year/:month/:slug.html
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+paginate: 10
+paginate_path: "/en/blog/:num/"
 default_language: en
 languages_enabled: yes
 rights_app_server: //h2481931.stratoserver.net:9001
