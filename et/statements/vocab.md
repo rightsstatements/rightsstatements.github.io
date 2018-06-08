@@ -7,7 +7,7 @@ lang: et
 
 # Autoriõigusliku seisundi deklaratsioonid
 
-Rightsstatements.org koduleht sisaldab praegu kaksteist autoriõigusliku seisundi deklaratsiooni, mida mäluasutused saavad kasutada avalikkuse teavitamiseks digitaalsete objektide autoriõiguslikust seisundist ja taaskasutussõigustest. Deklaratsioonide väljatöötamisel on silmas peetud nii inim- kui ka masinkasutajate (nagu otsingumootorid) huve ning need avaldatakse linkandmetena. Igale deklaratsioonile vastab unikaalne URI.
+Rightsstatements.org koduleht sisaldab praegu kaksteist autoriõigusliku seisundi deklaratsiooni, mida mäluasutused saavad kasutada avalikkuse teavitamiseks digitaalsete objektide autoriõiguslikust seisundist ja taaskasutusõigustest. Deklaratsioonide väljatöötamisel on silmas peetud nii inim- kui ka masinkasutajate (nagu otsingumootorid) huve ning need avaldatakse linkandmetena. Igale deklaratsioonile vastab unikaalne URI.
 
 Autoriõigusliku seisundi deklaratsioonide väljatöötamisel on lähtutud mäluasutuste ja digitaalset kultuuripärandit vahendavate koondamisplatvormide vajadustest ning need ei ole mõeldud üksikisikute isikliku loomingu litsentseerimiseks. (Juhul kui otsite sobivat vahendit oma isikliku loomingu litsentseerimiseks, võite kaaluda mõne [Creative Commonsi litsentsi](https://creativecommons.org/licenses/){:target="_blank"} kasutamist.)
 
