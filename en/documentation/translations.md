@@ -15,7 +15,7 @@ The rights statements and underlying infrastructure of rightsstatements.org have
   
 The rights statements have been translated into the following languages: 
 
-* [Estonian](http://rightsstatements.org/page/1.0/?language=ee) (Translation partner: [Wikimedia Eesti](https://ee.wikimedia.org/wiki/Esileht) and [Estonian Photographic Heritage Society](http://fotoparand.org.ee/wp/eng/))
+* [Estonian](http://rightsstatements.org/page/1.0/?language=et) (Translation partner: [Wikimedia Eesti](https://ee.wikimedia.org/wiki/Esileht) and [Estonian Photographic Heritage Society](http://fotoparand.org.ee/wp/eng/))
 * [German](http://rightsstatements.org/page/1.0/?language=de) (Prof [Ellen Euler](https://www.fh-potsdam.de/studieren/fachbereiche/informationswissenschaften/personen/lehrende/detailansicht/person-action/ellen-euler/show/Person/) and [Ilja Braun](http://iljabraun.de/))
 
 ## Ongoing translation efforts
