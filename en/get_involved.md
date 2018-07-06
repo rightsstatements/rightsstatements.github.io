@@ -45,5 +45,4 @@ The Technical Working Group is chaired by Mark Matienzo (Stanford University Lib
 * Tom Johnson, PhD Student, University of Washington Information School; 
 * Patrick Peiffer, Digital Librarian, Bibliothèque Nationale de Luxembourg; 
 * Richard J. Urban, Digital Asset Manager and Strategist, Corning Museum of Glass; and 
-* Maarten Zeinstra, Advisor, Copyright and Technology, Kennisland.
 
