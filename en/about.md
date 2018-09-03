@@ -7,40 +7,23 @@ lang: en
 
 # About RightsStatements.org
 
-RightsStatements.org is a joint initiative of [Europeana](http://europeana.eu/) and the [Digital Public Library of America](http://dp.la/) (DPLA). Europeana, the Digital Public Library of America, and many other libraries, archives and other cultural heritage institutions believe that everyone should be able to engage with their cultural heritage online. We can help achieve this by providing cultural heritage institutions with simple and standardized terms to summarize the copyright status of Works in their collection and how those Works may be used. These simple and standardized terms we call "Rights Statements." Providing this information is essential for those who wish to actively engage with the works they find online. Can they use it in a school report? Print it on a t­-shirt? Integrate it into a commercial app?
+We believe that everyone should be able to engage with their cultural heritage online, and we are not alone in this - libraries, archives and museums around the world are also looking for ways to improve access to and reuse of their digital collections.
 
-Currently, there is no global approach to rights statements that works for a broad set of institutions, leading to a confusing proliferation of terms. Simplifying the use and application of Rights Statements benefits both contributing organizations, which share their valuable collections online through aggregators such as Europeana and the DPLA, and the people who engage with those collections.
+We want to help cultural heritage institutions work towards this vision by making it easier for users to understand what they can do with a digital object they discover.  Our work is driven by the absence of a global approach to addressing this.  No other systems meet the specific needs of a broad range of cultural heritage organisations, which has led to a proliferation of terms. This has led to confusion for the organisations and the users.
 
-RightsStatements.org provides 12 standardized [rights statements]({{ site.rights_app_server }}/vocab/{{ site.rights_data_version }}/) that can be used by cultural heritage institutions to communicate the copyright and re-use status of digital objects to the public. These statements provide a  minimum, baseline standard for organizations contributing to the DPLA, Europeana and any other digital aggregator that adopts the RightsStatements.org standard.
+## Providing standardised interoperable rights and reuse information
 
-RightsStatements.org establishes the vocabulary that every organization can use to talk to their audiences about copyright and related rights in a meaningful way. It provides the technical and governance infrastructure to support their development and adoption, and ensure their on­going relevance.
+We provide simple and standardized terms - which we call ‘rights statements’  to summarize the copyright status of objects in their collection, as well as how those objects may be used. 
 
-The Consortium Business Plan for 2018 prepared by the Steering Committee and supported by a Work Plan is now published:
+The rights statements are designed to be used by cultural heritage institutions to communicate the copyright and re-use status of digital objects to their users. These statements provide a best practice for use by both  international, national and regional aggregators of cultural heritage data, and the individual institutions and organisations that contribute data to them.
 
-1. [2018 Business Plan](http://bit.ly/2oZQe4m)
-2. [Consortium Work Plan 2018](http://bit.ly/2DiEbTS)
+The rights statements are not just about the making things easier for the user.  RightsStatements.org establishes the vocabulary that every organization can use to talk to their audiences - internally and externally - about copyright and related rights in a meaningful way. It provides the technical and governance infrastructure to support their development and adoption, and ensure their on­going relevance.
 
-## Steering Committee
+## A collaborative approach to governance which ensures the consortium meet the needs of the cultural heritage sector
 
-The Steering Committee overseas the development of the work of the Consortium. Consisting of 9 members representing fee paying member of the consortium, the co-chairs of the working groups, and supported by a Coordinator, they meet virtually bi-monthly and once in person annually. The first annual meeting of the Steering Committee was held in September 2017, at the offices of Europeana Foundation, The Hague, Netherlands. The minutes of that meeting are publicly [available here](https://docs.google.com/document/d/1FHgxm9YF4ZWBtcDRjfBvcm8SG984cS1bVhPLpmTXQ28/). Minutes of subsequent meetings will be published in due course.
+The rightsstatements.org consortium is a member based organisation - currently comprising of 5 continental and international aggregators.  Each members contributes an annual fee, and provides in-kind support.
 
-Chair:  Jill Cousins, on behalf of Europeana Foundation
-
-Vice Chair: Caitlin Horrall, Library & Archives Canada
-
-Members:
-* Partha Pratim Das, National Digital Library India
-* Cathie Oates, Trove at the National Digital Library of Australia
-* Emily Gore, the Digital Public Library of America (also Co-Chair of the Statements WG)
-* Paul Keller, Kennisland (Co-Chair of the Statements WG)
-* Antoine Isaac, Europeana Foundation (Co-Chair of the Technical Working Group)
-* Mark Matienzo, Stanford University (Co-Chair of the Technical Working Group)
-
-Coordinator:  Julia Fallon, Europeana Foundation
-
-## Working Groups
-
-The basic principles and the technical infrastructure of rightsstatements.org have been developed by DPLA and Europeana with the help of two working groups (the International Rights Statements Working Group, and its Technical Working Group) comprised of individuals from Europeana, DPLA and a number of organizations contributing to these platforms.
+### Consortium members
 
 <div class="box">
 ## Partner Organizations
@@ -80,14 +63,68 @@ The basic principles and the technical infrastructure of rightsstatements.org ha
 </div>
 </div>
 
+The development of the consortium is overseen by a Steering Committee.  The development and maintenance of the statements are driven by two working groups:  The Statements Working Group, and the Technical Working Group.  All of this is supported by a dedicated coordinator (0.2 FTE) paid for by the consortium.
 
-## Advisors
+The Steering Committee made up of 9 representatives of the members, and includes the co-chairs of the working groups.  Seats on the Committee, including the chair and vice chair, are fixed for two years, renewable consecutively once.  The Committee meets bi-monthly, and holds one in-person meeting annually.
 
-Creative Commons is consulted and advises on this initiative. CC licenses and public domain tools are stewarded independently of the rights statements. The rights statements are not licenses and should not be used to license your work. Learn more about Creative Commons at <http://creativecommons.org/>.
+The first annual meeting of the Steering Committee was held in September 2017, at the offices of Europeana Foundation, The Hague, Netherlands. The minutes of that meeting are publicly [available here](https://docs.google.com/document/d/1FHgxm9YF4ZWBtcDRjfBvcm8SG984cS1bVhPLpmTXQ28/). Minutes of subsequent meetings will be published in due course.
+
+Chair: Paul Keller, Kennisland on behalf of Europeana Foundation
+
+Vice Chair: Caitlin Horrall, Library & Archives Canada
+
+Members:
+* John Bracken, Digital Public Library of America
+* Partha Pratim Das, National Digital Library India
+* Cathie Oates, Trove at the National Digital Library of Australia
+* Emily Gore, Digital Preservation Network (Co-Chair of the Statements WG)
+* Greg Cram , New York Public Library (Co-Chair of the Statements WG)
+* Antoine Isaac, Europeana Foundation (Co-Chair of the Technical Working Group)
+* Mark Matienzo, Stanford University (Co-Chair of the Technical Working Group)
+
+Coordinator:  Julia Fallon, Europeana Foundation
+
+The Consortium Business Plan for 2018 prepared by the Steering Committee and supported by a Work Plan is now published:
+
+1. [2018 Business Plan](http://bit.ly/2oZQe4m)
+2. [Consortium Work Plan 2018](http://bit.ly/2DiEbTS)
+
+## Working Groups
+
+Two working groups take forward the basic principles and  technical infrastructure that was  developed by DPLA and Europeana-based working groups.  Each group is led by two co-chairs, and is comprised of individuals with  knowledge and expertise in their respective fields.  Members of the working group have a dual role of represent the members of the consortium as well as the needs of cultural heritage organisations.  
+
+There are currently two active working groups. The International Rights Statements Working Group and the Technical Working Group.
+
+### International Rights Statements Working Group
+
+The task of the International Rights Statements Working Group is to steward the development of the rights statements offered by RightsStatements.org. Its main purpose is to ensure that the rights statements address the needs of cultural heritage institutions and aggregation platforms while ensuring that the conform to the design principles identified in the white paper "[Recommendations for Standardized International Rights Statements](/en/documentation/rights-statements-white-paper/)".
+
+The International Rights Statements Working Group is chaired by Emily Gore (Director of Member Services, Digital Preservation Network) and Greg Cram (Associate Director of Copyright & Intellectual Property, New York Public Library) and has the following members:
+* Jessica Coates, Executive Officer, Australian Digital Alliance;
+* Julia Fallon, Policy Advisor, Europeana Foundation
+* Prof. Dr. jur. Ellen Euler, Professor for Open Access / Open Data, Fachhochschule Potsdam;
+* David Hansen, Assistant Clinical Professor & Faculty Research Librarian, UNC School of Law;
+* Paul Keller , Director and Senior Copyright Policy Advisor, Kennisland;
+* Melissa Levine, Lead Copyright Officer, University of Michigan Library; and
+* Patrick Peiffer, Digital Librarian, Bibliothèque nationale de Luxembourg.
+
+### Technical Working Group
+
+The task of Technical Working Group is to develop and maintain the technical infrastructure and data model that powers the rights statements offered by RightsStatements.org, as defined in the white paper "[Requirements for the Technical Infrastructure for Standardized International Rights Statements](/en/documentation/technical-white-paper/)".
+
+The Technical Working Group is chaired by Mark Matienzo (Stanford University Libraries) and Antoine Isaac (Europeana) and has the following members: 
+* Plaban Kumar Bhowmik, Assistant Professor, Indian Institute of Technology Kharagpur;
+* Valentine Charles, Data R&D Coordinator, Europeana; 
+* Esmé Cowles, Digital Infrastructure Developer, Princeton University; 
+* Karen Estlund, Associate Dean for Technology and Digital Strategies, Penn State University Libraries; 
+* Gretchen Gueguen, Data Services Coordinator, DPLA;
+* Tom Johnson, PhD Student, University of Washington Information School; 
+* Patrick Peiffer, Digital Librarian, Bibliothèque Nationale de Luxembourg; and
+* Richard J. Urban, Digital Asset Manager and Strategist, Corning Museum of Glass. 
 
 
 <div class="box">
-## Financial Support
+## With support from
 
 RightsStatements.org has been realized with the support from:
 
