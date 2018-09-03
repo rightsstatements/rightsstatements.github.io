@@ -7,7 +7,7 @@ lang: en
 
 # Get Involved
 
-RightsStatements.org is run by a consortium consisting of [Europeana](http://europeana.eu/), the [Digital Public Library of America](http://dp.la/) (DPLA), the [National Digital Library of India](https://ndl.iitkgp.ac.in), [Library and Archives Canada](https://www.bac-lac.gc.ca/eng/about-us/Pages/national-heritage-digitization-strategy.aspx) and [Trove](https://trove.nla.gov.au) at the National Digital Library of Australia We  provide  a set of standardized rights statements that answers the needs of cultural heritage institutions and aggregators across the globe. If you are interested in joining the consortium, contributing to the development of the rights statements we offer, or if you have questions, please get in touch with us [info@rightsstatements.org](mailto:info@rightsstatements.org).
+RightsStatements.org is run by a consortium consisting of [Europeana](http://europeana.eu/), the [Digital Public Library of America](http://dp.la/) (DPLA), the [National Digital Library of India](https://ndl.iitkgp.ac.in), [Library and Archives Canada](https://www.bac-lac.gc.ca/eng/about-us/Pages/national-heritage-digitization-strategy.aspx) and [Trove](https://trove.nla.gov.au) at the National Digital Library of Australia. We  provide  a set of standardized rights statements that answers the needs of cultural heritage institutions and aggregators across the globe. If you are interested in joining the consortium, contributing to the development of the rights statements we offer, or if you have questions, please get in touch with us [info@rightsstatements.org](mailto:info@rightsstatements.org).
 
 ## Find out how to use the rights statement in your organisation
 
