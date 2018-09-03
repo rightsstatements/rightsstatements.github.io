@@ -23,10 +23,8 @@ The rights statements are not just about the making things easier for the user. 
 
 The rightsstatements.org consortium is a member based organisation - currently comprising of 5 continental and international aggregators.  Each members contributes an annual fee, and provides in-kind support.
 
-### Consortium members
-
 <div class="box">
-## Partner Organizations
+### Consortium members
 
 <div class="row centered-text">
 <div class="medium-4 columns logo">
@@ -36,29 +34,17 @@ The rightsstatements.org consortium is a member based organisation - currently c
 [![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
 </div>
 <div class="medium-4 columns logo">
-[![Kennisland](/files/images/kennisland-logo.svg)](http://www.kl.nl/)
+[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
 </div>
 </div>
 <div class="row centered-text">
-<div class="medium-4 columns logo">
-[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
-</div>
 <div class="medium-4 columns logo">
 [![National Heritage Digitization Stragegy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
 </div>
 <div class="medium-4 columns logo">
 [![Trove](/files/images/TroveLogo.png)](https://trove.nla.gov.au)
 </div>
-</div>
-<div class="row centered-text">
 <div class="medium-4 columns logo">
-[![Bibliothèque nationale de Luxembourg](/files/images/bnl-logo.svg)](http://www.bnl.public.lu/)
-</div>
-<div class="medium-4 columns logo">
-[![University of Michigan Library](/files/images/MLibLogo.svg)](http://www.lib.umich.edu/)
-</div>
-<div class="medium-4 columns logo">
-[![The New York Public Library](/files/images/nypl-logo.svg)](http://nypl.org/)
 </div>
 </div>
 </div>
