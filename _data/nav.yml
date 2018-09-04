@@ -35,6 +35,9 @@
 - name: Get Involved
   path: /get_involved.html
   section_id: get_involved
+- name: Blog
+  path: /blog/
+  section_id: blog
 - name: More info (English)
   path: //rightsstatements.org/en/
   section_id: more_info

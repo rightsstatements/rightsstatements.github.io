@@ -1,4 +1,4 @@
-name: rightsstatements
+name: rightsstatements.org
 url: //rightsstatements.github.io
 canonical_url: //rightsstatements.org
 markdown: kramdown
@@ -13,19 +13,29 @@ defaults:
       path: "en"
     values:
       lang: "en"
+      categories: ["en"]
       iso_name: "English"
   -
     scope:
       path: "de"
     values:
       lang: "de"
+      categories: ["de"]
       iso_name: "Deutsch"
   -
     scope:
       path: "et"
     values:
       lang: "et"
+      categories: ["et"]
       iso_name: "Eesti"
+author: rightsstatements.org
+permalink: /:categories/:year/:month/:slug.html
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+paginate: 10
+paginate_path: "/en/blog/:num/"
 default_language: en
 languages_enabled: yes
 rights_app_server: //rights-stg.rightsstatements.org

@@ -1,7 +1,7 @@
 language: ruby
 rvm:
 - 2.2
-install: gem install jekyll
+install: gem install jekyll jekyll-paginate jekyll-feed
 script: "[ -e _config_${TRAVIS_BRANCH}.yml ] && jekyll build --config _config_${TRAVIS_BRANCH}.yml || jekyll build"
 branches:
   only:
