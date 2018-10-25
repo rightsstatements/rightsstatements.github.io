@@ -5,6 +5,7 @@
     localize: true
     keys:
       de: Hinweise
+      es: Declaraciones
       et: Deklaratsioonid
   # children:
   #  - name: List of In Copyright statements
@@ -45,4 +46,5 @@
     localize: true
     keys:
       de: Mehr Informationen (Englisch)
+      es: Más información (inglés)
       et: Rohkem infot (inglise keeles)
