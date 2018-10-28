@@ -18,7 +18,15 @@
     et:
       header: RightsStatements.org koduleht sisaldab kaksteist digitaalse kultuuripärandi kasutusõigusi kirjeldavat standardiseeritud autoriõigusliku seisundi deklaratsiooni.
       about:
-        Autoriõigusliku seisundi deklaratsioonid võimaldavad kiiresti hinnata, kas ja kuidas on digitaalset kultuuripärandit lubatud taaskasutada.  <a href="rights_app_server/vocab/rights_data_version/">Täiendavat infot deklaratsioonide kohta leiab dokumentatsioonilehelt</a>.
+        Autoriõigusliku seisundi deklaratsioonid võimaldavad kiiresti hinnata, kas ja kuidas on digitaalset kultuuripärandit lubatud taaskasutada. <a href="rights_app_server/vocab/rights_data_version/">Täiendavat infot deklaratsioonide kohta leiab dokumentatsioonilehelt</a>.
+    fi:
+      header: RightsStatements.org tarjoaa 12 vakiomuotoista käyttöoikeuskuvausta verkossa olevalle kulttuuriperinnölle.
+      about:
+        Käyttöoikeuskuvauksistamme selviää helposti, onko verkossa olevien kulttuuriperintöteosten uudelleenkäyttö sallittua ja miten niitä voi käyttää uudelleen. <a href="rights_app_server/vocab/rights_data_version/">Lisätietoa käyttöoikeuskuvauksista.</a>
+    sv-FI:
+      header: RightsStatements.org erbjuder 12 standardiserade nyttjanderättsbeskrivningar för kulturarv på nätet.
+      about:
+        Våra nyttjanderättsbeskrivningar gör det enkelt att se om och hur kulturarvsverk på nätet får återanvändas. Läs mer om nyttjanderättsbeskrivningarna <a href="rights_app_server/vocab/rights_data_version/">här</a>.
 
 
 - image: slide-2.jpg
@@ -42,3 +50,11 @@
       header: RightsStatements.org koduleht sisaldab kaksteist digitaalse kultuuripärandi kasutusõigusi kirjeldavat standardiseeritud autoriõigusliku seisundi deklaratsiooni.
       about:
         Autoriõigusliku seisundi deklaratsioonid võimaldavad kiiresti hinnata, kas ja kuidas on digitaalset kultuuripärandit lubatud taaskasutada.  <a href="rights_app_server/vocab/rights_data_version/">Täiendavat infot deklaratsioonide kohta leiab dokumentatsioonilehelt</a>.
+    fi:
+      header: RightsStatements.org tarjoaa 12 vakiomuotoista käyttöoikeuskuvausta verkossa olevalle kulttuuriperinnölle.
+      about:
+        Käyttöoikeuskuvauksistamme selviää helposti, onko verkossa olevien kulttuuriperintöteosten uudelleenkäyttö sallittua ja miten niitä voi käyttää uudelleen. <a href="rights_app_server/vocab/rights_data_version/">Lisätietoa käyttöoikeuskuvauksista.</a>
+    sv-FI:
+      header: RightsStatements.org erbjuder 12 standardiserade nyttjanderättsbeskrivningar för kulturarv på nätet.
+      about:
+        Våra nyttjanderättsbeskrivningar gör det enkelt att se om och hur kulturarvsverk på nätet får återanvändas. Läs mer om nyttjanderättsbeskrivningarna <a href="rights_app_server/vocab/rights_data_version/">här</a>
