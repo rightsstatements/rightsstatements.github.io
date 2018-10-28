@@ -380,7 +380,7 @@ small,
 .statements-category-teaser h3 {
   color: #318ac7;
   margin-bottom: 25px;
-  white-space: nowrap;
+  /* white-space: nowrap; */
 }
 
 .statements-category-teaser p {
