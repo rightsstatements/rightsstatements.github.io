@@ -7,7 +7,7 @@ lang: en
 
 # Buttons and other assets
 
-On this page you find the statement buttons and icons that you can use when applying the rights statements online. Please refer to our [guidelines for applying the rights statements]({{ site.url }}{{ site.baseurl }}/en/documentation/guidelines.html) for more information on how to correctly apply the rights statements online.
+On this page you find the statement buttons and icons that you can use when applying the rights statements online. Please refer to our [guidelines for applying the rights statements]({{ site.url }}{{ site.baseurl }}/en/documentation/usage_guidelines.html) for more information on how to correctly apply the rights statements online.
 
 <div class="box">
 ## Buttons
