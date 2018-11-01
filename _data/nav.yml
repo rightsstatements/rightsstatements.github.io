@@ -7,6 +7,8 @@
       de: Hinweise
       es: Declaraciones
       et: Deklaratsioonid
+      fi: Kuvaukset
+      sv-FI: Beskrivningar
   # children:
   #  - name: List of In Copyright statements
   #    path: "rights_app_server/vocab/collection-ic/rights_data_version/"
@@ -48,3 +50,5 @@
       de: Mehr Informationen (Englisch)
       es: Más información (inglés)
       et: Rohkem infot (inglise keeles)
+      fi: Lisätietoa (englisi)
+      sv-FI: Mer information (engelska)
