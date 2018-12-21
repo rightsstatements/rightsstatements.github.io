@@ -27,7 +27,7 @@ There are currently 5 translation efforts underway:
 2. **Polish** – Translation partner: [Poznań Supercomputing and Networking Center](http://www.man.poznan.pl/online/en/), reviewer [Polish Society of Authors and Composers](https://www.zaiks.org.pl/) (ZAIKS)
 3. **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board, no translation reviewer selected yet
 4. **Portugese** - Expression of interest received, no translation partner selected yet
-5. **French** - Translation partner: [Bibliothèque nationale de Luxembourg - Nationalbibliothéik](http://bnl.lu) and [Bibliothèque nationale de France](http://bnf.fr)
+5. **French** - Translation partner: [National Library](http://bnl.lu) and [National Museum of Art and History](http://mnha.lu) of Luxembourg, reviewer [Bibliothèque nationale de France](http://bnf.fr)
 
 Applications from new translation partners will be accepted from 1st March 2019. You can contact [info@rightsstatements.org](mailto:info@rightsstatements.org) with any questions.
 </div>
