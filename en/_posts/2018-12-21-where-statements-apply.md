@@ -18,8 +18,6 @@ This means that as our statements have been designed to reflect the status of a 
 
 The following three statements refer to the copyright status of both the _digital object_ and the _original work_:
 
-
-
 *   [In Copyright](https://rightsstatements.org/vocab/InC/1.0/)
 *   [In Copyright - EU Orphan Work](https://rightsstatements.org/vocab/InC-OW-EU/1.0/)
 *   [In Copyright - Rights-holder(s) Unlocatable or Unidentifiable](https://rightsstatements.org/vocab/InC-RUU/1.0/)
