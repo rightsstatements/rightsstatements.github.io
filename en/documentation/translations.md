@@ -18,7 +18,7 @@ The rights statements have been translated into the following languages:
 * [Estonian](http://rightsstatements.org/page/1.0/?language=et) - Translation partner: [Wikimedia Eesti](https://ee.wikimedia.org/wiki/Esileht), reviewed by [Estonian Photographic Heritage Society](http://fotoparand.org.ee/wp/eng/)
 * [Finnish](http://rightsstatements.org/page/1.0/?language=fi) - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services, reviewed by [HH Partners](https://www.hhpartners.fi/en/)
 * [German](http://rightsstatements.org/page/1.0/?language=de) - Translation partner: Prof. [Ellen Euler](https://www.fh-potsdam.de/studieren/fachbereiche/informationswissenschaften/personen/lehrende/detailansicht/person-action/ellen-euler/show/Person/), reviewed by [Ilja Braun](http://iljabraun.de/)
-1. [Spanish](http://rightsstatements.org/page/1.0/?language=es) - Translation partner: [Museo del Cine Pablo Ducrós Hicken](http://museodelcineba.org/), reviewed by [Safe Creative](https://www.safecreative.org/)
+* [Spanish](http://rightsstatements.org/page/1.0/?language=es) - Translation partner: [Museo del Cine Pablo Ducrós Hicken](http://museodelcineba.org/), reviewed by [Safe Creative](https://www.safecreative.org/)
 
 ## Ongoing translation efforts
 
