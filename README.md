@@ -44,6 +44,25 @@ NB: a Pull Request shall be merged only after the build has completed. Doing oth
 
 After this, deploy the site (or have it deployed by someone with the right permission) on the staging and/or the production server using the instructions in the Deployment section above.
 
+## Implementing translations
+
+To implement translations:
+
+* Add a new directory using the language tag for the language you're adding. (It's probably easiest to copy from one of the existing translations, e.g. `es`).
+* Edit each of the following files, pasting in translations and ensuring that the `lang` key in the YAML front matter gets set. For example, for language `xx`:
+  - `xx/index.md`
+  - `xx/statements/collection-ic.md`
+  - `xx/statements/collection-nc.md`
+  - `xx/statements/collection-other.md`
+  - `xx/statements/index.html`
+  - `xx/statements/vocab.md`
+* Edit `_config.yml`, `_config_develop.yml`, and `_config_production.yml` to add keys and associated translations for the language you're editing.
+* Also edit `_data/nav.yml` and `_data/slides.yml` adding appropriate keys and associated translations for the language you're editing.
+* Confirm that there are no non-breaking spaces (`\u00A0`), no "smart quotes", and no em- or en-dashes.
+* If provided, add any PDF documentation related to the translation to the `files` directory.
+
+See also notes on implementing translations for the [rights app](https://github.com/rightsstatements/rights-app/blob/master/README.md) and the [data model](https://github.com/rightsstatements/data-model/blob/master/README.md) for more information.
+
 ## Adding content
 
 To add content, navigate to [en](https://github.com/rightsstatements/rightsstatements.github.io/tree/master/en) or a sub-directory thereof and click on "New file":
@@ -54,7 +73,7 @@ Then, assign a file name with the `.md` extension, add the front matter and fina
 
 ![Add file](files/images/add_file.png?raw=true)
 
-When you are done, commit the file to `master` and create a pull request as described above. 
+When you are done, commit the file to `master` and create a pull request as described above.
 After this, deploy the site (or have it deployed by someone with the right permission) on the staging and/or the production server using the instructions in the Deployment section above.
 
 ## Managing assets
@@ -71,10 +90,10 @@ When done adding files, again commit them to the `master` branch and create a pu
 
     [Link caption]({{ site.url }}{{ site.baseurl }}/files/document.pdf)
     ![Image text]({{ site.url }}{{ site.baseurl }}/files/images/picture.png)
-    
+
 After this, deploy the site (or have it deployed by someone with the right permission) on the staging and/or the production server using the instructions in the Deployment section above.
 
-NB: adding some files may require changing existing redirections (notably, for the whitepaper URIs). These updates currently need to be done in three different config files at the root of the repository: _config.yml, _config_develop.yml and _config_production.yml
+NB: adding some files may require changing existing redirections (notably, for the whitepaper URIs). These updates currently need to be done in three different config files at the root of the repository: `_config.yml`, `_config_develop.yml` and `_config_production.yml`.
 
 ## Managing the menu structure
 
