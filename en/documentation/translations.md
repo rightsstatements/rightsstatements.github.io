@@ -24,7 +24,7 @@ The rights statements have been translated into the following languages:
 
 There are currently 5 translation efforts underway:
 1. **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services, reviewed by [HH Partners](https://www.hhpartners.fi/en/) - under review by RightsStatements.org
-2. **Polish** – Translation partner: [Poznań Supercomputing and Networking Center](http://www.man.poznan.pl/online/en/), reviewer [Polish Society of Authors and Composers](https://www.zaiks.org.pl/) (ZAIKS)
+2. **Polish** – Translation partner: [Poznań Supercomputing and Networking Center](http://www.man.poznan.pl/online/en/), reviewer [Polish Society of Authors and Composers](https://www.zaiks.org.pl/) (ZAIKS) - [OPEN FOR PUBLIC CONSULTATION](https://docs.google.com/document/d/1_eSB21TkSS4YFiv654ryNJ7yTxbKbE77KosECHhDR90/) until 29th March 2019
 3. **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board, no translation reviewer selected yet
 4. **Portugese** - Expression of interest received, no translation partner selected yet
 5. **French** - Translation partner: [National Library](http://bnl.lu) and [National Museum of Art and History](http://mnha.lu) of Luxembourg, reviewer [Bibliothèque nationale de France](http://bnf.fr)
