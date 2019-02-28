@@ -28,6 +28,9 @@ There are currently 5 translation efforts underway:
 3. **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board, no translation reviewer selected yet
 4. **Portugese** - Expression of interest received, no translation partner selected yet
 5. **French** - Translation partner: [National Library](http://bnl.lu) and [National Museum of Art and History](http://mnha.lu) of Luxembourg, reviewer [Bibliothèque nationale de France](http://bnf.fr)
+6. **Lithuanian** - Translation partner the [National Library of Lithuania](https://www.lnb.lt/), and the [Professional Law Partnership iLaw](http://en.ilawfirm.lt/), no translation reviewer selected yet
+7. **Hindi** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India, reviewed by [Mahatma Gandhi International Hindi University, Wardha](http://www.hindivishwa.org/Default.aspx) of India
+8. **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India reviewed by [Jadavpur University](http://www.jaduniv.edu.in/) of India
 
-Applications from new translation partners will be accepted from 1st March 2019. You can contact [info@rightsstatements.org](mailto:info@rightsstatements.org) with any questions.
+Applications from new translation partners will be accepted from 1st June 2019. You can contact [info@rightsstatements.org](mailto:info@rightsstatements.org) with any questions.
 </div>
