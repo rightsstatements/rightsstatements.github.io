@@ -13,7 +13,7 @@ We want to help cultural heritage institutions work towards this vision by makin
 
 ## Providing standardised interoperable rights and reuse information
 
-We provide simple and standardized terms - which we call ‘rights statements’  to summarize the copyright status of objects in their collection, as well as how those objects may be used. 
+We provide simple and standardized terms - which we call ‘rights statements’  to summarize the copyright status of objects in their collection, as well as how those objects may be used.
 
 The rights statements are designed to be used by cultural heritage institutions to communicate the copyright and re-use status of digital objects to their users. These statements provide a best practice for use by both  international, national and regional aggregators of cultural heritage data, and the individual institutions and organisations that contribute data to them.
 
@@ -55,7 +55,7 @@ The Steering Committee made up of 9 representatives of the members, and includes
 
 The first annual meeting of the Steering Committee was held in September 2017, at the offices of Europeana Foundation, The Hague, Netherlands. The minutes of that meeting are publicly [available here](https://docs.google.com/document/d/1FHgxm9YF4ZWBtcDRjfBvcm8SG984cS1bVhPLpmTXQ28/). Minutes of subsequent meetings will be published in due course.
 
-Chair: Paul Keller, Kennisland on behalf of Europeana Foundation
+Chair: Paul Keller, independent advisor on behalf of Europeana Foundation
 
 Vice Chair: Caitlin Horrall, Library & Archives Canada
 
@@ -63,8 +63,7 @@ Members:
 * John Bracken, Digital Public Library of America
 * Partha Pratim Das, National Digital Library India
 * Cathie Oates, Trove at the National Digital Library of Australia
-* Emily Gore, Digital Preservation Network (Co-Chair of the Statements WG)
-* Greg Cram , New York Public Library (Co-Chair of the Statements WG)
+* Greg Cram, New York Public Library (Chair of the Statements WG)
 * Antoine Isaac, Europeana Foundation (Co-Chair of the Technical Working Group)
 * Mark Matienzo, Stanford University (Co-Chair of the Technical Working Group)
 
@@ -85,28 +84,30 @@ There are currently two active working groups. The International Rights Statemen
 
 The task of the International Rights Statements Working Group is to steward the development of the rights statements offered by RightsStatements.org. Its main purpose is to ensure that the rights statements address the needs of cultural heritage institutions and aggregation platforms while ensuring that the conform to the design principles identified in the white paper "[Recommendations for Standardized International Rights Statements](/en/documentation/rights-statements-white-paper/)".
 
-The International Rights Statements Working Group is chaired by Emily Gore (Director of Member Services, Digital Preservation Network) and Greg Cram (Associate Director of Copyright & Intellectual Property, New York Public Library) and has the following members:
+The International Rights Statements Working Group is chaired by Greg Cram (Associate Director of Copyright & Intellectual Property, New York Public Library) and has the following members:
 * Jessica Coates, Executive Officer, Australian Digital Alliance;
-* Julia Fallon, Policy Advisor, Europeana Foundation
+* Julia Fallon, Senior Policy Advisor, Europeana Foundation;
+* Emily Gore, expert advisor;
 * Prof. Dr. jur. Ellen Euler, Professor for Open Access / Open Data, Fachhochschule Potsdam;
 * David Hansen, Assistant Clinical Professor & Faculty Research Librarian, UNC School of Law;
-* Paul Keller , Director and Senior Copyright Policy Advisor, Kennisland;
-* Melissa Levine, Lead Copyright Officer, University of Michigan Library; and
-* Patrick Peiffer, Digital Librarian, Bibliothèque nationale de Luxembourg.
+* Paul Keller, independent policy advisor;
+* Melissa Levine, Lead Copyright Officer, University of Michigan Library;
+* Patrick Peiffer, Digital Librarian, Bibliothèque nationale de Luxembourg; and
+* Liam Wyatt, GLAMwiki community manager, Europeana Foundation.
 
 ### Technical Working Group
 
 The task of Technical Working Group is to develop and maintain the technical infrastructure and data model that powers the rights statements offered by RightsStatements.org, as defined in the white paper "[Requirements for the Technical Infrastructure for Standardized International Rights Statements](/en/documentation/technical-white-paper/)".
 
-The Technical Working Group is chaired by Mark Matienzo (Stanford University Libraries) and Antoine Isaac (Europeana) and has the following members: 
+The Technical Working Group is chaired by Mark Matienzo (Stanford University Libraries) and Antoine Isaac (Europeana) and has the following members:
 * Plaban Kumar Bhowmik, Assistant Professor, Indian Institute of Technology Kharagpur;
-* Valentine Charles, Data R&D Coordinator, Europeana; 
-* Esmé Cowles, Digital Infrastructure Developer, Princeton University; 
-* Karen Estlund, Associate Dean for Technology and Digital Strategies, Penn State University Libraries; 
+* Valentine Charles, Data R&D Coordinator, Europeana;
+* Esmé Cowles, Digital Infrastructure Developer, Princeton University;
+* Karen Estlund, Associate Dean for Technology and Digital Strategies, Penn State University Libraries;
 * Gretchen Gueguen, Data Services Coordinator, DPLA;
-* Tom Johnson, PhD Student, University of Washington Information School; 
+* Tom Johnson, PhD Student, University of Washington Information School;
 * Patrick Peiffer, Digital Librarian, Bibliothèque Nationale de Luxembourg; and
-* Richard J. Urban, Digital Asset Manager and Strategist, Corning Museum of Glass. 
+* Richard J. Urban, Digital Asset Manager and Strategist, Corning Museum of Glass.
 
 
 <div class="box">
