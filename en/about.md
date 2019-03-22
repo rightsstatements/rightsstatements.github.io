@@ -55,7 +55,7 @@ The Steering Committee made up of 9 representatives of the members, and includes
 
 The first annual meeting of the Steering Committee was held in September 2017, at the offices of Europeana Foundation, The Hague, Netherlands. The minutes of that meeting are publicly [available here](https://docs.google.com/document/d/1FHgxm9YF4ZWBtcDRjfBvcm8SG984cS1bVhPLpmTXQ28/). Minutes of subsequent meetings will be published in due course.
 
-Chair: Paul Keller, independent advisor on behalf of Europeana Foundation
+Chair: Paul Keller, independent policy advisor on behalf of Europeana Foundation
 
 Vice Chair: Caitlin Horrall, Library & Archives Canada
 
@@ -93,7 +93,7 @@ The International Rights Statements Working Group is chaired by Greg Cram (Assoc
 * Paul Keller, independent policy advisor;
 * Melissa Levine, Lead Copyright Officer, University of Michigan Library;
 * Patrick Peiffer, Digital Librarian, Bibliothèque nationale de Luxembourg; and
-* Liam Wyatt, GLAMwiki community manager, Europeana Foundation.
+* Liam Wyatt, GLAM-Wiki community manager, Europeana Foundation.
 
 ### Technical Working Group
 
