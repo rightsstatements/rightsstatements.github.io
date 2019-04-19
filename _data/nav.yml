@@ -8,6 +8,7 @@
       es: Declaraciones
       et: Deklaratsioonid
       fi: Kuvaukset
+      pl: Oświadczenia
       sv-FI: Beskrivningar
   # children:
   #  - name: List of In Copyright statements
@@ -51,4 +52,5 @@
       es: Más información (inglés)
       et: Rohkem infot (inglise keeles)
       fi: Lisätietoa (englisi)
+      pl: Więcej informacji (angielski)
       sv-FI: Mer information (engelska)

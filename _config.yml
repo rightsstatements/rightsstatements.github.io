@@ -24,11 +24,32 @@ defaults:
       iso_name: "Deutsch"
   -
     scope:
+      path: "es"
+    values:
+      lang: "es"
+      categories: ["es"]
+      iso_name: "Español"
+  -
+    scope:
       path: "et"
     values:
       lang: "et"
       categories: ["et"]
       iso_name: "Eesti"
+  -
+    scope:
+      path: "fi"
+    values:
+      lang: "fi"
+      categories: ["fi"]
+      iso_name: "Suomi"
+  -
+    scope:
+      path: "pl"
+    values:
+      lang: "pl"
+      categories: ["pl"]
+      iso_name: "Polski"
 author: rightsstatements.org
 permalink: /:categories/:year/:month/:slug.html
 plugins:

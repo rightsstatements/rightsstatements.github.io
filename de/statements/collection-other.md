@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - Andere Rechtehinweise
 section_id: statements
+lang: de
 ---
 
 ## Andere Rechtehinweise
