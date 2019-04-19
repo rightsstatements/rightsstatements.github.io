@@ -1,20 +1,18 @@
----
----
 <!doctype html>
 
-<html class="no-js" lang="{{ language }}">
+<html class="no-js" lang="">
 
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{% raw %}{{data.prefLabel.[@value]}}{% endraw %} | Rights Statements</title>
+    <title>{{data.prefLabel.[@value]}} | Rights Statements</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.0/foundation.min.css" />
-    <link href='{{ site.url }}{{ site.baseurl }}/css/rights-stmt.css' rel='stylesheet'>
-    <link rel="stylesheet" type="text/css" href="{{ site.font_css_url }}" />
+    <link href='//h2481931.stratoserver.net:4000/css/rights-stmt.css' rel='stylesheet'>
+    <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7197296/6463212/css/fonts.css" />
 </head>
 
-{% raw %}
+
 <body markdown="0">
 
     <script type="application/ld+json">
@@ -26,7 +24,7 @@
             <div class="row statement-main">
                 <div class="large-4 columns">
                     <div class="statement-iconcolumn">
-                        <img src="{% endraw %}{{ site.url }}{{ site.baseurl }}{% raw %}/files/buttons/{{ data.identifier }}.white.svg" title="{{ data.prefLabel.[@value] }}" />
+                        <img src="//h2481931.stratoserver.net:4000/files/buttons/{{ data.identifier }}.white.svg" title="{{ data.prefLabel.[@value] }}" />
                     </div>
                 </div>
                 <div class="large-8 columns">
@@ -58,7 +56,7 @@
                     {{{ i18n "provider" locale=language }}}
                 </div>
                 <div class="large-3 columns">
-                    <img src="{% endraw %}{{ site.url }}{{ site.baseurl }}{% raw %}/files/images/logo.svg" />
+                    <img src="//h2481931.stratoserver.net:4000/files/images/logo.svg" />
                 </div>
             </div>
         </div>
@@ -72,6 +70,6 @@
     </script>
 
 </body>
-{% endraw %}
+
 
 </html>

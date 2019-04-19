@@ -1,5 +1,0 @@
-{% for default in site.defaults %}
-  {% if default.values.lang == default.scope.path and default.values.lang == include.lang %}
-    {{ default.values.iso_name }}
-  {% endif %}
-{% endfor %}
