@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - Autoriõigusliku seisundi deklaratsioonid kehtiva autoriõigusega objektidele
 section_id: statements
+lang: et
 ---
 
 ## Autoriõigusliku seisundi deklaratsioonid kehtiva autoriõigusega objektidele

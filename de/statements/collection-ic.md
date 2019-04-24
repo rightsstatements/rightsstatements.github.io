@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - Rechtehinweise für urheberrechtlich geschützte digitale Objekte
 section_id: statements
+lang: de
 ---
 
 ## Rechtehinweise für urheberrechtlich geschützte digitale Objekte
