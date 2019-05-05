@@ -30,7 +30,7 @@ For example, both Europeana and DPLA use fairly general-purpose metadata propert
 
 However, just because this is a recommended practice for partners in DPLA and Europeana, does not mean that rights statements cannot be applied to other kinds of resources in the appropriate contexts. One of the use cases we are currently following is the use of rights statements within the [Structured Data on Wikimedia Commons Project](https://commons.wikimedia.org/wiki/Commons:Structured_data). Because technical documentation has focused on Europeana/DPLA use cases, there has been some confusion about the use of the statements provided by RightsStatements.org in other contexts [\[2\]][2] [\[3\]][3]. Discussion especially occurred in the context of a new Wikidata property for the domain of _Creative Works_ that can be used to organize them with a Wikidata item for rights statements [\[4\]][4] [\[5\]][5] [\[6\]][6] (we will soon publish a blog post about that).
 
-<img src="{{site.url}}/files/images/2019-05-06-what-are-rights-statements-about-figure3.svg" alt="Figure 3: Wikimedia Commons/Wikidata example of rights statements for both original CreativeWorks and a digital surrogate." width="500"/>
+<img src="{{site.url}}/files/images/2019-05-06-what-are-rights-statements-about-figure3.svg" alt="Figure 3: Wikimedia Commons - Wikidata example of rights statements for both original CreativeWorks and a digital surrogate." width="500"/>
  
  _Figure 3: Wikimedia Commons/Wikidata example of rights statements for both original CreativeWorks and a digital surrogate._
 
