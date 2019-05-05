@@ -16,19 +16,19 @@ Further, our Technical Working Group  has declared each rights statement to also
 
 However, this does not directly answer what a rights statement is about. If we understand metadata to make assertions about _resources_ ("Anything can be a resource, including physical things, documents, abstract concepts..."), a property like dc:rights can be used to describe any identified resource. So for a simple Dublin Core example of an In Copyright resource:
 
-![Figure 1: The grammar of a Dublin Core rights statement.]({{ site.url }}{{ site.baseurl }}/files/images/2019-05-06-what-are-rights-statements-about-figure1.svg
+![Figure 1: The grammar of a Dublin Core rights statement.]({{ site.url }}{{ site.baseurl }}/files/images/2019-05-06-what-are-rights-statements-about-figure1.svg)
 _Figure 1: The grammar of a Dublin Core rights statement._
 
 It is the responsibility of your metadata model to define what kinds of resources an assertion may be about (in the context of the Resource Description Framework (RDF), this is called the "domain" of a metadata property) [\[1\]][1]
 
 For example, both Europeana and DPLA use fairly general-purpose metadata properties for expressing rights (dc:rights or its specialization edm:rights, for more details see specifications of the [Europeana Data Model](https://pro.europeana.eu/edm-documentation) and the [DPLA Metadata Application Profile](https://dp.la/info/map)). Their metadata models allow many elements to be attributed to resources that represent the original work (edm:ProvidedCHO or dpla:SourceResource) or belong to the level of digital representations (edm:WebResource, ore:Aggregation). But when using a rights statement in the context of an Europeana Data Model (EDM) metadata, the edm:rights property expects the subject of an assertion to be an edm:WebResource or an Aggregation of such resources. In this context, the rights statement will thus always be _about_ the rights status of a digital representation. (Because DPLA's Metadata Application Profile is based on EDM, it also associates edm:rights with a edm:WebResource).
 
-![Figure 2: In Copyright rights statement classification of a Europeana WebResource.]({{ site.url }}{{ site.baseurl }}/files/images/2019-05-06-what-are-rights-statements-about-figure2.svg
+![Figure 2: In Copyright rights statement classification of a Europeana WebResource.]({{ site.url }}{{ site.baseurl }}/files/images/2019-05-06-what-are-rights-statements-about-figure2.svg)
 _Figure 2: In Copyright rights statement classification of a Europeana WebResource._
 
 However, just because this is a recommended practice for partners in DPLA and Europeana, does not mean that rights statements cannot be applied to other kinds of resources in the appropriate contexts. One of the use cases we are currently following is the use of rights statements within the [Structured Data on Wikimedia Commons Project](https://commons.wikimedia.org/wiki/Commons:Structured_data). Because technical documentation has focused on Europeana/DPLA use cases, there has been some confusion about the use of the statements provided by RightsStatements.org in other contexts [\[2\]][2] [\[3\]][3]. Discussion especially occurred in the context of a new Wikidata property for the domain of _Creative Works_ that can be used to organize them with a Wikidata item for rights statements [\[4\]][4] [\[5\]][5] [\[6\]][6] (we will soon publish a blog post about that).
 
-![Figure 3: Wikimedia Commons/Wikidata example of rights statements for both original CreativeWorks and a digital surrogate.({{ site.url }}{{ site.baseurl }}/files/images/2019-05-06-what-are-rights-statements-about-figure3.svg
+![Figure 3: Wikimedia Commons/Wikidata example of rights statements for both original CreativeWorks and a digital surrogate.]({{ site.url }}{{ site.baseurl }}/files/images/2019-05-06-what-are-rights-statements-about-figure3.svg)
 _Figure 3: Wikimedia Commons/Wikidata example of rights statements for both original CreativeWorks and a digital surrogate._
 
 **Example**
@@ -37,7 +37,7 @@ _Figure 3: Wikimedia Commons/Wikidata example of rights statements for both orig
 
 In this example the _creative works_ are the murals currently held by The Schomburg Center for Research in Black Culture. In the context of Wikimedia Commons metadata model, we could express a different assertion about the digital image that [Depicts (P180)](https://www.wikidata.org/wiki/Property:P180) this creative work:
 
-[https://digitalcollections.nypl.org/items/634c59a4-6f99-3618-e040-e00a180633b0](https://digitalcollections.nypl.org/items/634c59a4-6f99-3618-e040-e00a180633b0) -> [No Copyright - United States (Q47530911)](https://www.wikidata.org/wiki/Q47530911)
+[https://digitalcollections.nypl.org/items/634c59a4-6f99-3618-e040-e00a180633b0](https://digitalcollections.nypl.org/items/634c59a4-6f99-3618-e040-e00a180633b0) &rarr; [No Copyright - United States (Q47530911)](https://www.wikidata.org/wiki/Q47530911)
 
 Although there is a relationship between the original creative work and the file that depicts it, the _Depicts_ (P180) property is insufficient for us to infer any of the complex possibilities of how the copyright status of the original and the depiction are related. Because each assertion uses the Wikidata Rights Statements Status property to refer to a different entity (the creative work vs. its depiction in a digital file) it is possible to use the same kind of rights statement for both. This flexibility reinforces the need to handle rights statements with precision in the metadata about the source work and its digital surrogate. In particular, we call on implementers of RightsStatements.org to make sure that statements are used with metadata elements that clearly pertain to one of the levels of description (original object or digital representation). Again, here the name of a metadata element matters less than its usage with specific metadata resources.
 
