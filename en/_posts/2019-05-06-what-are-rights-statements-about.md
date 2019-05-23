@@ -44,6 +44,8 @@ In this example the _creative works_ are the murals currently held by The Schomb
 
 Although there is a relationship between the original creative work and the file that depicts it, the _Depicts_ (P180) property is insufficient for us to infer any of the complex possibilities of how the copyright status of the original and the depiction are related. Because each assertion uses the Wikidata Rights Statements Status property to refer to a different entity (the creative work vs. its depiction in a digital file) it is possible to use the same kind of rights statement for both. This flexibility reinforces the need to handle rights statements with precision in the metadata about the source work and its digital surrogate. In particular, we call on implementers of RightsStatements.org to make sure that statements are used with metadata elements that clearly pertain to one of the levels of description (original object or digital representation). Again, here the name of a metadata element matters less than its usage with specific metadata resources.
 
+_Richard J. Urban, Ph.D., Digital Asset Manager & Strategist, [Corning Museum Of Glass](https://www.cmog.org/)_
+
 [1]: https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/#bib-RDF11-MT
 [2]: https://commons.wikimedia.org/wiki/Commons_talk:Structured_data/Properties_table#Mixing_different_levels_of_depiction 
 [3]: https://www.wikidata.org/wiki/Wikidata:Property_proposal/rights_statemen
