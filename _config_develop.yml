@@ -45,6 +45,13 @@ defaults:
       iso_name: "Suomi"
   -
     scope:
+      path: "fr"
+    values:
+      lang: "fr"
+      categories: ["fr"]
+      iso_name: "Français"
+  -
+    scope:
       path: "pl"
     values:
       lang: "pl"
