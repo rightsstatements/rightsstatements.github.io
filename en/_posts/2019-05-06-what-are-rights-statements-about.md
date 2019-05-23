@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What are RightsStatements About?
-date: "2019-05-06 09:00:00 -0700"
+date: "2019-05-24 09:00:00 -0700"
 ---
 
 The [previous post](https://rightsstatements.org/en/2018/12/where-statements-apply.html) discussed how the rights statements provided by RightsStatements.org may apply to different kinds of _digital_ or _original_ works. While these rights statements were designed primarily for use in the context of digitization of material culture (for example, Europeana and DPLA), this post outlines the complexities of the relationships between an original artifact and its digital surrogate.
