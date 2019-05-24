@@ -14,7 +14,7 @@ Most often the _digital object_ and the _original work_ will have the same copyr
 
 This means that as our statements have been designed to reflect the status of a _digital object_, most of them can also be used to describe the copyright and status of the _original work_. We've broken this down along with some exceptions to this below.
 
-## Rights statements for in copyright objects
+### Rights statements for in copyright objects
 
 The following three statements refer to the copyright status of both the _digital object_ and the _original work_:
 
@@ -29,7 +29,7 @@ The remaining two statements describe additional permissions on top of the copyr
 
 As such, these statements can be used to indicate re-use conditions of _digital objects_ but should not be used for _original works_ (instead the [Creative Commons licenses](https://www.creativecommons.org/) should be used for granting permissions to use copyrighted _works_).
 
-## Rights statements for objects that are not in copyright
+### Rights statements for objects that are not in copyright
 
 In this category the [No Copyright - United States](https://rightsstatements.org/vocab/NoC-US/1.0/) refers to the copyright status of both the _original work_ and its _digital object_. Unlike other statement in this category, no additional restrictions on reuse are expressed beyond its Public Domain status. It is also distinct because this public domain status depends on the physical location of the user of the _digital object_.
 
@@ -39,7 +39,7 @@ The remaining three statements indicate the status of the _digital object_ only.
 *   [No Copyright - Non-Commercial Use](https://rightsstatements.org/vocab/NoC-NC/1.0/)
 *   [No Copyright - Other Known Legal Restrictions](https://rightsstatements.org/vocab/NoC-OKLR/1.0/)
 
-## Other rights statements
+### Other rights statements
 
 All three statements in this category can be used for the _original work_ and _digital copies_ as the rights status is identical for both.
 
