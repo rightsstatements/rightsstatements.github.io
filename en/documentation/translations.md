@@ -17,7 +17,6 @@ The rights statements have been translated into the following languages:
 
 * [Estonian](http://rightsstatements.org/page/1.0/?language=et) - Translation partner: [Wikimedia Eesti](https://ee.wikimedia.org/wiki/Esileht), reviewed by [Estonian Photographic Heritage Society](http://fotoparand.org.ee/wp/eng/)
 * [Finnish](http://rightsstatements.org/page/1.0/?language=fi) - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services, reviewed by [HH Partners](https://www.hhpartners.fi/en/)
-* [French](http://rightsstatements.org/page/1.0/?language=fr) - Translation partner: [National Library](http://bnl.lu) and [National Museum of Art and History](http://mnha.lu) of Luxembourg, reviewed by [Bibliothèque nationale de France](http://bnf.fr)
 * [German](http://rightsstatements.org/page/1.0/?language=de) - Translation partner: Prof. [Ellen Euler](https://www.fh-potsdam.de/studieren/fachbereiche/informationswissenschaften/personen/lehrende/detailansicht/person-action/ellen-euler/show/Person/), reviewed by [Ilja Braun](http://iljabraun.de/)
 * [Polish](http://rightsstatements.org/page/1.0/?language=pl) – Translation partner: [Poznań Supercomputing and Networking Center](http://www.man.poznan.pl/online/en/), reviewed by [Polish Society of Authors and Composers](https://www.zaiks.org.pl/) (ZAIKS)
 * [Spanish](http://rightsstatements.org/page/1.0/?language=es) - Translation partner: [Museo del Cine Pablo Ducrós Hicken](http://museodelcineba.org/), reviewed by [Safe Creative](https://www.safecreative.org/)
@@ -28,9 +27,10 @@ There are currently 5 translation efforts underway:
 1. **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services, reviewed by [HH Partners](https://www.hhpartners.fi/en/) - under review by RightsStatements.org
 2. **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board, no translation reviewer selected yet
 3. **Portugese** - Expression of interest received, no translation partner selected yet
-4. **Lithuanian** - Translation partner the [National Library of Lithuania](https://www.lnb.lt/), and the [Professional Law Partnership iLaw](http://en.ilawfirm.lt/), no translation reviewer selected yet
-5. **Hindi** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India, reviewed by [Mahatma Gandhi International Hindi University, Wardha](http://www.hindivishwa.org/Default.aspx) of India
-6. **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India reviewed by [Jadavpur University](http://www.jaduniv.edu.in/) of India
+4. **French** - Translation partner: [National Library](http://bnl.lu) and [National Museum of Art and History](http://mnha.lu) of Luxembourg, reviewed by [Bibliothèque nationale de France](http://bnf.fr) - [OPEN FOR PUBLIC REVIEW UNTIL 24 JUNE 2019](https://docs.google.com/document/d/1t5Pe5Kz8jAKsTeveFpihD4zvR5p7Z9aNWf60tZyhwfg/)
+5. **Lithuanian** - Translation partner the [National Library of Lithuania](https://www.lnb.lt/), and the [Professional Law Partnership iLaw](http://en.ilawfirm.lt/), no translation reviewer selected yet
+6. **Hindi** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India, reviewed by [Mahatma Gandhi International Hindi University, Wardha](http://www.hindivishwa.org/Default.aspx) of India
+7. **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India reviewed by [Jadavpur University](http://www.jaduniv.edu.in/) of India
 
 Applications from new translation partners will be accepted from 1st June 2019. You can contact [info@rightsstatements.org](mailto:info@rightsstatements.org) with any questions.
 </div>
