@@ -3,6 +3,7 @@ layout: post
 title: What are RightsStatements About?
 date: "2019-05-24 09:00:00 -0700"
 ---
+_Richard J. Urban, Ph.D., Digital Asset Manager & Strategist, [Corning Museum Of Glass](https://www.cmog.org/)_
 
 The [previous post](https://rightsstatements.org/en/2018/12/where-statements-apply.html) discussed how the rights statements provided by RightsStatements.org may apply to different kinds of _digital_ or _original_ works. While these rights statements were designed primarily for use in the context of digitization of material culture (for example, Europeana and DPLA), this post outlines the complexities of the relationships between an original artifact and its digital surrogate.
 
@@ -43,8 +44,6 @@ In this example the _creative works_ are the murals currently held by The Schomb
 [https://digitalcollections.nypl.org/items/634c59a4-6f99-3618-e040-e00a180633b0](https://digitalcollections.nypl.org/items/634c59a4-6f99-3618-e040-e00a180633b0) &rarr; [No Copyright - United States (Q47530911)](https://www.wikidata.org/wiki/Q47530911)
 
 Although there is a relationship between the original creative work and the file that depicts it, the _Depicts_ (P180) property is insufficient for us to infer any of the complex possibilities of how the copyright status of the original and the depiction are related. Because each assertion uses the Wikidata Rights Statements Status property to refer to a different entity (the creative work vs. its depiction in a digital file) it is possible to use the same kind of rights statement for both. This flexibility reinforces the need to handle rights statements with precision in the metadata about the source work and its digital surrogate. In particular, we call on implementers of RightsStatements.org to make sure that statements are used with metadata elements that clearly pertain to one of the levels of description (original object or digital representation). Again, here the name of a metadata element matters less than its usage with specific metadata resources.
-
-_Richard J. Urban, Ph.D., Digital Asset Manager & Strategist, [Corning Museum Of Glass](https://www.cmog.org/)_
 
 [1]: https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/#bib-RDF11-MT
 [2]: https://commons.wikimedia.org/wiki/Commons_talk:Structured_data/Properties_table#Mixing_different_levels_of_depiction 
