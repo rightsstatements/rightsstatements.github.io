@@ -23,7 +23,7 @@ The rights statements have been translated into the following languages:
 
 ## Ongoing translation efforts
 
-There are currently 5 translation efforts underway:
+There are currently 7 translation efforts underway:
 1. **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services, reviewed by [HH Partners](https://www.hhpartners.fi/en/) - under review by RightsStatements.org
 2. **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board, no translation reviewer selected yet
 3. **Portugese** - Expression of interest received, no translation partner selected yet
