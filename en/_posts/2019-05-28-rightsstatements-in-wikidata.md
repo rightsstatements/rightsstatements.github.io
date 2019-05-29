@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RightsStatements in Wikidata
-date: 2019-05-27 10:00:00
+date: 2019-05-28 12:00:00
 ---
 We are pleased to report that the volunteer community behind _Wikidata_ - the freely licensed structured database of information, sister to Wikipedia, has recently approved the creation of a dedicated metadata _Property_ for RightsStatements. [P6426](https://www.wikidata.org/wiki/Property:P6426) to be precise. This will increase the chances that accurate, understandable, and precise rights-labelling information about cultural heritage works will be findable by end-users.
 
