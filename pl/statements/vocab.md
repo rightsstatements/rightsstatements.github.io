@@ -9,7 +9,7 @@ lang: pl
 
 RightsStatements.org oferuje obecnie 12 różnych oświadczeń prawnych, które mogą być wykorzystywane przez instytucje dziedzictwa w celu zakomunikowania odbiorcom statusu obiektów cyfrowych w kontekście majątkowych praw autorskich i możliwości ponownego wykorzystania tych obiektów. Oświadczenia prawne zostały zaprojektowane zarówno z myślą o użytkownikach, jaki i zautomatyzowanych usługach (takich jak wyszukiwarki) i są udostępniane jako Linked Data. Każde z oświadczeń prawnych jest umieszczone pod unikalnym adresem URI.
 
-Oświadczenia prawne zostały opracowane wyłącznie na potrzeby instytucji dziedzictwa oraz platform agregujących dziedzictwo kulturowe dostępne on-line i nie są przeznaczone do wykorzystania przez osoby prywatne w celu licencjonowania własnych utworów. (Jeżeli szukasz narzędzia do licencjonowania własnych utworów, weź pod uwagę możliwość wykorzystania jednej z [licencji Creative Commons](https://creativecommons.org/licenses/){:target="_blank"} zu verwenden).
+Oświadczenia prawne zostały opracowane wyłącznie na potrzeby instytucji dziedzictwa oraz platform agregujących dziedzictwo kulturowe dostępne on-line i nie są przeznaczone do wykorzystania przez osoby prywatne w celu licencjonowania własnych utworów. (Jeżeli szukasz narzędzia do licencjonowania własnych utworów, weź pod uwagę możliwość wykorzystania jednej z [licencji Creative Commons](https://creativecommons.org/licenses/){:target="_blank"}).
 
 <div class="box">
 ## Trzy kategorie oświadczeń prawnych
