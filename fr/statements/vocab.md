@@ -50,19 +50,19 @@ Les déclarations des droits sont spécifiquement élaborées pour répondre aux
 
 </div>
 
-## Déclarations des droits concernant les objets protégés par le droit d'auteur ## {#collection-ic}
+## Déclarations des droits concernant les objets protégés par le droit d'auteur {#collection-ic}
 
 Les cinq déclarations des droits qui suivent sont destinées à être utilisées pour les objets numériques protégés par le droit d'auteur. Si votre organisme est titulaire des droits sur de tels objets et qu'il entend encourager leur réutilisation, vous devriez envisager de rendre les objets accessibles au moyen d'[une licence ouverte Creative Commons](https://creativecommons.org/licenses/).
 
 {% include collection.html collection_id="collection-ic" %}
 
-## Déclarations des droits concernant les objets non protégés par le droit d'auteur ## {#collection-nc}
+## Déclarations des droits concernant les objets non protégés par le droit d'auteur {#collection-nc}
 
 Les quatre déclarations des droits qui suivent sont destinées à être utilisées pour les œuvres non protégées par le droit d'auteur, mais dont des restrictions autres que le droit d'auteur empêchent la libre réutilisation ou dont le statut d'œuvre non protégée par le droit d'auteur a été établi uniquement pour un système juridique précis. L'utilisation de ces déclarations des droits devrait se limiter aux cas où l'utilisation de la [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/) ou de la [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) est impossible.
 
 {% include collection.html collection_id="collection-nc" %}
 
-## Autres déclarations des droits ## {#collection-other}
+## Autres déclarations des droits {#collection-other}
 
 Les trois déclarations des droits qui suivent sont destinées à être utilisées pour les objets numériques dont le statut en matière de droit d'auteur n'a pas été déterminé avec certitude. Leur utilisation devrait se limiter aux cas où il n'est pas possible d'utiliser une Déclaration des Droits ou une licence plus claire.
 

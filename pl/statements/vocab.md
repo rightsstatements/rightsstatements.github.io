@@ -49,19 +49,19 @@ Oświadczenia prawne zostały opracowane wyłącznie na potrzeby instytucji dzie
 
 </div>
 
-## Oświadczenia prawne dla obiektów objętych pełną ochroną prawnoautorską ## {#collection-ic}
+## Oświadczenia prawne dla obiektów objętych pełną ochroną prawnoautorską {#collection-ic}
 
 Następujące pięć oświadczeń prawnych jest przeznaczonych do użycia w przypadku obiektów cyfrowych, które są objęte pełną ochroną prawnoautorską. Jeżeli Twoja organizacja jest uprawnionym z majątkowych praw autorskich dla takich obiektów i chce promować ich ponowne wykorzystanie, powinniście wziąć pod uwagę udostępnianie tych obiektów na otwartej [licencji Creative Commons](https://creativecommons.org/licenses/).
 
 {% include collection.html collection_id="collection-ic" %}
 
-## Oświadczenia prawne dla obiektów nie objętych ochroną autorskich praw majątkowych ## {#collection-nc}
+## Oświadczenia prawne dla obiektów nie objętych ochroną autorskich praw majątkowych {#collection-nc}
 
 Następujące cztery oświadczenia prawne są przeznaczone do użycia w przypadku utworów, które nie są objęte ochroną autorskich praw majątkowych, ale w ich przypadku występują ograniczenia inne niż wynikające z tych praw, które uniemożliwiają dowolne wykorzystywanie tych utworów lub też w ich przypadku status prawnoautorski jest potwierdzony dla określonego systemu prawnego. Te oświadczenia powinny być stosowane wyłącznie, gdy nie można wykorzystać [Znaku Domeny Publicznej](https://creativecommons.org/publicdomain/mark/1.0/) lub [mechanizmu przeniesienia do domeny publicznej CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 {% include collection.html collection_id="collection-nc" %}
 
-## Pozostałe oświadczenia prawne ## {#collection-other}
+## Pozostałe oświadczenia prawne {#collection-other}
 
 Następujące trzy oświadczenia prawne są przeznaczone do użycia w przypadku obiektów cyfrowych, dla których status prawnoautorski nie został określony w sposób jednoznaczny. Powinny być stosowane wyłącznie jeżeli nie jest możliwe wykorzystanie bardziej precyzyjnego oświadczenia prawnego lub licencji.
 

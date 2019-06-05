@@ -49,19 +49,19 @@ Autoriõigusliku seisundi deklaratsioonide väljatöötamisel on lähtutud mälu
 
 </div>
 
-## Autoriõigusliku seisundi deklaratsioonid kehtiva autoriõigusega objektidele ## {#collection-ic}
+## Autoriõigusliku seisundi deklaratsioonid kehtiva autoriõigusega objektidele {#collection-ic}
 
 Järgmised viis autoriõigusliku seisundi deklaratsiooni on mõeldud kehtiva autoriõigusega digitaalsete objektide märgistamiseks. Juhul kui Teie organisatsioon valdab selliste objektide õigusi ning soovib edendada nende taaskasutamist, soovitame Teil kaaluda nende kättesaadavaks tegemist mõne avatud [Creative Commonsi litsentsi](https://creativecommons.org/licenses/) all.
 
 {% include collection.html collection_id="collection-ic" %}
 
-## Autoriõigusliku seisundi deklaratsioonid objektidele, millele ei kehti autoriõigus ## {#collection-nc}
+## Autoriõigusliku seisundi deklaratsioonid objektidele, millele ei kehti autoriõigus {#collection-nc}
 
 Järgmised neli autoriõigusliku seisundi deklaratsiooni on mõeldud selliste teoste märgistamiseks, millele ei kehti autoriõigus, kuid millele laienevad muud vaba taaskasutamist takistavad piirangud või mille autoriõigusliku kaitse puudumine on tuvastatud ainult mõne kindla õigusruumi puhul. Neid peaks kasutama ainult sellistel juhtudel, kus [avaliku omandi tähise](https://creativecommons.org/publicdomain/mark/1.0/) või [CC0 avaliku omandi märke](https://creativecommons.org/publicdomain/zero/1.0/) kasutamine ei ole võimalik.
 
 {% include collection.html collection_id="collection-nc" %}
 
-## Muud autoriõigusliku seisundi deklaratsioonid ## {#collection-other}
+## Muud autoriõigusliku seisundi deklaratsioonid {#collection-other}
 
 Järgmised kolm autoriõigusliku seisundi deklaratsiooni on mõeldud selliste digitaalsete objektide märgistamiseks, mille autoriõiguslikku seisundit ei ole õnnestunud tuvastada. Neid peaks kasutama ainult sellistel juhtudel, kus selgema sisuga deklaratsiooni või litsentsi kasutamine ei ole võimalik.
 

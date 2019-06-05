@@ -50,19 +50,19 @@ Käyttöoikeuskuvaukset on suunniteltu erityisesti kulttuuriperintölaitosten ja
 
 </div>
 
-## Tekijänoikeuden piirissä olevien objektien käyttöoikeuskuvaukset ## {#collection-ic}
+## Tekijänoikeuden piirissä olevien objektien käyttöoikeuskuvaukset {#collection-ic}
 
 Seuraavat viisi käyttöoikeuskuvausta on tarkoitettu tekijänoikeuden suojaamille digitaalisille objekteille. Jos organisaationne on tällaisten objektien oikeudenhaltija ja haluaa kannustaa objektien uudelleenkäyttöä, voitte harkita objektien saattamista saataville avoimella [Creative Commons -lisenssillä.](https://creativecommons.org/licenses/)
 
 {% include collection.html collection_id="collection-ic" %}
 
-## Käyttöoikeuskuvaukset objekteille, jotka eivät ole tekijänoikeuden piirissä ## {#collection-nc}
+## Käyttöoikeuskuvaukset objekteille, jotka eivät ole tekijänoikeuden piirissä {#collection-nc}
 
 Seuraavat neljä käyttöoikeuskuvausta on tarkoitettu teoksille, joita tekijänoikeus ei suojaa mutta joiden vapaan uudelleenkäytön estää jokin muu rajoitus kuin tekijänoikeus, tai teoksille, joiden tekijänoikeudellinen status (ei tekijänoikeutta) on varmistettu vain tietyn lainkäyttöalueen osalta. Näitä käyttöoikeuskuvauksia tulisi käyttää vain, jos [Public Domain -merkintä](https://creativecommons.org/publicdomain/mark/1.0/) tai [CC0](https://creativecommons.org/publicdomain/zero/1.0/) eivät sovellu käytettäviksi.
 
 {% include collection.html collection_id="collection-nc" %}
 
-## Muut käyttöoikeuskuvaukset ## {#collection-other}
+## Muut käyttöoikeuskuvaukset {#collection-other}
 
 Seuraavat kolme käyttöoikeuskuvausta on tarkoitettu käytettäviksi digitaalisille objekteille, joiden tekijänoikeudellista statusta ei ole varmuudella todettu. Kuvauksia tulisi käyttää vain silloin, kun ei ole mahdollista käyttää selkeämpää käyttöoikeuskuvausta tai lisenssiä.
 
