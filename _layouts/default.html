@@ -21,7 +21,8 @@
       <link rel="stylesheet" type="text/css" href="{{ site.font_css_url }}" />
 
       <script src='{{ site.url }}{{ site.baseurl }}/js/modernizr.js'></script>
-
+      {% include cookies.html %}
+      {% if site.google_analytics %}{% include analytics.html %}{% endif %}
     </head>
     <body>
       {% include nav.html %}
@@ -44,8 +45,8 @@
 							<ul class="right footer-nav">
 <!--
 								<li><a href="#">Terms of Use</a></li>
-								<li><a href="#">Privacy Policy</a></li>
 -->
+								<li><a href="/en/privacy_policy.html">Privacy</a></li>
 								<li><a href="/en/get_involved.html">Contact</a></li>
 							</ul>
 						</div>
