@@ -2,6 +2,7 @@
 layout: page
 title: Rechtehinweise
 section_id: statements
+alias: /vocab/
 lang: de
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 title: Declaraciones de derechos
 section_id: statements
+alias: /vocab/
 lang: es
 ---
 

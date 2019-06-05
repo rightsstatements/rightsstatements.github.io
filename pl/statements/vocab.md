@@ -2,6 +2,7 @@
 layout: page
 title: Oświadczenia Prawne
 section_id: statements
+alias: /vocab/
 lang: pl
 ---
 

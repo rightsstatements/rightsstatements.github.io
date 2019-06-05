@@ -2,6 +2,7 @@
 layout: page
 title: Autoriõigusliku seisundi deklaratsioonid
 section_id: statements
+alias: /vocab/
 lang: et
 ---
 

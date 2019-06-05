@@ -2,6 +2,7 @@
 layout: page
 title: Käyttöoikeuskuvaukset
 section_id: statements
+alias: /vocab/
 lang: fi
 ---
 
