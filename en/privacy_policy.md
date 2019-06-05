@@ -7,7 +7,7 @@ lang: en
 
 # Privacy Policy
 
-The RightsStatements.org Consortium collects, manages and uses your data so that we can run our services and share relevant content with you. This policy describes how we collect and use your data when you use our services through the website or in person, and the measures we take to ensure your data remains secure.
+The RightsStatements.org Consortium collects, manages and uses your data so that we can run our services and share relevant content with you. This policy describes how we collect and use your data when you use our services through the website or in person, and the measures we take to ensure your data remains secure. Europeana Foundation runs these services on behalf of the RightsStatements.org Consortium and takes responsibility for these data.
 
 ## Keeping your data secure
 
@@ -46,7 +46,7 @@ We use Google Analytics to understand our users’ needs and optimise our servic
 
 ## What this policy applies to
 
-This privacy policy applies to the use of services provided by the RightsStatements.org Consortium. It is in accordance with the General Data Protection Regulation.
+This privacy policy applies to the use of services provided by the RightsStatements.org Consortium. It is in accordance with the General Data Protection Regulation of the European Union.
 
 ## Updates
 
