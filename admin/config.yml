@@ -1,0 +1,59 @@
+backend:
+  name: github
+  repo: ${CMS_REPO}
+  branch: ${CMS_BRANCH}
+publish_mode: editorial_workflow
+media_folder: 'files/'
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'en/_posts/'
+    preview_path: en/{{year}}/{{month}}/{{title}}
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - label: "Pages"
+    name: "pages"
+    folder: 'en/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+      - { label: 'Language', name: 'lang', widget: 'hidden', default: 'en' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Section ID', name: 'section_id', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - label: "Documentation"
+    name: "documentation"
+    folder: 'en/documentation/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+      - { label: 'Language', name: 'lang', widget: 'hidden', default: 'en' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Section ID', name: 'section_id', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - label: "Statements"
+    name: "statements"
+    folder: 'en/statements/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+      - { label: 'Language', name: 'lang', widget: 'hidden', default: 'en' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Section ID', name: 'section_id', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
