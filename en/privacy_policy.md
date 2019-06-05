@@ -29,7 +29,7 @@ You may ask us whether we process data relating to you, and if so, which data th
 
 You can contact us via [info@rightsstatements.org](mailto:info@rightsstatements.org).
 
-If you have a complaint concerning the processing of your personal data by Europeana Foundation, please
+If you have a complaint concerning the processing of your personal data by the RightsStatements.org Consortium or Europeana Foundation, please
 
 1. contact us via [info@rightsstatements.org](mailto:info@rightsstatements.org);
 1. contact your local Data Protection Authority (DPA).
