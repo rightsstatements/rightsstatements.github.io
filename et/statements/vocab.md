@@ -19,7 +19,7 @@ Autoriõigusliku seisundi deklaratsioonide väljatöötamisel on lähtutud mälu
     <div class="statements-category-teaser">
       <a href="#collection-ic"><h3>Kehtiv autoriõigus</h3></a>
       <a href="#collection-ic">
-        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
+        <img src="{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
       </a>
       <p>Deklaratsioonid teostele, millele kehtib autoriõigus</p>
     </div>
@@ -28,7 +28,7 @@ Autoriõigusliku seisundi deklaratsioonide väljatöötamisel on lähtutud mälu
     <div class="statements-category-teaser">
       <a href="#collection-nc"><h3>Autoriõigus ei kehti</h3></a>
       <a href="#collection-nc">
-        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
+        <img src="{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
       </a>
       <p>Deklaratsioonid teostele, millele ei kehti autoriõigus</p>
     </div>
@@ -37,7 +37,7 @@ Autoriõigusliku seisundi deklaratsioonide väljatöötamisel on lähtutud mälu
     <div class="statements-category-teaser">
       <a href="#collection-other"><h3>Muu</h3></a>
       <a href="#collection-other">
-        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
+        <img src="{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
       </a>
       <p>Deklaratsioonid teostele, mille autoriõiguslik seisund on ebaselge</p>
     </div>

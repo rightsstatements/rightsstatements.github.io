@@ -9,7 +9,7 @@ lang: fr
 
 RightsStatements.org propose actuellement douze déclarations des droits distinctes dont les institutions de gestion du patrimoine culturel peuvent se servir pour informer le public sur le statut des objets numériques en ce qui concerne le droit d'auteur et leur réutilisation. Lors de l'élaboration des déclarations des droits, il a été tenu compte de l'utilisation faite tant par des personnes physiques que par des machines (comme les moteurs de recherche) ; elles sont rendues accessibles sous forme de données liées. Chaque Déclaration des Droits est accessible via un URI unique.
 
-Les déclarations des droits sont spécifiquement élaborées pour répondre aux besoins des institutions de gestion du patrimoine culturel et des plates-formes d'agrégation de patrimoine culturel disponibles en ligne, les déclarations de droits ne sont pas destinées à être utilisées par des particuliers envisageant d'octroyer des licences sur leurs propres Oeuvres. (Si vous êtes à la recherche d'un outil permettant d'octroyer des licences sur vos propres œuvres, vous devriez envisager d'utiliser [une des licences Creative Commons](https://creativecommons.org/licenses/){:target="_blank"}). 
+Les déclarations des droits sont spécifiquement élaborées pour répondre aux besoins des institutions de gestion du patrimoine culturel et des plates-formes d'agrégation de patrimoine culturel disponibles en ligne, les déclarations de droits ne sont pas destinées à être utilisées par des particuliers envisageant d'octroyer des licences sur leurs propres Oeuvres. (Si vous êtes à la recherche d'un outil permettant d'octroyer des licences sur vos propres œuvres, vous devriez envisager d'utiliser [une des licences Creative Commons](https://creativecommons.org/licenses/){:target="_blank"}).
 
 <div class="box">
 ## Trois catégories de déclarations des droits
@@ -19,7 +19,7 @@ Les déclarations des droits sont spécifiquement élaborées pour répondre aux
     <div class="statements-category-teaser">
       <a href="#collection-ic"><h3>PROTECTION PAR LE DROIT D'AUTEUR</h3></a>
       <a href="#collection-ic">
-        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
+        <img src="{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
       </a>
       <p>Déclarations destinées aux œuvres protégées par le droit d'auteur</p>
     </div>
@@ -28,7 +28,7 @@ Les déclarations des droits sont spécifiquement élaborées pour répondre aux
     <div class="statements-category-teaser">
       <a href="#collection-nc"><h3>ABSENCE DE PROTECTION PAR LE DROIT D'AUTEUR</h3></a>
       <a href="#collection-nc">
-        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
+        <img src="{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
       </a>
       <p>Déclarations destinées aux œuvres non protégées par le droit d'auteur</p>
     </div>
@@ -37,7 +37,7 @@ Les déclarations des droits sont spécifiquement élaborées pour répondre aux
     <div class="statements-category-teaser">
       <a href="#collection-other"><h3>AUTRES</h3></a>
       <a href="#collection-other">
-        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
+        <img src="{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
       </a>
       <p>Déclarations destinées aux œuvres dont le statut en matière de droit d'auteur n'est pas clair.</p>
     </div>

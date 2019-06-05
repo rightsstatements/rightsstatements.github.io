@@ -19,7 +19,7 @@ Estas declaraciones de derechos han sido específicamente desarrolladas para las
     <div class="statements-category-teaser">
       <a href="#collection-ic"><h3>Protegido por derecho de autor</h3></a>
       <a href="#collection-ic">
-        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
+        <img src="{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
       </a>
       <p>Declaraciones para obras que están protegidas por derecho de autor</p>
     </div>
@@ -28,7 +28,7 @@ Estas declaraciones de derechos han sido específicamente desarrolladas para las
     <div class="statements-category-teaser">
       <a href="#collection-nc"><h3>Sin derecho de autor</h3></a>
       <a href="#collection-nc">
-        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
+        <img src="{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
       </a>
       <p>Declaraciones para obras que no están protegidas por derecho de autor</p>
     </div>
@@ -37,7 +37,7 @@ Estas declaraciones de derechos han sido específicamente desarrolladas para las
     <div class="statements-category-teaser">
       <a href="#collection-other"><h3>Otras</h3></a>
       <a href="#collection-other">
-        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
+        <img src="{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
       </a>
       <p>Declaraciones para obras cuyo estado de derecho de autor es poco claro</p>
     </div>

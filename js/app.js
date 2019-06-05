@@ -74,8 +74,7 @@
     // Show warning if not on production
     if (window.location.hostname !== "rightsstatements.org") {
       $('body').children('div').first().prepend(
-        $('<div data-alert class="alert-box warning row centered-text">You are seeing a preview of this page. To visit the currently published version, click <a href="http://rightsstatements.org' + location.pathname +'">here</a>.<a href="#" class="close">&times;</a></div>')
-      );
+       $('<div data-alert class="alert-box warning row centered-text">You are seeing a preview of this page. To visit the currently published version, click <a href="http://rightsstatements.org' + location.pathname.split(window.base_url).pop() +'">here</a>.<a href="#" class="close">&times;</a></div>')      );      );
     }
 
     // FAQ section
