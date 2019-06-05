@@ -59,9 +59,7 @@ defaults:
       iso_name: "Polski"
 author: rightsstatements.org
 permalink: /:categories/:year/:month/:slug.html
-plugins:
-  - jekyll-paginate
-  - jekyll-feed
+gems: [jekyll-paginate, jekyll-feed]
 paginate: 10
 paginate_path: "/en/blog/:num/"
 default_language: en
