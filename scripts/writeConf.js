@@ -4,6 +4,7 @@ const writeFile = promisify(fs.writeFile)
 const readFile = promisify(fs.readFile)
 
 const writeConf = async () => {
+  console.log(process.env)
   const { CMS_REPO, CMS_BRANCH } = process.env
 
   if (CMS_REPO && CMS_BRANCH) {
