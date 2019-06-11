@@ -1,0 +1,7 @@
+[build]
+  publish = "_site"
+  command = "node scripts/writeConf.js && jekyll build"
+
+[context.production]
+  command = "node scripts/writeConf.js && jekyll build --config _config_production.yml"
+
