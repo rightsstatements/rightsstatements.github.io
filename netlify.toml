@@ -2,16 +2,16 @@
   from = "/vocab/*"
   to = "https://rightsstatements.graphthinking.com/"
   status = 200
-  headers = {X-Forwarded-Host = "${X_FORWARDED_HOST}", X-Forwarded-Protocol = "${X_FORWARDED_PROTO}"}
+  headers = {X-Deploy-Url = "${X_DEPLOY_URL}"}
 
 [[redirects]]
   from = "/data/*"
   to = "https://rightsstatements.graphthinking.com/"
   status = 200
-  headers = {X-Forwarded-Host = "${X_FORWARDED_HOST}", X-Forwarded-Protocol = "${X_FORWARDED_PROTO}"}
+  headers = {X-Deploy-Url = "${X_DEPLOY_URL}"}
 
 [[redirects]]
   from = "/page/*"
   to = "https://rightsstatements.graphthinking.com/"
   status = 200
-  headers = {X-Forwarded-Host = "${X_FORWARDED_HOST}", X-Forwarded-Protocol = "${X_FORWARDED_PROTO}"}
+  headers = {X-Deploy-Url = "${X_DEPLOY_URL}"}

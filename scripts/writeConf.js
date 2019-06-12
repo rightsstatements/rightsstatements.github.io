@@ -5,7 +5,7 @@ const writeFile = promisify(fs.writeFile)
 const readFile = promisify(fs.readFile)
 
 const writeConf = async () => {
-  const { CMS_REPO, CMS_BRANCH, DEPLOY_URL, URL } = process.env
+  const { CMS_REPO, CMS_BRANCH, DEPLOY_URL } = process.env
 
   if (CMS_REPO && CMS_BRANCH) {
     const netlifyCmsConfig = await readFile('./admin/config.yml', 'utf8')
@@ -19,11 +19,8 @@ const writeConf = async () => {
   }
 
   const netlifyConfig = await readFile('./netlify.toml', 'utf8')
-  const X_FORWARDED_URL = url.parse(DEPLOY_URL || URL)
-  console.log(X_FORWARDED_URL)
   await writeFile('./netlify.toml', netlifyConfig
-    .replace(/\${X_FORWARDED_HOST}/g, X_FORWARDED_URL.host)
-    .replace(/\${X_FORWARDED_PROTO}/g, X_FORWARDED_URL.protocol.slice(0, -1))
+    .replace(/\${X_DEPLOY_URL}/g, DEPLOY_URL)
   )
   const updated = await readFile('./netlify.toml', 'utf8')
   console.log("Updated", updated)
