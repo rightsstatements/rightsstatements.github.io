@@ -5,13 +5,14 @@ const writeFile = promisify(fs.writeFile)
 const readFile = promisify(fs.readFile)
 
 const writeConf = async () => {
-  const { CMS_REPO, CMS_BRANCH, DEPLOY_URL } = process.env
+  const { HEAD, REPOSITORY_URL, DEPLOY_URL } = process.env
+  const repo = (REPOSITORY_URL && REPOSITORY_URL.split('@')[1].replace("github.com/", '')) || null
 
-  if (CMS_REPO && CMS_BRANCH) {
+  if (HEAD && repo) {
     const netlifyCmsConfig = await readFile('./admin/config.yml', 'utf8')
     await writeFile('./admin/config.yml', netlifyCmsConfig
-      .replace(/\${CMS_REPO}/g, CMS_REPO)
-      .replace(/\${CMS_BRANCH}/g, CMS_BRANCH)
+      .replace('${CMS_REPO}', repo)
+      .replace('${CMS_BRANCH}', HEAD)
     )
     console.info("Configuration replaced")
   } else {

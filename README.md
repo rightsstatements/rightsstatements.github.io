@@ -26,10 +26,6 @@ In `Access control` -> `OAuth`, install an new GitHub provider and set the `Clie
 
 ![](files/images/OAuth.png)
 
-Set this environment variables `Build & deploy` -> `Environment`
-
-![](files/images/enviromentVar.png)
-
 ## Implementing translations
 
 ToDo

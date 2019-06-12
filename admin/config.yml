@@ -2,7 +2,6 @@ backend:
   name: github
   repo: ${CMS_REPO}
   branch: ${CMS_BRANCH}
-  site_domain: ${CMS_DOMAIN}
 publish_mode: editorial_workflow
 media_folder: 'files/'
 collections:
