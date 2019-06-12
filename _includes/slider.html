@@ -8,7 +8,7 @@
         <div class='orbit-caption caption-{{ slide.desc_location }}'>
           <div class='row rounded-corners'>
             <h2>{{ slide.desc.[page.lang].header }}</h2>
-            <p>{{ slide.desc.[page.lang].about | replace: 'rights_app_server', site.rights_app_server | replace: 'rights_data_version', site.rights_data_version }}</p>
+            <p>{{ slide.desc.[page.lang].about | replace: 'rights_data_version', site.rights_data_version }}</p>
           </div>
         </div>
         <div class="caption"><div class="row text-right">{{ slide.title }}</div></div>
