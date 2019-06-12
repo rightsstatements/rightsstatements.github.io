@@ -21,8 +21,9 @@ collections:
   - label: "Pages"
     name: "pages"
     folder: 'en/'
+    preview_path: en/{{slug}}
     create: true
-    slug: '{{slug}}'
+    slug: '{{filename}}'
     editor:
       preview: false
     fields:
@@ -30,12 +31,14 @@ collections:
       - { label: 'Language', name: 'lang', widget: 'hidden', default: 'en' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Section ID', name: 'section_id', widget: 'string' }
+      - { label: 'Filename', name: 'filename', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: "Documentation"
     name: "documentation"
     folder: 'en/documentation/'
+    preview_path: en/documentation/{{slug}}
     create: true
-    slug: '{{slug}}'
+    slug: '{{filename}}'
     editor:
       preview: false
     fields:
@@ -43,12 +46,14 @@ collections:
       - { label: 'Language', name: 'lang', widget: 'hidden', default: 'en' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Section ID', name: 'section_id', widget: 'string' }
+      - { label: 'Filename', name: 'filename', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: "Statements"
     name: "statements"
     folder: 'en/statements/'
+    preview_path: en/statements/{{slug}}
     create: true
-    slug: '{{slug}}'
+    slug: '{{filename}}'
     editor:
       preview: false
     fields:
@@ -56,4 +61,5 @@ collections:
       - { label: 'Language', name: 'lang', widget: 'hidden', default: 'en' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Section ID', name: 'section_id', widget: 'string' }
+      - { label: 'Filename', name: 'filename', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
