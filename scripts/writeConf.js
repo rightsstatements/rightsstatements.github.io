@@ -19,9 +19,7 @@ const writeConf = async () => {
   }
 
   const netlifyConfig = await readFile('./netlify.toml', 'utf8')
-  await writeFile('./netlify.toml', netlifyConfig
-    .replace(/\${X_DEPLOY_URL}/g, DEPLOY_URL)
-  )
+  await writeFile('./netlify.toml', netlifyConfig.replace(/\${X_DEPLOY_URL}/g, DEPLOY_URL))
   const updated = await readFile('./netlify.toml', 'utf8')
   console.log("Updated", updated)
 }
