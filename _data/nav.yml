@@ -1,16 +1,6 @@
-- name: Statements
-  path: /statements/
+- path: /statements/
   section_id: statements
-  i18n:
-    localize: true
-    keys:
-      de: Hinweise
-      es: Declaraciones
-      et: Deklaratsioonid
-      fi: Kuvaukset
-      fr: Déclarations
-      pl: Oświadczenia
-      sv-FI: Beskrivningar
+  localize: true
   # children:
   #  - name: List of In Copyright statements
   #    path: "rights_app_server/vocab/collection-ic/rights_data_version/"
@@ -43,16 +33,6 @@
 - name: Blog
   path: /blog/
   section_id: blog
-- name: More info (English)
-  path: //rightsstatements.org/en/
+- path: //rightsstatements.org/en/
   section_id: more_info
-  i18n:
-    localize: true
-    keys:
-      de: Mehr Informationen (Englisch)
-      es: Más información (inglés)
-      et: Rohkem infot (inglise keeles)
-      fi: Lisätietoa (englisi)
-      fr: Informations supplémentaires (anglais)
-      pl: Więcej informacji (angielski)
-      sv-FI: Mer information (engelska)
+  localize: true

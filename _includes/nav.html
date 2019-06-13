@@ -14,14 +14,15 @@
     </ul>
     <section class='top-bar-section'>
       <ul class="right">
+        {% assign i18n = site.data.i18n[page.lang] %}
         {% for item in site.data.nav %}
           {% if item.section_id == page.section_id %}
             {% assign active_class = "active" %}
           {% else %}
             {% assign active_class = "" %}
           {% endif %}
-          {% if item.i18n.localize == true and site.default_language != page.lang %}
-            {% capture label %}{{ item.i18n.keys.[page.lang] }}{% endcapture %}
+          {% if item.localize == true %}
+            {% capture label %}{{ i18n[item.section_id] }}{% endcapture %}
           {% else %}
             {% capture label %}{{ item.name }}{% endcapture %}
           {% endif %}
@@ -46,7 +47,7 @@
                 {% endfor %}
               </ul>
             </li>
-          {% elsif (item.i18n.localize and page.lang != site.default_language) %}
+          {% elsif (item.localize and page.lang != site.default_language) %}
             <li class="{{active_class}}">
               <a href="{{ href }}">{{ label }}</a>
             </li>

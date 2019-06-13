@@ -25,3 +25,8 @@ type = GITHUBMARKDOWN
 file_filter = <lang>/statements/vocab.md
 source_lang = en
 type = GITHUBMARKDOWN
+
+[rightsstatementsorg.enyml]
+file_filter = _data/i18n/<lang>.yml
+source_lang = en
+type = YAML_GENERIC
