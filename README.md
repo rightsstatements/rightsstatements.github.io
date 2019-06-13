@@ -46,19 +46,12 @@ After this, deploy the site (or have it deployed by someone with the right permi
 
 ## Implementing translations
 
-To implement translations:
+[Transifex](https://www.transifex.com/graphthinking-gmbh/rightsstatementsorg/) is used to carry out translations of the website. The relevant resources are tagged with the category `website`. Please get in touch with the [maintainers](https://www.transifex.com/graphthinking-gmbh/rightsstatementsorg/settings/maintainers/) to add a new language to the project.
 
-* Add a new directory using the language tag for the language you're adding. (It's probably easiest to copy from one of the existing translations, e.g. `es`).
-* Edit each of the following files, pasting in translations and ensuring that the `lang` key in the YAML front matter gets set. For example, for language `xx`:
-  - `xx/index.md`
-  - `xx/statements/collection-ic.md`
-  - `xx/statements/collection-nc.md`
-  - `xx/statements/collection-other.md`
-  - `xx/statements/index.html`
-  - `xx/statements/vocab.md`
-* Edit `_config.yml`, `_config_develop.yml`, and `_config_production.yml` to add keys and associated translations for the language you're editing.
-* Also edit `_data/nav.yml` and `_data/slides.yml` adding appropriate keys and associated translations for the language you're editing.
-* Confirm that there are no non-breaking spaces (`\u00A0`), no "smart quotes", and no em- or en-dashes.
+To incorporate updates or new translations:
+
+* Install [`tx`](https://docs.transifex.com/client/introduction) and run [`tx pull`](https://docs.transifex.com/client/pull#command-options).
+* Edit `_config.yml` and `_config_production.yml` to add keys and associated translations for the language you're editing.
 * If provided, add any PDF documentation related to the translation to the `files` directory.
 
 See also notes on implementing translations for the [rights app](https://github.com/rightsstatements/rights-app/blob/master/README.md) and the [data model](https://github.com/rightsstatements/data-model/blob/master/README.md) for more information.
