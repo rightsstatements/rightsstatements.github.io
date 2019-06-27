@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - Buttons and other assets
 section_id: documentation
+filename: assets
 lang: en
 ---
 

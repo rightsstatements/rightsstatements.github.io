@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 section_id: privacy_policy
+filename: privacy_policy
 lang: en
 ---
 

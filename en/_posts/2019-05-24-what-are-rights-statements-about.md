@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What are RightsStatements About?
+filename: what-are-rights-statements-about
 date: 2019-05-24 12:00:00
 ---
 _Richard J. Urban, Ph.D., Digital Asset Manager & Strategist, [Corning Museum Of Glass](https://www.cmog.org/)_

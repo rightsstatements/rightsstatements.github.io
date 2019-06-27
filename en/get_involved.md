@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - Get Involved
 section_id: get_involved
+filename: get_involved
 lang: en
 ---
 
@@ -22,4 +23,3 @@ RightsStatements.org is run by a consortium consisting of [Europeana](http://eur
 - follow us on [Twitter](https://twitter.com/rightsstmts)
 
 If you're interested in finding out more information about membership of the consortium or the working groups, or have any other questions please [contact us](mailto:info@rightsstatements.org).
-

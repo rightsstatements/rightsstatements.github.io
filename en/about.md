@@ -2,6 +2,7 @@
 layout: page
 title: About
 section_id: about
+filename: about
 lang: en
 ---
 

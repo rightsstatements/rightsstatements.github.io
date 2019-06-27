@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - FAQ
 section_id: documentation
+filename: faq
 lang: en
 ---
 
@@ -31,7 +32,7 @@ lang: en
 
 - Do they replace existing rights information?
 
-    Our rights statements are not intended to capture detailed rights information, and as such should not be used to replace rights information in collections management systems or similar systems. The rights statements are high level summaries that have been designed in order to inform end users what they can or cannot do with digital objects that they encounter online. The rights statements do not capture information about rights holders (such as names and death dates) or other information that is relevant for determining the copyright status of an object or to contact the rights holder. If you have such information we encourage you to make it available online in addition to applying a rights statement. 
+    Our rights statements are not intended to capture detailed rights information, and as such should not be used to replace rights information in collections management systems or similar systems. The rights statements are high level summaries that have been designed in order to inform end users what they can or cannot do with digital objects that they encounter online. The rights statements do not capture information about rights holders (such as names and death dates) or other information that is relevant for determining the copyright status of an object or to contact the rights holder. If you have such information we encourage you to make it available online in addition to applying a rights statement.
 
 - How can I use these statements?
 
@@ -39,7 +40,7 @@ lang: en
 
 - I feel that none of the statements covers the copyright status of digital objects that I want to make available
 
-    If you feel that none of the statements covers the copyright status of works that you want to make available please get in touch with us via [info@rightsstatements.org](mailto:info@rightsstatements.org) with a description of the situation that you are facing. While we aim for the statements to cover all possible scenarios the international copyright landscape is incredibly complex and it may very well be the case that we have not addressed all existing scenarios. <br/><br/>Please note that we have intentionally not published rights statements for situations that are addressed by the Creative Commons licenses, the Creative Commons Public Domain Mark and the CC Zero Public Domain Dedication. 
+    If you feel that none of the statements covers the copyright status of works that you want to make available please get in touch with us via [info@rightsstatements.org](mailto:info@rightsstatements.org) with a description of the situation that you are facing. While we aim for the statements to cover all possible scenarios the international copyright landscape is incredibly complex and it may very well be the case that we have not addressed all existing scenarios. <br/><br/>Please note that we have intentionally not published rights statements for situations that are addressed by the Creative Commons licenses, the Creative Commons Public Domain Mark and the CC Zero Public Domain Dedication.
 
 ## For users
 
@@ -47,7 +48,7 @@ lang: en
 
     The rights statements are high level summaries that are applied to digital objects by institutions who have these works in their collection. These institutions strive to make correct statements about the copyright status of the digital objects that they publish. Determining the copyright status of a digital object can be difficult and given that most institutions are dealing with large collections it is possible that rights statements are not correct. This is why all statements include the following notice to users: <br/><br/>*Unless expressly stated otherwise, the organization that has made this Item available makes no warranties about the Item and cannot guarantee the accuracy of this Rights Statement. You are responsible for your own use.*<br/><br/> If you have doubts about the accuracy of a rights statement you should check with the institution that has made the item available for more information.
 
-- Can I use these statements to license my own creations? 
+- Can I use these statements to license my own creations?
 
     No, the rights statements have not been designed to be used to license your own creations. They are descriptive statements about the rights status of digital objects and not licenses. If you are looking for a way to license your own creations for others to use you should use a [Creative Commons license](https://creativecommons.org/licenses/).
 
