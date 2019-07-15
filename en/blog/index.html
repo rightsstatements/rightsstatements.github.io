@@ -1,22 +1,409 @@
----
-layout: page
-title: rightsstatements.org Blog
----
-{% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <h3>{{ post.date | date: '%b %-d, %Y' }}</h3>
+<!DOCTYPE html>
+<html class='no-js' lang='en'>
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>rightsstatements.org Blog</title>
+      <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+      <link type="application/atom+xml" rel="alternate" href="//rightsstatements.org/feed.xml" title="rightsstatements" />
+      <link href='//fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+      
+      <link rel="canonical" href="//rightsstatements.org/en/blog/">
+      
+      <link href='//rightsstatements.org/css/framework.css' rel='stylesheet'>
+      <link href='//rightsstatements.org/css/syntax.css' rel='stylesheet'>
+      <link href='//rightsstatements.org/css/style.css' rel='stylesheet'>
+      <link href='//rightsstatements.org/css/fontello.css' rel='stylesheet'>
+      <link href='//rightsstatements.org/css/rights-site.css' rel='stylesheet'>
+
+      <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7197296/6463212/css/fonts.css" />
+
+      <script src='//rightsstatements.org/js/modernizr.js'></script>
+      <!-- https://github.com/osano/cookieconsent/ -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#f08a24",
+      "border": "#de770f",
+      "text": "#fff"
+    },
+    "button": {
+      "background": "#008CC8",
+      "text": "#fff"
+    }
+  },
+  "cookie": {
+    "domain": ".rightsstatements.org"
+  },
+  "content": {
+    "dismiss": "OK",
+    "href": "/en/privacy_policy.html"
+  }
+})});
+</script>
+
+          <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-120581212-1', 'auto');
+    ga('set', 'allowAdFeatures', false);
+    ga('set', 'anonymizeIp', true);
+    ga('set', 'forceSSL', true);
+    ga('send', 'pageview');
+    </script
+
+    </head>
+    <body>
+      <div class='contain-to-grid sticky header'>
+  <nav class='top-bar' data-options='sticky_on: large' data-topbar=''>
+    <ul class='title-area'>
+      <li class='name'>
+        <h1>
+          <a href='//rightsstatements.org/en/'>
+            <img src='//rightsstatements.org/files/images/logo.svg' alt="Rights Statements">
+          </a>
+        </h1>
+      </li>
+      <li class='toggle-topbar menu-icon'>
+        <a href='#'>Menu</a>
+      </li>
+    </ul>
+    <section class='top-bar-section'>
+      <ul class="right">
+        
+          
+          
+          
+          
+            <li class="">
+              <a href="//rightsstatements.org/en/statements/">Statements</a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="">
+              <a href="//rightsstatements.org/en/about.html">About</a>
+            </li>
+          
+        
+          
+          
+          
+          
+              <li class="has-dropdown "><a href="//rightsstatements.org/en/documentation/">Documentation</a>
+              <ul class='dropdown'>
+                
+                  
+                  
+                  <li>
+                    <a href="//rightsstatements.org/en/documentation/">Documentation</a>
+                  </li>
+                
+                  
+                  
+                  <li>
+                    <a href="//rightsstatements.org/en/documentation/faq.html">FAQ</a>
+                  </li>
+                
+                  
+                  
+                  <li>
+                    <a href="//rightsstatements.org/en/documentation/assets.html">Buttons and other assets</a>
+                  </li>
+                
+                  
+                  
+                  <li>
+                    <a href="//rightsstatements.org/en/documentation/usage_guidelines.html">Usage guidelines</a>
+                  </li>
+                
+                  
+                  
+                  <li>
+                    <a href="//rightsstatements.org/en/documentation/translations.html">Translations</a>
+                  </li>
+                
+                  
+                  
+                  <li>
+                    <a href="//rightsstatements.org/en/documentation/changelog.html">Change log</a>
+                  </li>
+                
+              </ul>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="">
+              <a href="//rightsstatements.org/en/get_involved.html">Get Involved</a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="">
+              <a href="//rightsstatements.org/en/blog/">Blog</a>
+            </li>
+          
+        
+          
+          
+          
+          
+        
+      </ul>
+    </section>
+  </nav>
+</div>
+
+      <div class="bg-white-top-left">
+	<div class="full rounded-corners">
+		<div class='row column'>
+		  
+  <h1><a href="/en/2019/05/rightsstatements-in-wikidata.html">RightsStatements in Wikidata</a></h1>
+  <h3>May 28, 2019</h3>
   </p>
   <div class="content">
-    {{ post.content }}
+    <p>We are pleased to report that the volunteer community behind <em>Wikidata</em> - the freely licensed structured database of information, sister to Wikipedia, has recently approved the creation of a dedicated metadata <em>Property</em> for RightsStatements. <a href="https://www.wikidata.org/wiki/Property:P6426">P6426</a> to be precise. This will increase the chances that accurate, understandable, and precise rights-labelling information about cultural heritage works will be findable by end-users.</p>
+
+<p>Here Liam Wyatt explains how this change came about, and what it means for cultural heritage organisations around the world who contribute items to Wikidata.</p>
+
+<p><em>Liam is the Europeana Foundation’s Wikimedia community liaison, and was the world’s first “Wikipedian in Residence”.</em></p>
+
+<h3 id="developing-p6426---a-dedicated-rights-statement-metadata-property-for-wikidata">Developing <em>P6426</em> - a dedicated Rights Statement metadata property for Wikidata</h3>
+
+<p>Many followers of RightsStatements.org may be familiar with <a href="https://www.wikidata.org/">Wikidata</a>. The six year old repository of metadata that is increasingly becoming a hub of structured information. Representing topics even more diverse than the famously wide-ranging <em>Wikipedia</em>, it currently contains more than 55 million <em>Items</em>, all CC0 licensed, and utilises more than <a href="https://tools.wmflabs.org/hay/propbrowse/">5,000</a> <em>Properties</em> to describe them - and is growing rapidly.</p>
+
+<p><em>RightsStatement</em> has now been added as a structured metadata concept in its own right. Consistent with the open-access and “anyone can edit” methodology, this addition was preceded by a proposal by a community member, the customary <a href="https://www.wikidata.org/wiki/Wikidata:Property_proposal/rights_statement">discussion process</a> until consensus was reached, and a <a href="https://rightsstatements.org/en/2018/12/where-statements-apply.html">post on this blog</a> responding to specific questions raised during the debate.</p>
+
+<p>This means that for a Wikidata <em>item</em> which represents an individual creative work, it is now possible to make the claim, “RightsStatement status according to source website” alongside the relevant Statement, with a URL reference to the source.</p>
+
+<p>For example, “Mining on traditional land”, a 2016 watercolour in the collection of the <em>National Museum of Australia</em> by Australian indigenous artist Mervyn Rubuntja, is <a href="https://trove.nla.gov.au/work/234370038?q&amp;versionId=259274416">accessible via Trove</a> with the In Copyright (InC) statement. This is now also reflected on <a href="https://www.wikidata.org/wiki/Q61639371">the painting’s Wikidata item (Q61639371)</a>.</p>
+
+<p>Equally, “Aspects of Negro life”, a 1934 painting series by Aaron Douglas in the <em>Schomburg Center</em> in New York, is <a href="https://dp.la/item/5f0e830051a5f3d81f4d7bad7fdfeb87">accessible via the DPLA</a> with the No Copyright in the USA (NoC-US) statement. This is now visible on <a href="https://www.wikidata.org/wiki/Q50086916">its Wikidata item (Q50086916)</a>.</p>
+
+<h3 id="why-adding-rightsstatementsorg-as-a-property-adds-value-to-wikidata">Why adding RightsStatements.org as a property adds value to Wikidata</h3>
+
+<p>The particular value of this new Wikidata property from the perspective of the Cultural Heritage organisations using <em>RightsStatements</em> is that it is a record of what the institution itself declares about the works in its own collection - with a link back to that collection record. And, because the Rights Statements have already been imported as Wikidata items in their own right, they stand ready to be linked to Wikidata items representing the cultural heritage items.</p>
+
+<p>As the nominator of this new Wikidata Property, Dominic Byrd-McDevitt - Wikimedian in Residence at the U.S. <em>National Archives and Records Administration (NARA)</em> and member of DPLA’s Rights Statements Working Group - said in his nomination statement:</p>
+<blockquote>
+  <p>Adding this property will allow us to add the correct Rights Statement to a work’s Wikidata item when the authoritative source (e.g. owning institution’s catalog record) has already tagged it as such. Many works which have rights statements have already been added to Wikidata…</p>
+</blockquote>
+
+<p>Thanks to this information now being visible in Wikidata, it will be increasingly indexed and used by numerous third-party platforms, not the least of which is <em>Google</em>’s “<a href="https://en.wikipedia.org/wiki/Knowledge_Graph">knowledge graph</a>”. This provides yet another argument for why institutions are encouraged to integrate standardised, machine-readable rights statements as part of their metadata.</p>
+
+<p>By <a href="https://query.wikidata.org/">querying the dataset</a> (<a href="https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/Wikidata_Query_Help">tutorial</a>) for the metadata relationships between these items, information that previously would have been extremely tedious to compile in raw information can be filtered and ranked immediately (<a href="https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples">examples</a>). <em>Wikidata</em> aligns its items to numerous <em>Authority Control</em> systems - from global standards like VIAF to individual museum catalogue numbers - allowing readers to check that a concept in one database is referring to the same concept in a completely different service.</p>
+
+<p>Separately to the RightsStatements property, <em>Wikidata</em> also recently created <a href="https://www.wikidata.org/wiki/Property:P6216">property 6216</a>: “Copyright Status”. This allows for metadata describing the Public Domain date of a work (including different dates depending on jurisdiction) to be included. A example of this in use is item for the Dutch 1st edition publication of Anne Frank’s diary - “<a href="https://www.wikidata.org/wiki/Q14624856">Het achterhuis</a>”. This allows for a complex <em>and contested</em> copyright status to be modelled into machine-readable metadata.</p>
+
+<p>Combined, the <em>RightsStatement</em> and Copyright status properties have greatly increased Wikidata’s ability to model complex copyright concepts and to propagate Cultural Heritage organisations’ metadata describing their own collections to the world. We look forward to working closely with <em>Wikidata</em> and its community to build an ongoing partnership.</p>
+
   </div>
-{% endfor %}
+
+  <h1><a href="/en/2019/05/what-are-rights-statements-about.html">What are RightsStatements About?</a></h1>
+  <h3>May 24, 2019</h3>
+  </p>
+  <div class="content">
+    <p><em>Richard J. Urban, Ph.D., Digital Asset Manager &amp; Strategist, <a href="https://www.cmog.org/">Corning Museum Of Glass</a></em></p>
+
+<p>The <a href="https://rightsstatements.org/en/2018/12/where-statements-apply.html">previous post</a> discussed how the rights statements provided by RightsStatements.org may apply to different kinds of <em>digital</em> or <em>original</em> works. While these rights statements were designed primarily for use in the context of digitization of material culture (for example, Europeana and DPLA), this post outlines the complexities of the relationships between an original artifact and its digital surrogate.</p>
+
+<p>In the <a href="https://rightsstatements.org/files/180117requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.2.1.pdf"><em>Requirements for the Technical Infrastructure for Standardized International Rights Statements</em></a> the RightsStatements.org Technical Working Group has outlined an answer to the question of what a rights statement is “about” by providing examples of how statements may be used within specific metadata standards.  Each of these standards and best practices have different ways of resolving the “aboutness” of statements.</p>
+
+<p>In order to provide a technical infrastructure for the rights statements, the Technical Working Group choose to model the statements as a Simple Knowledge Organization (<a href="https://www.w3.org/2004/02/skos/">SKOS</a>) vocabulary. SKOS is commonly used for representing knowledge organization structures, such as thesauri, taxonomies, and subject headings. We felt that the purpose of the rights statements was to perform a similar function within the information systems provided by DPLA and Europeana. Just as the “subject” of a book requires analysis by a cataloger, we felt the myriad ways cultural heritage organizations expressed rights over cultural resources could be classified by a well organized vocabulary of terms. The purpose of the statements was not to provide a legally binding license. Rather, a rights statement represents a judgment about a complex and interwoven legal state-of-affairs in order to facilitate finding, identifying, and obtaining cultural resources online.</p>
+
+<p>Further, our Technical Working Group  has declared each rights statement to also be a kind of dcterms:RightsStatement. The Dublin Core Metadata Standard defines a rights statement as:</p>
+
+<blockquote>
+  <p>A statement about the intellectual property rights (IPR) held in or over a Resource, a legal document giving official permission to do something with a resource, or a statement about access rights.</p>
+</blockquote>
+
+<p>However, this does not directly answer what a rights statement is about. If we understand metadata to make assertions about <em>resources</em> (“Anything can be a resource, including physical things, documents, abstract concepts…”), a property like dc:rights can be used to describe any identified resource. So for a simple Dublin Core example of an In Copyright resource:</p>
+
+<p><img src="//rightsstatements.org/files/images/2019-05-06-what-are-rights-statements-about-figure1.svg" alt="Figure 1: The grammar of a Dublin Core rights statement." width="500" /></p>
+
+<p><em>Figure 1: The grammar of a Dublin Core rights statement.</em></p>
+
+<p>It is the responsibility of your metadata model to define what kinds of resources an assertion may be about (in the context of the Resource Description Framework (RDF), this is called the “domain” of a metadata property) <a href="https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/#bib-RDF11-MT">[1]</a></p>
+
+<p>For example, both Europeana and DPLA use fairly general-purpose metadata properties for expressing rights (dc:rights or its specialization edm:rights, for more details see specifications of the <a href="https://pro.europeana.eu/edm-documentation">Europeana Data Model</a> and the <a href="https://dp.la/info/map">DPLA Metadata Application Profile</a>). Their metadata models allow many elements to be attributed to resources that represent the original work (edm:ProvidedCHO or dpla:SourceResource) or belong to the level of digital representations (edm:WebResource, ore:Aggregation). But when using a rights statement in the context of an Europeana Data Model (EDM) metadata, the edm:rights property expects the subject of an assertion to be an edm:WebResource or an Aggregation of such resources. In this context, the rights statement will thus always be <em>about</em> the rights status of a digital representation. (Because DPLA’s Metadata Application Profile is based on EDM, it also associates edm:rights with a edm:WebResource).</p>
+
+<p><img src="//rightsstatements.org/files/images/2019-05-06-what-are-rights-statements-about-figure2.svg" alt="Figure 2: In Copyright rights statement classification of a Europeana WebResource." width="500" /></p>
+
+<p><em>Figure 2: In Copyright rights statement classification of a Europeana WebResource.</em></p>
+
+<p>However, just because this is a recommended practice for partners in DPLA and Europeana, does not mean that rights statements cannot be applied to other kinds of resources in the appropriate contexts. One of the use cases we are currently following is the use of rights statements within the <a href="https://commons.wikimedia.org/wiki/Commons:Structured_data">Structured Data on Wikimedia Commons Project</a>. Because technical documentation has focused on Europeana/DPLA use cases, there has been some confusion about the use of the statements provided by RightsStatements.org in other contexts <a href="https://commons.wikimedia.org/wiki/Commons_talk:Structured_data/Properties_table#Mixing_different_levels_of_depiction">[2]</a> <a href="https://www.wikidata.org/wiki/Wikidata:Property_proposal/rights_statemen">[3]</a>. Discussion especially occurred in the context of a new Wikidata property for the domain of <em>Creative Works</em> that can be used to organize them with a Wikidata item for rights statements <a href="https://www.wikidata.org/wiki/Q17537576">[4]</a> <a href="https://www.wikidata.org/wiki/Property:P6426">[5]</a> <a href="https://www.wikidata.org/wiki/Help:Copyrights#RightsStatement_status_according_to_source_website_(P6426)">[6]</a> (we will soon publish a blog post about that).</p>
+
+<p><img src="//rightsstatements.org/files/images/2019-05-06-what-are-rights-statements-about-figure3.svg" alt="Figure 3: Wikimedia Commons - Wikidata example of rights statements for both original CreativeWorks and a digital surrogate." width="500" /></p>
+
+<p><em>Figure 3: Wikimedia Commons/Wikidata example of rights statements for both original CreativeWorks and a digital surrogate.</em></p>
+
+<p><strong>Example</strong></p>
+
+<p><a href="https://www.wikidata.org/wiki/Q50086916">Aspects of Negro Life (Q50086916)</a> → <a href="https://www.wikidata.org/wiki/Q47530911">No Copyright - United States (Q47530911)</a></p>
+
+<p>In this example the <em>creative works</em> are the murals currently held by The Schomburg Center for Research in Black Culture. In the context of Wikimedia Commons metadata model, we could express a different assertion about the digital image that <a href="https://www.wikidata.org/wiki/Property:P180">Depicts (P180)</a> this creative work:</p>
+
+<p><a href="https://digitalcollections.nypl.org/items/634c59a4-6f99-3618-e040-e00a180633b0">https://digitalcollections.nypl.org/items/634c59a4-6f99-3618-e040-e00a180633b0</a> → <a href="https://www.wikidata.org/wiki/Q47530911">No Copyright - United States (Q47530911)</a></p>
+
+<p>Although there is a relationship between the original creative work and the file that depicts it, the <em>Depicts</em> (P180) property is insufficient for us to infer any of the complex possibilities of how the copyright status of the original and the depiction are related. Because each assertion uses the Wikidata Rights Statements Status property to refer to a different entity (the creative work vs. its depiction in a digital file) it is possible to use the same kind of rights statement for both. This flexibility reinforces the need to handle rights statements with precision in the metadata about the source work and its digital surrogate. In particular, we call on implementers of RightsStatements.org to make sure that statements are used with metadata elements that clearly pertain to one of the levels of description (original object or digital representation). Again, here the name of a metadata element matters less than its usage with specific metadata resources.</p>
+
+
+  </div>
+
+  <h1><a href="/en/2018/12/where-statements-apply.html">Do the rights statements apply to works, digital representations of works or both?</a></h1>
+  <h3>Dec 21, 2018</h3>
+  </p>
+  <div class="content">
+    <p>One of the most frequently asked questions about the rightsstatements.org statements is if they apply to <em>original works</em> (i.e. a painting) or the <em>digital objects</em> (i.e. a specific digital representation of the painting in the form of an image file).</p>
+
+<p>Our statements have been purposively designed so that they can be applied to <em>digital objects</em> to make it easier for users of the <em>digital objects</em> to determine the copyright and reuse status. This design process and principles are documented in the <a href="https://rightsstatements.org/en/documentation/rights-statements-white-paper/">right statements white paper</a>. The primary use case would be a cultural heritage institution that displays a rights statement next to a <em>digital object</em> on its website. In this scenario the statement indicates the copyright and reuse information of that <em>digital object</em>.</p>
+
+<p>In addition most of our statements can also be used to indicate the copyright status of <em>original works</em>. For example a website may want to use the <a href="https://rightsstatements.org/vocab/InC/1.0/">In Copyright statement</a> to indicate that a book is in copyright without providing access to a specific digital representation of the book.</p>
+
+<p>Most often the <em>digital object</em> and the <em>original work</em> will have the same copyright status. However it is worth worth bearing in mind the realities of the digitisation process. In many jurisdictions, additional copyrights, permissions and restrictions that affect the status of the <em>digital object</em> can be created during as a result of acquisition or the process of digitising an <em>original work</em>. As a matter of policy and practice we strongly believe that digitisation should not create a new layer of restrictions, and to the extent that restrictions are created, those should be waived. In situations where such additional rights or restrictions do exist, this should be reflected by rights statements that are applied at the level of the <em>digital object</em>.</p>
+
+<p>This means that as our statements have been designed to reflect the status of a <em>digital object</em>, most of them can also be used to describe the copyright and status of the <em>original work</em>. We’ve broken this down along with some exceptions to this below.</p>
+
+<h3 id="rights-statements-for-in-copyright-objects">Rights statements for in copyright objects</h3>
+
+<p>The following three statements refer to the copyright status of both the <em>digital object</em> and the <em>original work</em>:</p>
+
+<ul>
+  <li><a href="https://rightsstatements.org/vocab/InC/1.0/">In Copyright</a></li>
+  <li><a href="https://rightsstatements.org/vocab/InC-OW-EU/1.0/">In Copyright - EU Orphan Work</a></li>
+  <li><a href="https://rightsstatements.org/vocab/InC-RUU/1.0/">In Copyright - Rights-holder(s) Unlocatable or Unidentifiable</a></li>
+</ul>
+
+<p>The remaining two statements describe additional permissions on top of the copyright status, which apply only to the <em>digital object</em>.</p>
+
+<ul>
+  <li><a href="https://rightsstatements.org/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</a></li>
+  <li><a href="https://rightsstatements.org/vocab/InC-NC/1.0/">In Copyright - Non-Commercial Use Permitted</a></li>
+</ul>
+
+<p>As such, these statements can be used to indicate re-use conditions of <em>digital objects</em> but should not be used for <em>original works</em> (instead the <a href="https://www.creativecommons.org/">Creative Commons licenses</a> should be used for granting permissions to use copyrighted <em>works</em>).</p>
+
+<h3 id="rights-statements-for-objects-that-are-not-in-copyright">Rights statements for objects that are not in copyright</h3>
+
+<p>In this category the <a href="https://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</a> refers to the copyright status of both the <em>original work</em> and its <em>digital object</em>. Unlike other statement in this category, no additional restrictions on reuse are expressed beyond its Public Domain status. It is also distinct because this public domain status depends on the physical location of the user of the <em>digital object</em>.</p>
+
+<p>The remaining three statements indicate the status of the <em>digital object</em> only. Each of these statements identifies restrictions or explicit permission that are different from the original out of copyright work.</p>
+
+<ul>
+  <li><a href="https://rightsstatements.org/vocab/NoC-CR/1.0/">No Copyright - Contractual Restrictions</a></li>
+  <li><a href="https://rightsstatements.org/vocab/NoC-NC/1.0/">No Copyright - Non-Commercial Use</a></li>
+  <li><a href="https://rightsstatements.org/vocab/NoC-OKLR/1.0/">No Copyright - Other Known Legal Restrictions</a></li>
+</ul>
+
+<h3 id="other-rights-statements">Other rights statements</h3>
+
+<p>All three statements in this category can be used for the <em>original work</em> and <em>digital copies</em> as the rights status is identical for both.</p>
+
+<ul>
+  <li><a href="https://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</a></li>
+  <li><a href="https://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</a></li>
+  <li><a href="https://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</a></li>
+</ul>
+
+<p>In the new year we will publish a follow up post that will dive deeper into the technical details of how our statements can be applied to the different layers discussed in this post.</p>
+
+  </div>
+
+  <h1><a href="/en/2018/07/consortium-changes.html">A few changes at the rightsstatements.org consortium</a></h1>
+  <h3>Jul 18, 2018</h3>
+  </p>
+  <div class="content">
+    <p>In June’s annual meeting of the steering committee, <a href="https://www.kl.nl/en/people/paul-keller/">Paul Keller</a> - on behalf of <a href="https://pro.europeana.eu/">Europeana Foundation</a> - was elected chair of the consortium.  Paul is the Director of Dutch think tank Kennisland, and a member of the Europeana Foundation, and Network Association Governing Boards.</p>
+
+<p>The renewal of consortium chair follows the departure of co-founder <a href="https://pro.europeana.eu/person/jill-cousins">Jill Cousins</a>. Paul is supported in his role by  Vice-Chair, Caitlin Horrall of <a href="https://nhds.ca/">Library &amp; Archives Canada</a>.</p>
+
+<p>We’d like to thank Jill - and fellow co-founder and ex-chair of the DPLA, <a href="https://en.wikipedia.org/wiki/Dan_Cohen_(academic)">Dan Cohen</a> for their work in creating the vision for the consortium, and starting us on the path towards becoming a firmly established global standard in the cultural heritage sector.</p>
+
+<p>In addition, in July <a href="https://twitter.com/GregCram">Greg Cram</a> was been elected co-chair of the Statements Working Group.  Greg is the Associate Director of Copyright and Information Policy for the <a href="https://t.co/odtspoGmpH">NYPL</a>, involved in the development of the consortium since its inception and is a keen advocate for the take up on statements.</p>
+
+<p>The position of co-chair of the Statement Working Group was previously held by Paul Keller, alongside current co-chair Emily Gore.</p>
+
+  </div>
+
+  <h1><a href="/en/2018/06/translations.html">German and Estonian translations now available for use</a></h1>
+  <h3>Jun 8, 2018</h3>
+  </p>
+  <div class="content">
+    <p>Welcome to the rightsstatements.org blog!  We will use this blog to share information about the development of rightsstatements.org and about the resources that can help you implementing our rights statements.</p>
+
+<p>We’re happy to start with the great news that the official translations of all 12 statements into <a href="http://rightsstatements.org/page/1.0/?language=de">German</a> and <a href="http://rightsstatements.org/page/1.0/?language=et">Estonian</a> are now published and available for everyone to use.</p>
+
+<p>We’d like to thank <a href="https://pro.europeana.eu/person/ellen-euler">Ellen Euler</a> and <a href="http://www.iljabraun.de/">Ilja Braun</a> for being the first volunteer and working with us to develop the German translation, and <a href="https://pro.europeana.eu/person/vahur-puik">Vahur Pruik</a> and <a href="https://www.etis.ee/CV/Tanel_Pern/est">Tanel Pern</a> for their work delivering the Estonian translation. We would also like to thank everyone else who contributed to these translations via the public review or otherwise.</p>
+
+<p>Using the translated version of the statements don’t require any extra work. If your browser language is set to German or Estonian, you will automatically see the statements in your chosen language.  Alternatively you can browse the <a href="http://rightsstatements.org/de/">German</a> and <a href="http://rightsstatements.org/et/">Estonian</a> pages.</p>
+
+<h3 id="upcoming-translations">Upcoming translations</h3>
+
+<p>We currently have Portuguese, Spanish, Finnish, Swedish, Finland Swedish and Polish translations of the statements underway. All official translations are undertaken by volunteers following our <a href="http://rightsstatements.org/en/documentation/translations.html">translations policy</a>.  Once an application has progressed through the quality control steps laid out in the policy, the translations are published on rightsstatements.org. If you are interested in providing an official translation, please contact us at <a href="mailto:info@rightsstatements.org">info@rightsstatements.org</a>.</p>
+
+  </div>
+
 <br/>
 <h6 class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a> —
-  {% endif %}
-  <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-  — <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% endif %}
+  
+  <span class="page_number ">Page 1 of 1</span>
+  
 </h6>
+
+		</div>
+	</div>
+</div>
+
+
+
+      <div class='footer'>
+
+	      <div class="row">
+		      <div class="negative-margin">
+						<div class="small-8 columns">
+							<p>
+								RightsStatements.org is an international member based consortium, supported by public funding.
+							</p>
+							<p class="small">
+								Except where otherwise noted, content on this site is licensed under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 Public Domain Dedication</a>.
+							</p>
+						</div>
+						<div class="small-4 columns">
+							<ul class="right footer-nav">
+<!--
+								<li><a href="#">Terms of Use</a></li>
+-->
+								<li><a href="/en/privacy_policy.html">Privacy</a></li>
+								<li><a href="/en/get_involved.html">Contact</a></li>
+							</ul>
+						</div>
+		      </div>
+	      </div>
+
+      </div>
+
+
+      <script src='//rightsstatements.org/js/jquery.min.js'></script>
+      <script src='//rightsstatements.org/js/foundation.min.js'></script>
+      <script src='//rightsstatements.org/js/jquery.countTo.js'></script>
+      <script src='//rightsstatements.org/js/jquery.appear.js'></script>
+      <script src='//rightsstatements.org/js/app.js'></script>
+    </body>
+</html>
