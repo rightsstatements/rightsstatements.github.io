@@ -66,7 +66,6 @@ paginate: 10
 paginate_path: "/en/blog/:num/"
 default_language: en
 languages_enabled: yes
-rights_app_server: //h2481931.stratoserver.net:9001
 rights_data_version: 1.0
 white_paper_tech_version: 180117requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.2.1.pdf
 white_paper_rs_version: 180531recommendations_for_standardized_international_rights_statements_v1.2.2.pdf

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: RightsStatements in Wikidata
+filename: rihgtsstatements-in-wikidata
 date: 2019-05-28 12:00:00
 ---
 We are pleased to report that the volunteer community behind _Wikidata_ - the freely licensed structured database of information, sister to Wikipedia, has recently approved the creation of a dedicated metadata _Property_ for RightsStatements. [P6426](https://www.wikidata.org/wiki/Property:P6426) to be precise. This will increase the chances that accurate, understandable, and precise rights-labelling information about cultural heritage works will be findable by end-users.
@@ -25,7 +26,7 @@ Equally, “Aspects of Negro life”, a 1934 painting series by Aaron Douglas in
 
 The particular value of this new Wikidata property from the perspective of the Cultural Heritage organisations using _RightsStatements_ is that it is a record of what the institution itself declares about the works in its own collection - with a link back to that collection record. And, because the Rights Statements have already been imported as Wikidata items in their own right, they stand ready to be linked to Wikidata items representing the cultural heritage items.
 
-As the nominator of this new Wikidata Property, Dominic Byrd-McDevitt - Wikimedian in Residence at the U.S. _National Archives and Records Administration (NARA)_ and member of DPLA’s Rights Statements Working Group - said in his nomination statement: 
+As the nominator of this new Wikidata Property, Dominic Byrd-McDevitt - Wikimedian in Residence at the U.S. _National Archives and Records Administration (NARA)_ and member of DPLA’s Rights Statements Working Group - said in his nomination statement:
 > Adding this property will allow us to add the correct Rights Statement to a work's Wikidata item when the authoritative source (e.g. owning institution's catalog record) has already tagged it as such. Many works which have rights statements have already been added to Wikidata…
 
 Thanks to this information now being visible in Wikidata, it will be increasingly indexed and used by numerous third-party platforms, not the least of which is _Google_’s “[knowledge graph](https://en.wikipedia.org/wiki/Knowledge_Graph)”. This provides yet another argument for why institutions are encouraged to integrate standardised, machine-readable rights statements as part of their metadata.

@@ -2,6 +2,7 @@
 layout: front
 title: RightsStatements.org
 lang: en
+filename: index
 ---
 
 <div class="box">

@@ -1,10 +1,10 @@
 ---
 layout: page
+lang: en
 title: About
 section_id: about
-lang: en
+filename: about
 ---
-
 # About RightsStatements.org
 
 We believe that everyone should be able to engage with their cultural heritage online, and we are not alone in this - libraries, archives and museums around the world are also looking for ways to improve access to and reuse of their digital collections.
@@ -28,21 +28,21 @@ The rightsstatements.org consortium is a member based organisation - currently c
 
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
+\[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
 </div>
 <div class="medium-4 columns logo">
-[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
+\[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
 </div>
 <div class="medium-4 columns logo">
-[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
+\[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
 </div>
 </div>
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-[![National Heritage Digitization Stragegy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
+\[![National Heritage Digitization Stragegy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
 </div>
 <div class="medium-4 columns logo">
-[![Trove](/files/images/TroveLogo.png)](https://trove.nla.gov.au)
+\[![Trove](/files/images/TroveLogo.png)](https://trove.nla.gov.au)
 </div>
 <div class="medium-4 columns logo">
 </div>
@@ -60,6 +60,7 @@ Chair: Paul Keller, independent policy advisor on behalf of Europeana Foundation
 Vice Chair: Caitlin Horrall, Library & Archives Canada
 
 Members:
+
 * John Bracken, Digital Public Library of America
 * Partha Pratim Das, National Digital Library India
 * Cathie Oates, Trove at the National Digital Library of Australia
@@ -85,6 +86,7 @@ There are currently two active working groups. The International Rights Statemen
 The task of the International Rights Statements Working Group is to steward the development of the rights statements offered by RightsStatements.org. Its main purpose is to ensure that the rights statements address the needs of cultural heritage institutions and aggregation platforms while ensuring that the conform to the design principles identified in the white paper "[Recommendations for Standardized International Rights Statements](/en/documentation/rights-statements-white-paper/)".
 
 The International Rights Statements Working Group is chaired by Greg Cram (Associate Director of Copyright & Intellectual Property, New York Public Library) and has the following members:
+
 * Jessica Coates, Executive Officer, Australian Digital Alliance;
 * Julia Fallon, Senior Policy Advisor, Europeana Foundation;
 * Emily Gore, expert advisor;
@@ -100,6 +102,7 @@ The International Rights Statements Working Group is chaired by Greg Cram (Assoc
 The task of Technical Working Group is to develop and maintain the technical infrastructure and data model that powers the rights statements offered by RightsStatements.org, as defined in the white paper "[Requirements for the Technical Infrastructure for Standardized International Rights Statements](/en/documentation/technical-white-paper/)".
 
 The Technical Working Group is chaired by Mark Matienzo (Stanford University Libraries) and Antoine Isaac (Europeana) and has the following members:
+
 * Sascha Adler, Lead Application Developer, Canadian Research Knowledge Network;
 * Plaban Kumar Bhowmik, Assistant Professor, Indian Institute of Technology Kharagpur;
 * Valentine Charles, Data R&D Coordinator, Europeana;
@@ -117,9 +120,9 @@ RightsStatements.org has been realized with the support from:
 
 <div class="row">
 <div class="medium-4 columns">
-[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
+\[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
 </div>
 <div class="medium-4 columns">
-![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)
+!\[Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)
 </div>
 </div>

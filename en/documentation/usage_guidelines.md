@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements - Usage Guidelines
 section_id: documentation
+filename: usage_guidelines
 lang: en
 ---
 
@@ -15,7 +16,7 @@ Each individual rights statement has its own unique URI that can be used to poin
 
 ## Using the rights statements in cultural heritage object descriptions
 
-We recommend that institutions that are using the statements provided by RightsStatements.org do so by storing the URI of the rights statement in a metadata element or property associated with the cultural heritage object to which the rights statement applies. Examples of such fields include `dc:rights` or `edm:rights`. 
+We recommend that institutions that are using the statements provided by RightsStatements.org do so by storing the URI of the rights statement in a metadata element or property associated with the cultural heritage object to which the rights statement applies. Examples of such fields include `dc:rights` or `edm:rights`.
 
 <div class="box">
 ## Displaying the rights statements

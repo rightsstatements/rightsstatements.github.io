@@ -1,5 +1,4 @@
 name: rightsstatements.org
-url: //rightsstatements.github.io
 canonical_url: //rightsstatements.org
 markdown: kramdown
 kramdown:
@@ -59,14 +58,11 @@ defaults:
       iso_name: "Polski"
 author: rightsstatements.org
 permalink: /:categories/:year/:month/:slug.html
-plugins:
-  - jekyll-paginate
-  - jekyll-feed
+gems: [jekyll-paginate, jekyll-feed]
 paginate: 10
 paginate_path: "/en/blog/:num/"
 default_language: en
 languages_enabled: yes
-rights_app_server: //rights-stg.rightsstatements.org
 rights_data_version: 1.0
 white_paper_tech_version: 180117requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements_v1.2.1.pdf
 white_paper_rs_version: 180531recommendations_for_standardized_international_rights_statements_v1.2.2.pdf

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do the rights statements apply to works, digital representations of works or both?
+filename: where-statements-apply
 date: "2018-12-21 09:00:00 -0700"
 ---
 

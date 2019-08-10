@@ -2,6 +2,7 @@
 layout: page
 title: Rights Statements
 section_id: statements
+filename: vocab
 alias: /vocab/
 lang: en
 ---
@@ -20,7 +21,7 @@ The rights statements have been specifically developed for the needs of cultural
     <div class="statements-category-teaser">
       <a href="#collection-ic"><h3>In Copyright</h3></a>
       <a href="#collection-ic">
-        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
+        <img src="{{ site.baseurl }}/files/icons/InC.Icon-Only.dark.svg" />
       </a>
       <p>Statements for works that are in copyright</p>
     </div>
@@ -29,7 +30,7 @@ The rights statements have been specifically developed for the needs of cultural
     <div class="statements-category-teaser">
       <a href="#collection-nc"><h3>No Copyright</h3></a>
       <a href="#collection-nc">
-        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
+        <img src="{{ site.baseurl }}/files/icons/NoC.Icon-Only.dark.svg" />
       </a>
       <p>Statements for works that are not in copyright</p>
     </div>
@@ -38,7 +39,7 @@ The rights statements have been specifically developed for the needs of cultural
     <div class="statements-category-teaser">
       <a href="#collection-other"><h3>Other</h3></a>
       <a href="#collection-other">
-        <img src="{{ site.url }}{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
+        <img src="{{ site.baseurl }}/files/icons/Other.Icon-Only.dark.svg" />
       </a>
       <p>Statements for works where the copyright status is unclear</p>
     </div>

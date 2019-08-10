@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A few changes at the rightsstatements.org consortium"
+filename: consortium-changes
 date: "2018-07-18 07:50:37 -0700"
 ---
 
