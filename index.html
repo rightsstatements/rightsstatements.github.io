@@ -1,29 +1,51 @@
----
----
 <!DOCTYPE html>
   <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="3;url={{ site.url }}{{ site.baseurl }}/{{ site.default_language }}/">
+    <meta http-equiv="refresh" content="3;url=//rightsstatements.github.io/en/">
     <script language="javascript">
       var user_language = (navigator.language || navigator.userLanguage).split('-')[0];
       var enabled_languages = [];
-      {% for default in site.defaults %}
-        {% if default.values.lang == default.scope.path %}
-          enabled_languages.push("{{ default.values.lang }}");
-        {% endif %}
-      {% endfor %}
-      var default_language = "{{ site.default_language }}";
+      
+        
+          enabled_languages.push("en");
+        
+      
+        
+          enabled_languages.push("de");
+        
+      
+        
+          enabled_languages.push("es");
+        
+      
+        
+          enabled_languages.push("et");
+        
+      
+        
+          enabled_languages.push("fi");
+        
+      
+        
+          enabled_languages.push("fr");
+        
+      
+        
+          enabled_languages.push("pl");
+        
+      
+      var default_language = "en";
       if (enabled_languages.indexOf(user_language) != -1) {
-        window.location.href = "{{ site.url }}{{ site.baseurl }}/" + user_language + "/";
+        window.location.href = "//rightsstatements.github.io/" + user_language + "/";
       } else {
-        window.location.href = "{{ site.url }}{{ site.baseurl }}/" + default_language + "/";
+        window.location.href = "//rightsstatements.github.io/" + default_language + "/";
       }
     </script>
     <title>Page Redirection</title>
   </head>
   <body>
     If you are not redirected automatically, please click the link to continue to
-    <a href="{{ site.url }}{{ site.baseurl }}/{{ site.default_language }}/">{{ site.url }}{{ site.baseurl }}/{{ site.default_language }}/</a>.
+    <a href="//rightsstatements.github.io/en/">//rightsstatements.github.io/en/</a>.
   </body>
 </html>
