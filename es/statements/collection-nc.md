@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Rights Statements - Declaraciones de derechos para objetos que no están protegidos por derecho de autor
-lang: es
 section_id: statements
+lang: es
 ---
 
 ## Declaraciones de derechos para objetos que no están protegidos por derecho de autor

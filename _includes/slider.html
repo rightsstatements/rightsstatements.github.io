@@ -1,5 +1,6 @@
 <div class="bg-white">
   <ul data-orbit=''>
+    {% assign i18n = site.data.i18n[page.lang] %}
     {% for slide in site.data.slides %}
       <li>
         <div class="rounded-corners">
@@ -7,11 +8,11 @@
         </div>
         <div class='orbit-caption caption-{{ slide.desc_location }}'>
           <div class='row rounded-corners'>
-            <h2>{{ slide.desc.[page.lang].header }}</h2>
-            <p>{{ slide.desc.[page.lang].about | replace: 'rights_app_server', site.rights_app_server | replace: 'rights_data_version', site.rights_data_version }}</p>
+            <h2>{{ i18n[slide.image].header }}</h2>
+            <p>{{ i18n[slide.image].about | replace: 'rights_data_version', site.rights_data_version }}</p>
           </div>
         </div>
-        <div class="caption"><div class="row text-right">{{ slide.title }}</div></div>
+        <div class="caption"><div class="row text-right">{{ i18n[slide.image].title }}</div></div>
       </li>
     {% endfor %}
   </ul>

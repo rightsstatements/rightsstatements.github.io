@@ -2,6 +2,7 @@
 layout: page
 title: Déclarations des droits
 section_id: statements
+alias: /vocab/
 lang: fr
 ---
 
@@ -9,7 +10,7 @@ lang: fr
 
 RightsStatements.org propose actuellement douze déclarations des droits distinctes dont les institutions de gestion du patrimoine culturel peuvent se servir pour informer le public sur le statut des objets numériques en ce qui concerne le droit d'auteur et leur réutilisation. Lors de l'élaboration des déclarations des droits, il a été tenu compte de l'utilisation faite tant par des personnes physiques que par des machines (comme les moteurs de recherche) ; elles sont rendues accessibles sous forme de données liées. Chaque Déclaration des Droits est accessible via un URI unique.
 
-Les déclarations des droits sont spécifiquement élaborées pour répondre aux besoins des institutions de gestion du patrimoine culturel et des plates-formes d'agrégation de patrimoine culturel disponibles en ligne, les déclarations de droits ne sont pas destinées à être utilisées par des particuliers envisageant d'octroyer des licences sur leurs propres Oeuvres. (Si vous êtes à la recherche d'un outil permettant d'octroyer des licences sur vos propres œuvres, vous devriez envisager d'utiliser [une des licences Creative Commons](https://creativecommons.org/licenses/){:target="_blank"}). 
+Les déclarations des droits sont spécifiquement élaborées pour répondre aux besoins des institutions de gestion du patrimoine culturel et des plates-formes d'agrégation de patrimoine culturel disponibles en ligne, les déclarations de droits ne sont pas destinées à être utilisées par des particuliers envisageant d'octroyer des licences sur leurs propres Oeuvres. (Si vous êtes à la recherche d'un outil permettant d'octroyer des licences sur vos propres œuvres, vous devriez envisager d'utiliser [une des licences Creative Commons](https://creativecommons.org/licenses/){:target="_blank"}).
 
 <div class="box">
 ## Trois catégories de déclarations des droits
@@ -50,19 +51,19 @@ Les déclarations des droits sont spécifiquement élaborées pour répondre aux
 
 </div>
 
-## Déclarations des droits concernant les objets protégés par le droit d'auteur ## {#collection-ic}
+## Déclarations des droits concernant les objets protégés par le droit d'auteur {#collection-ic}
 
 Les cinq déclarations des droits qui suivent sont destinées à être utilisées pour les objets numériques protégés par le droit d'auteur. Si votre organisme est titulaire des droits sur de tels objets et qu'il entend encourager leur réutilisation, vous devriez envisager de rendre les objets accessibles au moyen d'[une licence ouverte Creative Commons](https://creativecommons.org/licenses/).
 
 {% include collection.html collection_id="collection-ic" %}
 
-## Déclarations des droits concernant les objets non protégés par le droit d'auteur ## {#collection-nc}
+## Déclarations des droits concernant les objets non protégés par le droit d'auteur {#collection-nc}
 
 Les quatre déclarations des droits qui suivent sont destinées à être utilisées pour les œuvres non protégées par le droit d'auteur, mais dont des restrictions autres que le droit d'auteur empêchent la libre réutilisation ou dont le statut d'œuvre non protégée par le droit d'auteur a été établi uniquement pour un système juridique précis. L'utilisation de ces déclarations des droits devrait se limiter aux cas où l'utilisation de la [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/) ou de la [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) est impossible.
 
 {% include collection.html collection_id="collection-nc" %}
 
-## Autres déclarations des droits ## {#collection-other}
+## Autres déclarations des droits {#collection-other}
 
 Les trois déclarations des droits qui suivent sont destinées à être utilisées pour les objets numériques dont le statut en matière de droit d'auteur n'a pas été déterminé avec certitude. Leur utilisation devrait se limiter aux cas où il n'est pas possible d'utiliser une Déclaration des Droits ou une licence plus claire.
 
