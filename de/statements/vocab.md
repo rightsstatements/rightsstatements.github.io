@@ -2,6 +2,7 @@
 layout: page
 title: Rechtehinweise
 section_id: statements
+alias: /vocab/
 lang: de
 ---
 
@@ -50,19 +51,19 @@ Hinweise für Werke, die urheberrechtlich geschützt sind, Hinweise für Werke, 
 
 </div>
 
-## Rechtehinweise für urheberrechtlich geschützte digitale Objekte ## {#collection-ic}
+## Rechtehinweise für urheberrechtlich geschützte digitale Objekte {#collection-ic}
 
 Die folgenden fünf Rechtehinweise sind für die Nutzung digitaler Objekte vorgesehen, die urheberrechtlich geschützt sind. Wenn Ihre Institution Rechteinhaber ist und die Weiterverwendung befördern möchte, sollten Sie darüber nachdenken, die digitalen Objekte mit einer offenen [Creative Commons Lizenz](https://creativecommons.org/licenses/) zugänglich zu machen.
 
 {% include collection.html collection_id="collection-ic" %}
 
-## Rechtehinweise für digitale Objekte, die nicht urheberrechtlich geschützt sind ## {#collection-nc}
+## Rechtehinweise für digitale Objekte, die nicht urheberrechtlich geschützt sind {#collection-nc}
 
 Die folgenden vier Rechtehinweise sind für Werke vorgesehen, die nicht urheberrechtlich geschützt sind, aber bei denen es andere Beschränkungen außer dem Urheberrecht gibt, die eine freie Nachnutzung verhindern, oder für die Urheberrechtsfreiheit nur nach einer bestimmten Rechtsordnung festgestellt wurde. Diese Rechtehinweise sollten nur genutzt werden, wenn es nicht möglich ist, das [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/) oder die [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) zu verwenden.
 
 {% include collection.html collection_id="collection-nc" %}
 
-## Andere Rechtehinweise ## {#collection-other}
+## Andere Rechtehinweise {#collection-other}
 
 Die folgenden drei Rechtehinweise sind für die Nutzung digitaler Objekte vorgesehen, bei denen der Urheberrechtsschutz nicht mit Sicherheit festgestellt wurde. Diese sollten nur verwendet werden, wenn es nicht möglich ist, einen passenderen Rechtehinweis oder eine passendere Lizenz zu verwenden.
 

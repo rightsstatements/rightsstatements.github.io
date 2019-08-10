@@ -2,6 +2,7 @@
 layout: page
 title: Declaraciones de derechos
 section_id: statements
+alias: /vocab/
 lang: es
 ---
 
@@ -49,19 +50,19 @@ Estas declaraciones de derechos han sido específicamente desarrolladas para las
 
 </div>
 
-## Declaraciones de derechos para objetos protegidos por derecho de autor ## {#collection-ic}
+## Declaraciones de derechos para objetos protegidos por derecho de autor {#collection-ic}
 
 Las siguientes cinco declaraciones de derechos tienen el propósito de ser utilizadas con objetos digitales que están protegidos por derecho de autor. Si su organización es la titular de derechos para dichos objetos y desea promover la reutilización debería considerar poner estos objetos a disposición bajo [una licencia abierta Creative Commons.](https://creativecommons.org/licenses/)
 
 {% include collection.html collection_id="collection-ic" %}
 
-## Declaraciones de derechos para objetos que no están protegidos por derecho de autor ## {#collection-nc}
+## Declaraciones de derechos para objetos que no están protegidos por derecho de autor {#collection-nc}
 
 Las siguientes cuatro declaraciones de derechos están destinadas a obras que no están protegidas por derecho de autor pero donde hay restricciones distintas del derecho de autor que previenen la libre reutilización o donde la ausencia de derecho de autor solo ha sido comprobado para una jurisdicción específica. Estas declaraciones de derechos solo deberían ser utilizadas cuando no es posible utilizar la [Marca del Dominio Público](https://creativecommons.org/publicdomain/mark/1.0/) o la [Dedicación al Dominio Público CC0.](https://creativecommons.org/publicdomain/zero/1.0/)
 
 {% include collection.html collection_id="collection-nc" %}
 
-## Otras declaraciones de derechos ## {#collection-other}
+## Otras declaraciones de derechos {#collection-other}
 
 Las siguientes tres declaraciones de derechos tienen el propósito de ser utilizadas con objetos digitales para los cuales el estado de derecho de autor no ha sido determinado con certeza. Estas solamente deberían ser utilizadas cuando no es posible utilizar una licencia o una declaración de derechos más clara.
 

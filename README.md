@@ -38,9 +38,13 @@ Open `/admin` and log in with GitHub.
 
 ### Creating a new post
 
-Click `New Blog`
+[Transifex](https://www.transifex.com/graphthinking-gmbh/rightsstatementsorg/) is used to carry out translations of the website. The relevant resources are tagged with the category `website`. Please get in touch with the [maintainers](https://www.transifex.com/graphthinking-gmbh/rightsstatementsorg/settings/maintainers/) to add a new language to the project.
 
-![](files/images/newPost.png)
+To incorporate updates or new translations:
+
+* Install [`tx`](https://docs.transifex.com/client/introduction) and run [`tx pull`](https://docs.transifex.com/client/pull#command-options).
+* Edit `_config.yml` and `_config_production.yml` to add keys and associated translations for the language you're editing.
+* If provided, add any PDF documentation related to the translation to the `files` directory.
 
 Add a **title**, **date**, **body** and click save.
 

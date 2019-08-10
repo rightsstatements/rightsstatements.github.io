@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Rights Statements - Käyttöoikeuskuvaukset objekteille, jotka eivät ole tekijänoikeuden piirissä 
-lang: fi
+title: Rights Statements - Käyttöoikeuskuvaukset objekteille, jotka eivät ole tekijänoikeuden piirissä
 section_id: statements
+lang: fi
 ---
 
 ## Käyttöoikeuskuvaukset objekteille, jotka eivät ole tekijänoikeuden piirissä

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Déclarations des droits concernant les objets non protégés par le droit d'auteur
-lang: fr
 section_id: statements
+lang: fr
 ---
 
 ## Déclarations des droits concernant les objets non protégés par le droit d'auteur
