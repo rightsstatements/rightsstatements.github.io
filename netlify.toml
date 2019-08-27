@@ -7,18 +7,18 @@
 
 [[redirects]]
   from = "/vocab/*"
-  to = "http://rights-stg.rightsstatements.org/vocab/:splat"
+  to = "https://rightsstatements.graphthinking.com/vocab/:splat"
   status = 200
   headers = {X-Deploy-Url = "${X_DEPLOY_URL}"}
 
 [[redirects]]
   from = "/data/*"
-  to = "http://rights-stg.rightsstatements.org/data/:splat"
+  to = "https://rightsstatements.graphthinking.com/data/:splat"
   status = 200
   headers = {X-Deploy-Url = "${X_DEPLOY_URL}"}
 
 [[redirects]]
   from = "/page/*"
-  to = "http://rights-stg.rightsstatements.org/page/:splat"
+  to = "https://rightsstatements.graphthinking.com/page/:splat"
   status = 200
   headers = {X-Deploy-Url = "${X_DEPLOY_URL}"}
