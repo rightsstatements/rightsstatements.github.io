@@ -120,9 +120,9 @@ RightsStatements.org has been realized with the support from:
 
 <div class="row">
 <div class="medium-4 columns">
-\[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
+[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
 </div>
 <div class="medium-4 columns">
-!\[Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)
+[![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)] (https://ec.europa.eu/inea/en/connecting-europe-facility)
 </div>
 </div>
