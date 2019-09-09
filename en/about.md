@@ -28,24 +28,21 @@ The rightsstatements.org consortium is a member based organisation - currently c
 
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-\[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
+[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
 </div>
 <div class="medium-4 columns logo">
-[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/about)
+[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
 </div>
 <div class="medium-4 columns logo">
-\[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
-</div>
-<div class="medium-4 columns logo">
-\[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
+[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
 </div>
 </div>
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-\[![National Heritage Digitization Stragegy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
+[![National Heritage Digitization Stragegy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
 </div>
 <div class="medium-4 columns logo">
-\[![Trove](/files/images/TroveLogo.png)](https://trove.nla.gov.au)
+[![Trove](/files/images/TroveLogo.png)](https://trove.nla.gov.au)
 </div>
 <div class="medium-4 columns logo">
 </div>
