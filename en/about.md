@@ -123,6 +123,6 @@ RightsStatements.org has been realized with the support from:
 [![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
 </div>
 <div class="medium-4 columns">
-[![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)] (https://ec.europa.eu/inea/en/connecting-europe-facility)
+[![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)](https://ec.europa.eu/inea/en/connecting-europe-facility)
 </div>
 </div>
