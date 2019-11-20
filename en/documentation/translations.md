@@ -26,8 +26,7 @@ The rights statements have been translated into the following languages:
 
 There are currently 7 translation efforts underway:
 
-1. **Lithuanian** - Translation partner the [National Library of Lithuania](https://www.lnb.lt/), and the [Professional Law Partnership iLaw](http://en.ilawfirm.lt/), no translation reviewer selected yet
-   ****[**OPEN FOR PUBLIC REVIEW UNTIL 20 DECEMBER 2019**](https://docs.google.com/document/d/1ipRjkVbOKFhGQ05L5AA-HSKyGe9r3YdinnyvVegR8N0/edit?usp=sharing)****
+1. **Lithuanian** - Translation partner the [National Library of Lithuania](https://www.lnb.lt/), and the [Professional Law Partnership iLaw](http://en.ilawfirm.lt/), no translation reviewer selected yet - [OPEN FOR PUBLIC REVIEW UNTIL 20 DECEMBER 2019](https://docs.google.com/document/d/1ipRjkVbOKFhGQ05L5AA-HSKyGe9r3YdinnyvVegR8N0/edit?usp=sharing)****
 2. **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services, reviewed by [HH Partners](https://www.hhpartners.fi/en/) - under review by RightsStatements.org
 3. **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board, no translation reviewer selected yet
 4. **Portugese** - Expression of interest received, no translation partner selected yet
