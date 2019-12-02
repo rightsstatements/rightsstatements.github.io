@@ -51,6 +51,13 @@ defaults:
       iso_name: "Français"
   -
     scope:
+      path: "hi"
+    values:
+      lang: "hi"
+      categories: ["hi"]
+      iso_name: "हिन्दी"
+  -
+    scope:
       path: "pl"
     values:
       lang: "pl"
