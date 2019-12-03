@@ -22,3 +22,8 @@
   to = "https://rights-prod.rightsstatements.org/page/:splat"
   status = 200
   headers = {X-Deploy-Url = "${X_DEPLOY_URL}"}
+
+[[redirects]]
+  from = "/:lang/statements/"
+  to = "/page/1.0/?language=:lang"
+  status = 301
