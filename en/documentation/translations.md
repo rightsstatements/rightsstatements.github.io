@@ -33,6 +33,6 @@ There are currently 7 translation efforts underway:
 4. **Portugese** - Expression of interest received, no translation partner selected yet
 5. **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India reviewed by [Jadavpur University](http://www.jaduniv.edu.in/) of India - PUBLIC REVIEW CLOSED
 
-Applications from new translation partners will be accepted from 1st June 2019. You can contact <mailto:info@rightsstatements.org> with any questions.
+Applications from new translation partners will be accepted from 1st February 2020. You can contact <mailto:info@rightsstatements.org> with any questions.
 
 </div>
