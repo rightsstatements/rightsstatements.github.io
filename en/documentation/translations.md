@@ -31,7 +31,7 @@ There are currently 7 translation efforts underway:
 2. **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services, reviewed by [HH Partners](https://www.hhpartners.fi/en/) - under review by RightsStatements.org
 3. **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board, no translation reviewer selected yet
 4. **Portugese** - Expression of interest received, no translation partner selected yet
-5. **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India reviewed by [Jadavpur University](http://www.jaduniv.edu.in/) of India - PUBLIC REVIEW CLOSED
+5. **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India reviewed by [Jadavpur University](http://www.jaduniv.edu.in/) of India
 
 Applications from new translation partners will be accepted from 1st February 2020. You can contact <mailto:info@rightsstatements.org> with any questions.
 
