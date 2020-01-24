@@ -6,7 +6,7 @@ const readFile = promisify(fs.readFile)
 
 const writeConf = async () => {
   const { HEAD, REPOSITORY_URL, DEPLOY_URL } = process.env
-  console.log(REPOSITORY_URL)
+  console.log("REPOSITORY_URL", REPOSITORY_URL)
   const repo = (REPOSITORY_URL && REPOSITORY_URL.split('@')[1].replace("github.com/", '')) || null
 
   if (HEAD && repo) {
