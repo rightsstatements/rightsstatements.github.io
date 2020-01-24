@@ -7,7 +7,7 @@ filename: translations
 ---
 # Translations of the rights statements
 
-The rights statements and underlying infrastructure of rightsstatements.org have been designed to work internationally in many languages. At the moment our rights statements are only available in English. If you are interested in working with us on translating the rights statements please contact us at <mailto:info@rightsstatements.org>. Translations of the rights statements need to be produced in line with our [translation policy](/en/documentation/translation-policy/) which you can find on our [Documentation](/en/documentation/) page.
+The rights statements and underlying infrastructure of rightsstatements.org have been designed to work internationally in many languages. At the moment our rights statements are only available in English. If you are interested in working with us on translating the rights statements please contact us at [info@rightsstatements.org](mailto:info@rightsstatements.org). Translations of the rights statements need to be produced in line with our [translation policy](/en/documentation/translation-policy/) which you can find on our [Documentation](/en/documentation/) page.
 
 <div class="box">
 
@@ -27,12 +27,12 @@ The rights statements have been translated into the following languages:
 
 There are currently 7 translation efforts underway:
 
-1. **Lithuanian** - Translation partner the [National Library of Lithuania](https://www.lnb.lt/), and the [Professional Law Partnership iLaw](http://en.ilawfirm.lt/), no translation reviewer selected yet - [OPEN FOR PUBLIC REVIEW UNTIL 20 DECEMBER 2019](https://docs.google.com/document/d/1ipRjkVbOKFhGQ05L5AA-HSKyGe9r3YdinnyvVegR8N0/edit?usp=sharing)\*\*\*\*
+1. **Lithuanian** - Translation partner the [National Library of Lithuania](https://www.lnb.lt/) and the [Professional Law Partnership iLaw](http://en.ilawfirm.lt/), reviewed by the Baltic Audiovisual Archives Council.
 2. **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services, reviewed by [HH Partners](https://www.hhpartners.fi/en/) - under review by RightsStatements.org
 3. **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board, no translation reviewer selected yet
-4. **Portugese** - Expression of interest received, no translation partner selected yet
+4. **Portugese** - Translation partner: Instituto Moreira Salles. Translator Creative Commons Brazil. Reviewer Creative Commons Portugal. 
 5. **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India reviewed by [Jadavpur University](http://www.jaduniv.edu.in/) of India
 
-Applications from new translation partners will be accepted from 1st February 2020. You can contact <mailto:info@rightsstatements.org> with any questions.
+Applications from new translation partners will be accepted from 1st February 2020. You can contact [info@rightsstatements.org](mailto:info@rightsstatements.org) with any questions.
 
 </div>
