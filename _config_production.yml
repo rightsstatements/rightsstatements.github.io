@@ -59,6 +59,13 @@ defaults:
       iso_name: "हिन्दी"
   -
     scope:
+      path: "lt"
+    values:
+      lang: "lt"
+      categories: ["lt"]
+      iso_name: "Lietuva"
+  -
+    scope:
       path: "pl"
     values:
       lang: "pl"
