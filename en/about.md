@@ -28,7 +28,7 @@ The rightsstatements.org consortium is a member based organisation - currently c
 
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-\[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
+[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
 </div>
 <div class="medium-4 columns logo">
 \[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
