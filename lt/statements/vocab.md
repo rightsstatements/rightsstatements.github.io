@@ -13,7 +13,7 @@ Tinklalapyje RightsStatements.org šiuo metu yra pateikta 12 skirtingų teisių 
 Teisių pareikštys sukurtos specialiai atminties institucijų ir internetinių kultūros paveldo duomenų kaupimo platformų poreikiams, jos nėra skirtos naudoti asmenims, norintiems licencijuoti savo pačių kūrybą. (Jei ieškote įrankio licencijuoti savo kūrybai, apsvarstykite galimybę pasinaudoti viena iš Kūrybinių bendrijų [Creative Commons licenses](https://creativecommons.org/licenses/){:target="_blank"}).
 
 <div class="box">
-##Trys Teisių pareikščių kategorijos
+## Trys Teisių pareikščių kategorijos
 
 <div class="row" markdown="0">
 <div class="medium-4 columns">
@@ -45,9 +45,8 @@ Teisių pareikštys sukurtos specialiai atminties institucijų ir internetinių 
 </div>
 </div>
 <div>
-<p>Teisių pareikštys gali būti suskirstytos į tris kategorijas: Pareikštys autorių teisių saugomiems objektams, Pareikštys objektams, kurių autorių teisės nesaugo ir Pareikštys objektams, kurių autorių teisių būsena yra neaiški. Pareikštyse pateikiama naudotojui lengvai suprantama informacija apie skaitmeninius objektus saugančių autorių teisių rėžimą ir galimybes juos panaudoti pakartotinai. Išskyrus dvi pareikštis, specialiai skirtas ženklinti objektus, kurių autorių teisių būsena nėra žinoma, pareikštys turėtų būti taikomos tik po to, kai identifikuojamos objektą saugančios autorinės teisės. Daugiau informacijos apie tai, kaip taikyti teisių pareikštis, galite rasti skyriuje „Dokumentai“.</p>
+<p>Teisių pareikštys gali būti suskirstytos į tris kategorijas: Pareikštys autorių teisių saugomiems objektams, Pareikštys objektams, kurių autorių teisės nesaugo ir Pareikštys objektams, kurių autorių teisių būsena yra neaiški. Pareikštyse pateikiama naudotojui lengvai suprantama informacija apie skaitmeninius objektus saugančių autorių teisių rėžimą ir galimybes juos panaudoti pakartotinai. Išskyrus dvi pareikštis, specialiai skirtas ženklinti objektus, kurių autorių teisių būsena nėra žinoma, pareikštys turėtų būti taikomos tik po to, kai identifikuojamos objektą saugančios autorinės teisės. Daugiau informacijos apie tai, kaip taikyti teisių pareikštis, galite rasti skyriuje [„Dokumentai“](/en/documentation).</p>
 </div>
-
 
 </div>
 
@@ -57,9 +56,9 @@ Toliau nurodytos penkios teisių pareikštys yra skirtos ženklinti objektus, sa
 
 {% include collection.html collection_id="collection-ic" %}
 
-## Pareikštys objektams, kurių autorių teisės nesaugo{#collection-nc}
+## Pareikštys objektams, kurių autorių teisės nesaugo {#collection-nc}
 
-Toliau nurodytos keturios teisių pareikštys yra skirtos ženklinti objektus, kurie nėra saugomi pagal autorių teisės normas, tačiau arba jiems taikomi kiti, su autorių teisėmis nesusiję, apribojimai, kurie trukdo laisvai naudoti objektus pakartotinai, arba jų autorių teisių režimas nustatytas tik kažkurioje konkrečioje jurisdikcijoje. Šios teisių pareikštys turėtų būti naudojamos tik tada, kai nėra įmanoma panaudoti Viešojo naudojimo (public domain) žymens (PD) https://creativecommons.org/publicdomain/mark/1.0/) arba priskirti objekto viešajai sričiai panaudojant CC0 (https://creativecommons.org/publicdomain/zero/1.0/).
+Toliau nurodytos keturios teisių pareikštys yra skirtos ženklinti objektus, kurie nėra saugomi pagal autorių teisės normas, tačiau arba jiems taikomi kiti, su autorių teisėmis nesusiję, apribojimai, kurie trukdo laisvai naudoti objektus pakartotinai, arba jų autorių teisių režimas nustatytas tik kažkurioje konkrečioje jurisdikcijoje. Šios teisių pareikštys turėtų būti naudojamos tik tada, kai nėra įmanoma panaudoti [Viešojo naudojimo (public domain) žymens (PD)](https://creativecommons.org/publicdomain/mark/1.0/) arba priskirti objekto viešajai sričiai panaudojant [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 {% include collection.html collection_id="collection-nc" %}
 
