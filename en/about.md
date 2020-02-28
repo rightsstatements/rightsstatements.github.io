@@ -39,12 +39,13 @@ The rightsstatements.org consortium is a member based organisation - currently c
 </div>
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-[![National Heritage Digitization Stragegy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
+[![National Heritage Digitization Strategy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
 </div>
 <div class="medium-4 columns logo">
 [![Trove](/files/images/TroveLogo.png)](https://trove.nla.gov.au)
 </div>
 <div class="medium-4 columns logo">
+[![National Library of New Zealand](/files/images/NLNZ_logo.jpg)](https://natlib.govt.nz/)
 </div>
 </div>
 </div>
