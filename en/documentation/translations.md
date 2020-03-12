@@ -35,6 +35,6 @@ There are currently 7 translation efforts underway:
 * **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India reviewed by [Jadavpur University](http://www.jaduniv.edu.in/) of India
 * **Serbian** - Translation partner [Creative Commons Serbia](http://creativecommons.org.rs/) (Nevenka Antic). Review by the [National Library of Serbia](https://www.nb.rs/?change_lang=en). 
 
-Applications from new translation partners will be accepted from 1st March 2020. You can contact [info@rightsstatements.org](mailto:info@rightsstatements.org) with any questions.
+Applications from new translation partners should be sent to [info@rightsstatements.org](mailto:info@rightsstatements.org).
 
 </div>
