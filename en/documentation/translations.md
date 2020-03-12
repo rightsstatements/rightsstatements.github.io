@@ -28,11 +28,12 @@ The rights statements have been translated into the following languages:
 
 There are currently 7 translation efforts underway:
 
-* **Dutch** - Translation Partner: [PACKED Centre of Expertise in Digital Heritage](https://www.packed.be/en/), review by [IP Squared.com](https://ip-squared.com/) and  [Beeld end Geluid](https://www.beeldengeluid.nl/en/knowledge/experts/maarten-brinkerink).
-* **Portugese** - Translation partner: [Instituto Moreira Salles](https://ims.com.br/), translator [Creative Commons Brazil](https://br.creativecommons.org/), reviewer [Creative Commons Portugal](http://creativecommons.pt/). 
-* **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services, reviewed by [HH Partners](https://www.hhpartners.fi/en/) - under review by RightsStatements.org
-* **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board, no translation reviewer selected yet
+* **Dutch** - Translation Partner: [PACKED Centre of Expertise in Digital Heritage](https://www.packed.be/en/). Review by [IP Squared.com](https://ip-squared.com/) and  [Beeld end Geluid](https://www.beeldengeluid.nl/en/knowledge/experts/maarten-brinkerink).
+* **Portugese** - Translation partner: [Instituto Moreira Salles](https://ims.com.br/), translator [Creative Commons Brazil](https://br.creativecommons.org/). Review by [Creative Commons Portugal](http://creativecommons.pt/). 
+* **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services. Review by [HH Partners](https://www.hhpartners.fi/en/) [*under review by RightsStatements.org*]
+* **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board. No reviewer selected yet.
 * **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India reviewed by [Jadavpur University](http://www.jaduniv.edu.in/) of India
+* **Serbian** - Translation partner [Creative Commons Serbia](http://creativecommons.org.rs/) (Nevenka Antic). Review by the [National Library of Serbia](https://www.nb.rs/?change_lang=en). 
 
 Applications from new translation partners will be accepted from 1st March 2020. You can contact [info@rightsstatements.org](mailto:info@rightsstatements.org) with any questions.
 
