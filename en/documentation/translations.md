@@ -33,7 +33,7 @@ There are currently 7 translation efforts underway:
 * **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services. Review by [HH Partners](https://www.hhpartners.fi/en/) [*under review by RightsStatements.org*]
 * **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board. No reviewer selected yet.
 * **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India reviewed by [Jadavpur University](http://www.jaduniv.edu.in/) of India
-* **Serbian** - Translation partner [Creative Commons Serbia](http://creativecommons.org.rs/) (Nevenka Antic). Review by the [National Library of Serbia](https://www.nb.rs/?change_lang=en). 
+* **Serbian** - Translation partner [Wikimedia Serbia](http://wikimedia.rs/). Translation by [Creative Commons Serbia](http://creativecommons.org.rs/) (Nevenka Antic). Review by the [National Library of Serbia](https://www.nb.rs/?change_lang=en). 
 
 Applications from new translation partners should be sent to [info@rightsstatements.org](mailto:info@rightsstatements.org).
 
