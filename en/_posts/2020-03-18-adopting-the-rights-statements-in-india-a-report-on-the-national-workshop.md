@@ -12,13 +12,11 @@ Although the goal of the event was to increase the knowledge on the Rights State
 
 The following report prepared by Greg Cram and Paul Keller provides a detailed look at the event and highlights the main outcomes.
 
-
-
 # Report from the workshop on the adoption of Rights Statements for digital libraries in India
 
 From 6 to 9 September rightsstatements.org consortium partner [National Library of India](https://www.nationallibrary.gov.in/) (NDLI) organized a national workshop on the adoption of Rights Statements for digital libraries in India. The event took place on the campus of the [Indian Institute of Technology in Kharagpur](http://www.iitkgp.ac.in/) in West Bengal where the main NDLI offices are located. The workshop consisted of two parts, an invitation only pre-workshop brainstorm followed by the actual workshop which was open to the public.
 
-## Pre-workshop brai**nstorm**
+## Pre-workshop brainstorm
 
 The pre workshop brainstorming session brought together key individuals from the legal community, NDLI and selected GLAMs for an in-depth discussion in preparation of the actual workshop. After a welcome note by [Prof. Partha Pratim Chakarabarti](https://cse.iitkgp.ac.in/~ppchak/), there were introductory presentations by [Prof. Partha Pratim Das](https://cse.iitkgp.ac.in/~ppd/) (NDLI), Paul Keller and Greg Cram (rightsstatements.org). Paul Keller’s [presentation](https://drive.google.com/a/europeana.eu/file/d/1-ndYj9qnyGeOadWS78j19Fs_ReyRmP5e/view?usp=sharing) focused on the history and details of the statements, while Greg Cram’s [presentation](https://drive.google.com/a/europeana.eu/file/d/1iRzrTnLJYZlE9epAkACxev-S1wfODDFX/view?usp=sharing) focused primarily on the adoption at institutional and national levels. These presentations generated a lot of feedback, questions and discussion. The majority of these centered on issues related to the copyright status of works, exceptions and limitations in Indian law, and rights clearance.
 
