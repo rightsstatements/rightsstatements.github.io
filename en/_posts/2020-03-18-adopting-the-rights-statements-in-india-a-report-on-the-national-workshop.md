@@ -16,7 +16,7 @@ The following report prepared by Greg Cram and Paul Keller provides a detailed l
 
 *By Greg Cram and Paul Keller. Photos by Shibabroto Banerjee. Flowchart by Paul Keller*
 
-From 6 to 9 September rightsstatements.org consortium partner [National Library of India](https://www.nationallibrary.gov.in/) (NDLI) organized a national workshop on the adoption of Rights Statements for digital libraries in India. The event took place on the campus of the [Indian Institute of Technology in Kharagpur](http://www.iitkgp.ac.in/) in West Bengal where the main NDLI offices are located. The workshop consisted of two parts, an invitation only pre-workshop brainstorm followed by the actual workshop which was open to the public.
+From 6 to 9 September rightsstatements.org consortium partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) organized a national workshop on the adoption of Rights Statements for digital libraries in India. The event took place on the campus of the [Indian Institute of Technology in Kharagpur](http://www.iitkgp.ac.in/) in West Bengal where the main NDLI offices are located. The workshop consisted of two parts, an invitation only pre-workshop brainstorm followed by the actual workshop which was open to the public.
 
 ## Pre-workshop brainstorm
 
