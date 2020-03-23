@@ -36,7 +36,7 @@ The following flowchart that was produced at the end of the session summarizes t
 
 ## National Workshop
 
-The public workshop on the afternoon of 7th and on the 8th of September was the first opportunity for many attendees to learn about Rights Statements and ask questions about the value of making rights status determinations. Attendees of several cultural heritage organizations from across India joined the attendees of the pre-workshop brainstorming session. Students from the law school also sat in to listen to the conversation. After opening the meeting, Prof. Partha Pratim Das spelled out the objectives of the workshop. The stated goal was to learn more about Rights Statements, determine if they would work within the Indian context, and understand why using standardized statements helps users.
+The public workshop on the afternoon of the 7th and on the 8th of September was the first opportunity for many attendees to learn about Rights Statements and ask questions about the value of making rights status determinations. Attendees of several cultural heritage organizations from across India joined the attendees of the pre-workshop brainstorming session. Students from the law school also sat in to listen to the conversation. After opening the meeting, Prof. Partha Pratim Das spelled out the objectives of the workshop. The stated goal was to learn more about Rights Statements, determine if they would work within the Indian context, and understand why using standardized statements helps users.
 
 ![National Workshop ](/files/national-workshop-ndli.jpeg "National Workshop")
 
