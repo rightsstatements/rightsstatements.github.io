@@ -28,12 +28,13 @@ The rights statements have been translated into the following languages:
 
 There are currently 7 translation efforts underway:
 
-* **Dutch** - Translation Partner: [PACKED Centre of Expertise in Digital Heritage](https://www.packed.be/en/). Review by [IP Squared.com](https://ip-squared.com/) and  [Beeld end Geluid](https://www.beeldengeluid.nl/en/knowledge/experts/maarten-brinkerink).
+* **Dutch** - Translation Partner: [PACKED Centre of Expertise in Digital Heritage](https://www.packed.be/en/). Review by [IP Squared.com](https://ip-squared.com/) and  [Beeld end Geluid](https://www.beeldengeluid.nl/en/knowledge/experts/maarten-brinkerink) [**public consultation open until 5th May - to review the translation, email us at [info@rightsstatements.org](mailto:info@rightsstatements.org)**]
 * **Portugese** - Translation partner: [Instituto Moreira Salles](https://ims.com.br/), translator [Creative Commons Brazil](https://br.creativecommons.org/). Review by [Creative Commons Portugal](http://creativecommons.pt/). 
 * **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services. Review by [HH Partners](https://www.hhpartners.fi/en/) [*under review by RightsStatements.org*]
 * **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board. No reviewer selected yet.
 * **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India reviewed by [Jadavpur University](http://www.jaduniv.edu.in/) of India
 * **Serbian** - Translation partner [Wikimedia Serbia](http://wikimedia.rs/). Translation by [Creative Commons Serbia](http://creativecommons.org.rs/) (Nevenka Antic). Review by the [National Library of Serbia](https://www.nb.rs/?change_lang=en). 
+* **Catalan** - Translation partner [Legalment](https://www.legalment.net/). Reviewer [Biblioteca Nacional de Catalunya](http://www.bnc.cat/).
 
 Applications from new translation partners should be sent to [info@rightsstatements.org](mailto:info@rightsstatements.org).
 
