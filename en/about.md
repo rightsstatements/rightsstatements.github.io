@@ -28,24 +28,24 @@ The rightsstatements.org consortium is a member based organisation - currently c
 
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
+\[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
 </div>
 <div class="medium-4 columns logo">
-[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
+\[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
 </div>
 <div class="medium-4 columns logo">
-[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
+\[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
 </div>
 </div>
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-[![National Heritage Digitization Strategy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
+\[![National Heritage Digitization Strategy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
 </div>
 <div class="medium-4 columns logo">
-[![Trove](/files/images/TroveLogo.png)](https://trove.nla.gov.au)
+\[![Trove](/files/images/TroveLogo.png)](https://trove.nla.gov.au)
 </div>
 <div class="medium-4 columns logo">
-[![National Library of New Zealand](/files/images/NLNZ_logo.jpg)](https://natlib.govt.nz/)
+\[![National Library of New Zealand](/files/images/NLNZ_logo.jpg)](https://natlib.govt.nz/)
 </div>
 </div>
 </div>
@@ -71,10 +71,7 @@ Members:
 
 Coordinator:  Julia Fallon, Europeana Foundation
 
-The Consortium Business Plan for 2018 prepared by the Steering Committee and supported by a Work Plan is now published:
-
-1. [2018 Business Plan](http://bit.ly/2oZQe4m)
-2. [Consortium Work Plan 2018](http://bit.ly/2DiEbTS)
+The Consortium [Work Plan for 2020](https://drive.google.com/a/europeana.eu/file/d/1DMeAh7KWP4STve4Ga1s9nHSGksNa9uei/view?usp=sharing) prepared by the Steering Committee is now published.
 
 ## Working Groups
 
@@ -120,9 +117,9 @@ RightsStatements.org has been realized with the support from:
 
 <div class="row">
 <div class="medium-4 columns">
-[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
+\[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
 </div>
 <div class="medium-4 columns">
-[![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)](https://ec.europa.eu/inea/en/connecting-europe-facility)
+\[![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)](https://ec.europa.eu/inea/en/connecting-europe-facility)
 </div>
 </div>
