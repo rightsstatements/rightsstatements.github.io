@@ -28,24 +28,24 @@ The rightsstatements.org consortium is a member based organisation - currently c
 
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-\\[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
+\\\[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
 </div>
 <div class="medium-4 columns logo">
-\\[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
+\\\[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
 </div>
 <div class="medium-4 columns logo">
-\\[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
+\\\[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
 </div>
 </div>
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-\\[![National Heritage Digitization Strategy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
+\\\[![National Heritage Digitization Strategy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
 </div>
 <div class="medium-4 columns logo">
-\\[![Trove](/files/images/TroveLogo.png)](https://trove.nla.gov.au)
+\\\[![Trove](/files/images/TroveLogo.png)](https://trove.nla.gov.au)
 </div>
 <div class="medium-4 columns logo">
-\\[![National Library of New Zealand](/files/images/NLNZ_logo.jpg)](https://natlib.govt.nz/)
+\\\[![National Library of New Zealand](/files/images/NLNZ_logo.jpg)](https://natlib.govt.nz/)
 </div>
 </div>
 </div>
@@ -111,9 +111,9 @@ The Technical Working Group is chaired by Mark Matienzo (Stanford University Lib
 * Valentine Charles, Data R&D Coordinator, Europeana;
 * Esmé Cowles, Digital Infrastructure Developer, Princeton University;
 * Tom Johnson, PhD Student, University of Washington Information School;
-* Patrick Peiffer, Digital Librarian, Bibliothèque Nationale de Luxembourg;
-* Mark Raadgever, Trove data team, National Library of Australia; and
-* Richard J. Urban, Digital Asset Manager and Strategist, Corning Museum of Glass.
+* Matthew Miguez, Metadata Librarian, Florida State University Libraries;
+* Patrick Peiffer, Digital Librarian, Bibliothèque Nationale de Luxembourg; and
+* Mark Raadgever, Trove data team, National Library of Australia.
 
 <div class="box">
 ## With support from
@@ -122,9 +122,9 @@ RightsStatements.org has been realized with the support from:
 
 <div class="row">
 <div class="medium-4 columns">
-\\[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
+\\\[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
 </div>
 <div class="medium-4 columns">
-\\[![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)](https://ec.europa.eu/inea/en/connecting-europe-facility)
+\\\[![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)](https://ec.europa.eu/inea/en/connecting-europe-facility)
 </div>
 </div>
