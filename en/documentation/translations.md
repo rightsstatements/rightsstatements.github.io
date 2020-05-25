@@ -24,16 +24,11 @@ The rights statements have been translated into the following languages:
 * [Hindi ](https://rightsstatements.org/page/1.0/?language=hi)- Translation partner: [National Digital Library of India](https://ndl.iitkgp.ac.in/) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India, reviewed by [Mahatma Gandhi International Hindi University, Wardha](http://www.hindivishwa.org/Default.aspx) of India
 * [Lithuanian](https://rightsstatements.org/lt/) - Translation partners: the [National Library of Lithuania](https://www.lnb.lt/) and the [Professional Law Partnership iLaw](http://en.ilawfirm.lt/), reviewed by the [Baltic Audiovisual Archives Council](http://www.baacouncil.org/) (BAAC).
 
-## Public Review
-
-* **Dutch** - Translation Partner: [PACKED Centre of Expertise in Digital Heritage](https://www.packed.be/en/). Review by [IP Squared.com](https://ip-squared.com/) and  [Beeld end Geluid](https://www.beeldengeluid.nl/en/knowledge/experts/maarten-brinkerink) 
-
-  Public consultation open until 15th May. To review the translation, email us at [info@rightsstatements.org](mailto:info@rightsstatements.org)
-
 ## Ongoing translation efforts
 
-There are currently 6 translation efforts underway:
+There are currently 7 translation efforts underway:
 
+* **Dutch** - Translation Partner: [PACKED Centre of Expertise in Digital Heritage](https://www.packed.be/en/). Review by [IP Squared.com](https://ip-squared.com/) and  [Beeld end Geluid](https://www.beeldengeluid.nl/en/knowledge/experts/maarten-brinkerink).
 * **Portugese** - Translation partner: [Instituto Moreira Salles](https://ims.com.br/), translator [Creative Commons Brazil](https://br.creativecommons.org/). Review by [Creative Commons Portugal](http://creativecommons.pt/). 
 * **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services. Review by [HH Partners](https://www.hhpartners.fi/en/) [*under review by RightsStatements.org*]
 * **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board. No reviewer selected yet.
