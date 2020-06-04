@@ -27,7 +27,7 @@ The rights statements have been translated into the following languages:
 
 ## Ongoing translation efforts
 
-There are currently 7 translation efforts underway:
+There are currently 6 translation efforts underway:
 
 * **Portugese** - Translation partner: [Instituto Moreira Salles](https://ims.com.br/), translator [Creative Commons Brazil](https://br.creativecommons.org/). Review by [Creative Commons Portugal](http://creativecommons.pt/). 
 * **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services. Review by [HH Partners](https://www.hhpartners.fi/en/) [*under review by RightsStatements.org*]
