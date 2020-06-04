@@ -23,7 +23,7 @@ The rights statements have been translated into the following languages:
 * [Spanish](http://rightsstatements.org/page/1.0/?language=es) - Translation partner: [Museo del Cine Pablo Ducrós Hicken](http://museodelcineba.org/), reviewed by [Safe Creative](https://www.safecreative.org/)
 * [Hindi ](https://rightsstatements.org/page/1.0/?language=hi)- Translation partner: [National Digital Library of India](https://ndl.iitkgp.ac.in/) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India, reviewed by [Mahatma Gandhi International Hindi University, Wardha](http://www.hindivishwa.org/Default.aspx) of India
 * [Lithuanian](https://rightsstatements.org/lt/) - Translation partners: the [National Library of Lithuania](https://www.lnb.lt/) and the [Professional Law Partnership iLaw](http://en.ilawfirm.lt/), reviewed by the [Baltic Audiovisual Archives Council](http://www.baacouncil.org/) (BAAC).
-* [Dutch](https://rightsstatements.org/nl/) - Translation Partner: [PACKED Centre of Expertise in Digital Heritage](https://www.packed.be/en/). Review by [IP Squared.com](https://ip-squared.com/) and  [Beeld end Geluid](https://www.beeldengeluid.nl/en/knowledge/experts/maarten-brinkerink).
+* [Dutch](https://rightsstatements.org/nl/) - Translation Partner: [PACKED Centre of Expertise in Digital Heritage](https://www.packed.be/en/). Reviewed by [IP Squared.com](https://ip-squared.com/) and  [Beeld end Geluid](https://www.beeldengeluid.nl/en/knowledge/experts/maarten-brinkerink).
 
 ## Ongoing translation efforts
 
