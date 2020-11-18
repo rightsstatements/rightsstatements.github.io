@@ -1,5 +1,0 @@
-language: ruby
-rvm:
-- 2.4
-install: gem install jekyll jekyll-paginate jekyll-feed
-script: "jekyll build"
