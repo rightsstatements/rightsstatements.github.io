@@ -35,6 +35,7 @@ There are currently 6 translation efforts underway:
 * **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India reviewed by [Jadavpur University](http://www.jaduniv.edu.in/) of India
 * **Serbian** - Translation partner [Wikimedia Serbia](http://wikimedia.rs/). Translation by [Creative Commons Serbia](http://creativecommons.org.rs/) (Nevenka Antic). Review by the [National Library of Serbia](https://www.nb.rs/?change_lang=en). 
 * **Catalan** - Translation partner [Legalment](https://www.legalment.net/). Reviewer [Biblioteca Nacional de Catalunya](http://www.bnc.cat/).
+* **Italian** - Translation partner Marina Cotugno, [Juliafoto](https://www.juliafoto.it/about-us/). Reviewer Antonella De Robbio, Coordinator of *G[ruppo di studio Open Access e Pubblico Dominio (GOAPD)](https://www.aib.it/struttura/commissioni-e-gruppi/gruppo-studio-open-access-pubblico-dominio/)* at the *Associazione Italiana Biblioteche*. 
 
 Applications from new translation partners should be sent to [info@rightsstatements.org](mailto:info@rightsstatements.org).
 
