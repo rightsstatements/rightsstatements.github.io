@@ -24,12 +24,12 @@ The rights statements have been translated into the following languages:
 * [Hindi ](https://rightsstatements.org/page/1.0/?language=hi)- Translation partner: [National Digital Library of India](https://ndl.iitkgp.ac.in/) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India, reviewed by [Mahatma Gandhi International Hindi University, Wardha](http://www.hindivishwa.org/Default.aspx) of India
 * [Lithuanian](https://rightsstatements.org/lt/) - Translation partners: the [National Library of Lithuania](https://www.lnb.lt/) and the [Professional Law Partnership iLaw](http://en.ilawfirm.lt/), reviewed by the [Baltic Audiovisual Archives Council](http://www.baacouncil.org/) (BAAC).
 * [Dutch](https://rightsstatements.org/nl/) - Translation Partner: [PACKED Centre of Expertise in Digital Heritage](https://www.packed.be/en/). Reviewed by [IP Squared.com](https://ip-squared.com/) and  [Beeld end Geluid](https://www.beeldengeluid.nl/en/knowledge/experts/maarten-brinkerink).
+* [Italian](https://rightsstatements.org/it/) - Translation partner Marina Cotugno, [Juliafoto](https://www.juliafoto.it/about-us/). Review by Antonella De Robbio, Coordinator of [Gruppo di studio Open Access e Pubblico Dominio (GOAPD)](https://www.aib.it/struttura/commissioni-e-gruppi/gruppo-studio-open-access-pubblico-dominio/) at the Associazione Italiana Biblioteche*,* and Andrea Zanni, [MLOL](https://medialibrary.it/home/cover.aspx). 
 
 ## Ongoing translation efforts
 
-There are currently 7 translation efforts underway:
+There are currently 6 translation efforts underway:
 
-* **Italian** - Translation partner Marina Cotugno, [Juliafoto](https://www.juliafoto.it/about-us/). Review by Antonella De Robbio, Coordinator of [Gruppo di studio Open Access e Pubblico Dominio (GOAPD)](https://www.aib.it/struttura/commissioni-e-gruppi/gruppo-studio-open-access-pubblico-dominio/) at the Associazione Italiana Biblioteche*,* and Andrea Zanni, [MLOL](https://medialibrary.it/home/cover.aspx). **\[OPEN FOR PUBLIC REVIEW UNTIL FEBRUARY 20, 2021. TO REVIEW THE TRANSLATION EMAIL US AT info@rightsstatements.org]**
 * **Portuguese** - Translation partner: [Instituto Moreira Salles](https://ims.com.br/), translator [Creative Commons Brazil](https://br.creativecommons.org/). Review by [Creative Commons Portugal](http://creativecommons.pt/). 
 * **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services. Review by [HH Partners](https://www.hhpartners.fi/en/) [*under review by RightsStatements.org*]
 * **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board. Review by the [Swedish Intellectual Property Office](www.prv.se/In-English/).
