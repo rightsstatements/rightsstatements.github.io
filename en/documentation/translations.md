@@ -26,16 +26,26 @@ The rights statements have been translated into the following languages:
 * [Dutch](https://rightsstatements.org/nl/) - Translation Partner: [PACKED Centre of Expertise in Digital Heritage](https://www.packed.be/en/). Reviewed by [IP Squared.com](https://ip-squared.com/) and  [Beeld end Geluid](https://www.beeldengeluid.nl/en/knowledge/experts/maarten-brinkerink).
 * [Italian](https://rightsstatements.org/it/) - Translation partner Marina Cotugno, [Juliafoto](https://www.juliafoto.it/about-us/). Review by Antonella De Robbio, Coordinator of [Gruppo di studio Open Access e Pubblico Dominio (GOAPD)](https://www.aib.it/struttura/commissioni-e-gruppi/gruppo-studio-open-access-pubblico-dominio/) at the Associazione Italiana Biblioteche*,* and Andrea Zanni, [MLOL](https://medialibrary.it/home/cover.aspx). 
 
+## Translations under public review
+
+As described in our [translation policy](/en/documentation/translation-policy/), every draft translation is published for a public comment period of 4
+weeks. If you wish to review a draft translation, please contact us at [info@rightsstatements.org](mailto:info@rightsstatements.org) indicating the language that you wish to review. 
+
+We will give you access to the system we use for this purpose so that you can complete your revision. The feedback from the public comment period will be addressed by the translation partner together with the reviewer(s). 
+
+There is currently one language open for public review:
+
+* **Catalan** - Translation partner [Legalment](https://www.legalment.net/). Review by Ariadna Matas, [Europeana Foundation](http://europeana.eu/).
+
 ## Ongoing translation efforts
 
-There are currently 6 translation efforts underway:
+There are currently 5 translation efforts underway:
 
 * **Portuguese** - Translation partner: [Instituto Moreira Salles](https://ims.com.br/), translator [Creative Commons Brazil](https://br.creativecommons.org/). Review by [Creative Commons Portugal](http://creativecommons.pt/). 
 * **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services. Review by [HH Partners](https://www.hhpartners.fi/en/) [*under review by RightsStatements.org*]
 * **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board. Review by the [Swedish Intellectual Property Office](www.prv.se/In-English/).
 * **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India. Review by [Jadavpur University](http://www.jaduniv.edu.in/) of India
 * **Serbian** - Translation partner [Wikimedia Serbia](http://wikimedia.rs/). Translation by Nevenka Antic, [Creative Commons Serbia](http://creativecommons.org.rs/). Review by the [National Library of Serbia](https://www.nb.rs/?change_lang=en). 
-* **Catalan** - Translation partner [Legalment](https://www.legalment.net/). Review by Ariadna Matas, [Europeana Foundation](http://europeana.eu/).
 
 Applications from new translation partners should be sent to [info@rightsstatements.org](mailto:info@rightsstatements.org).
 
