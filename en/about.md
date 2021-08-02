@@ -21,7 +21,7 @@ The rights statements are not just about the making things easier for the user. 
 
 ## A collaborative approach to governance which ensures the consortium meets the needs of the cultural heritage sector
 
-The rightsstatements.org consortium is a member based organisation - currently comprising of 6 continental and international aggregators.  Each members contributes an annual fee, and provides in-kind support.TEST
+The rightsstatements.org consortium is a member based organisation - currently comprising of 6 continental and international aggregators.  Each members contributes an annual fee, and provides in-kind support.TEST 
 
 <div class="box">
 ### Consortium members
