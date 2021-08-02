@@ -21,17 +21,17 @@ The rights statements are not just about the making things easier for the user. 
 
 ## A collaborative approach to governance which ensures the consortium meets the needs of the cultural heritage sector
 
-The rightsstatements.org consortium is a member based organisation - currently comprising of 6 continental and international aggregators.  Each members contributes an annual fee, and provides in-kind support.TEST 
+The rightsstatements.org consortium is a member based organisation - currently comprising of 6 continental and international aggregators.  Each members contributes an annual fee, and provides in-kind support.
 
 <div class="box">
 ### Consortium members
 
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-\\\\\[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
+\\[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
 </div>
 <div class="medium-4 columns logo">
-\\\[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
+\\[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
 </div>
 <div class="medium-4 columns logo">
 \\\\\[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
