@@ -21,31 +21,31 @@ The rights statements are not just about the making things easier for the user. 
 
 ## A collaborative approach to governance which ensures the consortium meets the needs of the cultural heritage sector
 
-The rightsstatements.org consortium is a member based organisation - currently comprising of 6 continental and international aggregators.  Each members contributes an annual fee, and provides in-kind support.TEST 
+The rightsstatements.org consortium is a member based organisation - currently comprising of 6 continental and international aggregators.  Each members contributes an annual fee, and provides in-kind support.
 
 <div class="box">
 ### Consortium members
 
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-\\\\\[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
+[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
 </div>
 <div class="medium-4 columns logo">
-\\\[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
+[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
 </div>
 <div class="medium-4 columns logo">
-\\\\\[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
+[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
 </div>
 </div>
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-\\\\\[![National Heritage Digitization Strategy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
+[![National Heritage Digitization Strategy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
 </div>
 <div class="medium-4 columns logo">
-\\\\\[![Trove](/files/images/Trove logo 202010.png)](https://trove.nla.gov.au)
+[![Trove](/files/images/Trove logo 202010.png)](https://trove.nla.gov.au)
 </div>
 <div class="medium-4 columns logo">
-\\\\\[![National Library of New Zealand](/files/images/NLNZ_logo.jpg)](https://natlib.govt.nz/)
+[![National Library of New Zealand](/files/images/NLNZ_logo.jpg)](https://natlib.govt.nz/)
 </div>
 </div>
 </div>
@@ -130,9 +130,9 @@ RightsStatements.org has been realized with the support from:
 
 <div class="row">
 <div class="medium-4 columns">
-\\\\\[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
+[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
 </div>
 <div class="medium-4 columns">
-\\\\\[![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)](https://ec.europa.eu/inea/en/connecting-europe-facility)
+[![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)](https://ec.europa.eu/inea/en/connecting-europe-facility)
 </div>
 </div>
