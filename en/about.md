@@ -28,24 +28,24 @@ The rightsstatements.org consortium is a member based organisation - currently c
 
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-\\\[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
+\\\\[![Digital Public Library of America](/files/images/dpla-logo.jpg)](http://dp.la/)
 </div>
 <div class="medium-4 columns logo">
-\\\[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
+\\\\[![Europeana](/files/images/europeana-logo.svg)](http://europeana.eu/)
 </div>
 <div class="medium-4 columns logo">
-\\\[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
+\\\\[![National Digital Library of India](/files/images/NDLI_Logo_Colour.png)](https://ndl.iitkgp.ac.in/)
 </div>
 </div>
 <div class="row centered-text">
 <div class="medium-4 columns logo">
-\\\[![National Heritage Digitization Strategy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
+\\\\[![National Heritage Digitization Strategy](/files/images/nhds_final_bil_e.png)](https://nhds.ca/)
 </div>
 <div class="medium-4 columns logo">
-\\\[![Trove](/files/images/Trove logo 202010.png)](https://trove.nla.gov.au)
+\\\\[![Trove](/files/images/Trove logo 202010.png)](https://trove.nla.gov.au)
 </div>
 <div class="medium-4 columns logo">
-\\\[![National Library of New Zealand](/files/images/NLNZ_logo.jpg)](https://natlib.govt.nz/)
+\\\\[![National Library of New Zealand](/files/images/NLNZ_logo.jpg)](https://natlib.govt.nz/)
 </div>
 </div>
 </div>
@@ -82,7 +82,7 @@ The Consortium Steering Committee prepares annual work plans to structure its wo
 
 [](https://rightsstatements.org/files/190812_workplan.pdf)[Work Plan for 2020](https://drive.google.com/a/europeana.eu/file/d/15uStLAn6fP5VXlZNrdLWpraBCAwhfdBN/view?usp=sharing) 
 
-[Work Plan for 2021](https://drive.google.com/file/d/1G9piFHiwUZxcvp_YTk0svCN0lKznNKWF/view?usp=sharing)
+[Work Plan for 2021](files/rights-statements-2021-work-plan.pdf)
 
 ## Working Groups
 
@@ -130,9 +130,9 @@ RightsStatements.org has been realized with the support from:
 
 <div class="row">
 <div class="medium-4 columns">
-\\\[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
+\\\\[![The John S. and James L. Knight Foundation](/files/images/knight-logo.jpg)](http://www.knightfoundation.org/)
 </div>
 <div class="medium-4 columns">
-\\\[![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)](https://ec.europa.eu/inea/en/connecting-europe-facility)
+\\\\[![Co-Financed by the European Union - Connecting Europe Facility](/files/images/cef-logo.svg)](https://ec.europa.eu/inea/en/connecting-europe-facility)
 </div>
 </div>
