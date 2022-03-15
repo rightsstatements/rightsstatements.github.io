@@ -37,7 +37,7 @@ We will give you access to the system we use for this purpose so that you can co
 
 There are currently 7 translation efforts underway:
 
-* **Croatian** - Translation partner: [National and University Library in Zagreb](https://www.nsk.hr/en/). Review by [Croatian State Intellectual Property Office](https://www.dziv.hr/en/).
+* **Croatian** - Translation partner: [National and University Library in Zagreb](https://www.nsk.hr/en/). Review by [Croatian State Intellectual Property Office](https://www.dziv.hr/en/). **This translation can be reviewed until 15 April 2022. To review the translation, please reach out to info@rightsstatements.org.**
 * **Catalan** - Translation partner: [Legalment](https://www.legalment.net/). Review by Ariadna Matas, [Europeana Foundation](http://europeana.eu/)
 * **Portuguese** - Translation partner: [Instituto Moreira Salles](https://ims.com.br/), translator [Creative Commons Brazil](https://br.creativecommons.org/). Review by [Creative Commons Portugal](http://creativecommons.pt/). 
 * **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services. Review by [HH Partners](https://www.hhpartners.fi/en/) [*under review by RightsStatements.org*]
