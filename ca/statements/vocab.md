@@ -10,10 +10,10 @@ lang: ca
 
 RightsStatements.org facilita actualment 12 declaracions de drets diferents que poden ser utilitzades per institucions gestores del patrimoni cultural per informar al públic sobre el règim de protecció pels drets d’autor i les possibilitats de reutilització d’objectes digitals. Les declaracions de drets s’han elaborat preveient la seva utilització per part de persones, i pensant també en els ordinadors (per exemple en els motors de cerca). Es posen a disposició en forma de dades enllaçades (linked data). Cada declaració de drets està localitzada en un URI únic.
 
-Les declaracions de drets han estat elaborades per atendre les necessitats específiques de les institucions gestores del patrimoni cultural i de les plataformes d’agregació de patrimoni cultural accessible en línia; no estan pensades per ser utilitzades per particulars per llicenciar les seves pròpies obres. (Si esteu buscant la manera de llicenciar les vostres pròpies obres, valoreu utilitzar una [llicència Creative Commons] (https://creativecommons.org/licenses/){:target="_blank"}).
+Les declaracions de drets han estat elaborades per atendre les necessitats específiques de les institucions gestores del patrimoni cultural i de les plataformes d’agregació de patrimoni cultural accessible en línia; no estan pensades per ser utilitzades per particulars per llicenciar les seves pròpies obres. (Si esteu buscant la manera de llicenciar les vostres pròpies obres, valoreu utilitzar una [llicència Creative Commons](https://creativecommons.org/licenses/){:target="_blank"}).
 
 <div class="box">
-##Tres categories de Declaracions de Drets
+## Tres categories de Declaracions de Drets
 
 <div class="row" markdown="0">
 <div class="medium-4 columns">
@@ -45,7 +45,7 @@ Les declaracions de drets han estat elaborades per atendre les necessitats espec
 </div>
 </div>
 <div>
-<p>Les declaracions de drets es divideixen en tres categories: declaracions per a obres protegides pel dret d’autor, declaracions per a les obres no protegides pel dret d’autor i declaracions per a les obres en relació a les quals no és clar el règim de protecció pel dret d’autor. Les declaracions proporcionen al públic informació general i fàcilment comprensible sobre les condicions dels objectes digitals des del punt de vista del dret d'autor, i les possibilitats de reutilització. Excepte en el cas de les dues declaracions relatives als objectes el règim de protecció dels quals no és clar, aquestes declaracions només haurien de ser utilitzades un cop s’hagi determinat el règim de protecció de l’obra pel dret d’autor. Trobareu informació complementària sobre les modalitats d’utilització de les declaracions de drets a la [secció de documentació] (/en/documentation).</p>
+<p>Les declaracions de drets es divideixen en tres categories: declaracions per a obres protegides pel dret d’autor, declaracions per a les obres no protegides pel dret d’autor i declaracions per a les obres en relació a les quals no és clar el règim de protecció pel dret d’autor. Les declaracions proporcionen al públic informació general i fàcilment comprensible sobre les condicions dels objectes digitals des del punt de vista del dret d'autor, i les possibilitats de reutilització. Excepte en el cas de les dues declaracions relatives als objectes el règim de protecció dels quals no és clar, aquestes declaracions només haurien de ser utilitzades un cop s’hagi determinat el règim de protecció de l’obra pel dret d’autor. Trobareu informació complementària sobre les modalitats d’utilització de les declaracions de drets a la [secció de documentació](/en/documentation).</p>
 </div>
 
 </div>
@@ -58,7 +58,7 @@ Les següents cinc declaracions de drets estan pensades per ser utilitzades en o
 
 ## Declaracions per a material no protegit pel dret d’autor {#collection-nc}
 
-Les següents quatre declaracions de drets estan pensades per obres que no estan protegides pel dret d’autor però que tenen limitacions no relacionades amb el dret d’autor que n'impedeixen una reutilització lliure, o per a les quals el règim de protecció de dret d’autor només ha estat determinat en una jurisdicció específica. Aquestes declaracions de drets només haurien de ser utilitzades si no és possible utilitzar la [marca de domini públic] (https://creativecommons.org/publicdomain/mark/1.0/) o la [llicència Creative Commons CC0 - Oferiment al Domini Públic]  (https://creativecommons.org/publicdomain/zero/1.0/).
+Les següents quatre declaracions de drets estan pensades per obres que no estan protegides pel dret d’autor però que tenen limitacions no relacionades amb el dret d’autor que n'impedeixen una reutilització lliure, o per a les quals el règim de protecció de dret d’autor només ha estat determinat en una jurisdicció específica. Aquestes declaracions de drets només haurien de ser utilitzades si no és possible utilitzar la [marca de domini públic](https://creativecommons.org/publicdomain/mark/1.0/) o la [llicència Creative Commons CC0 - Oferiment al Domini Públic](https://creativecommons.org/publicdomain/zero/1.0/).
 
 {% include collection.html collection_id="collection-nc" %}
 
