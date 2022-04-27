@@ -17,6 +17,13 @@ defaults:
       iso_name: "English"
   -
     scope:
+      path: "ca"
+    values:
+      lang: "ca"
+      categories: ["ca"]
+      iso_name: "Català"
+  -
+    scope:
       path: "de"
     values:
       lang: "de"
@@ -57,6 +64,13 @@ defaults:
       lang: "hi"
       categories: ["hi"]
       iso_name: "हिन्दी"
+  -
+    scope:
+      path: "hr"
+    values:
+      lang: "hr"
+      categories: ["hr"]
+      iso_name: "Hrvatski"
   -
     scope:
       path: "lt"
