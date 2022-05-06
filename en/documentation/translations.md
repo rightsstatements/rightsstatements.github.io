@@ -25,6 +25,8 @@ The rights statements have been translated into the following languages:
 * [Lithuanian](https://rightsstatements.org/lt/) - Translation partners: the [National Library of Lithuania](https://www.lnb.lt/) and the [Professional Law Partnership iLaw](http://en.ilawfirm.lt/), reviewed by the [Baltic Audiovisual Archives Council](http://www.baacouncil.org/) (BAAC).
 * [Dutch](https://rightsstatements.org/nl/) - Translation Partner: [PACKED Centre of Expertise in Digital Heritage](https://www.packed.be/en/). Reviewed by [IP Squared.com](https://ip-squared.com/) and  [Beeld end Geluid](https://www.beeldengeluid.nl/en/knowledge/experts/maarten-brinkerink).
 * [Italian](https://rightsstatements.org/it/) - Translation partner Marina Cotugno, [Juliafoto](https://www.juliafoto.it/about-us/). Review by Antonella De Robbio, Coordinator of [Gruppo di studio Open Access e Pubblico Dominio (GOAPD)](https://www.aib.it/struttura/commissioni-e-gruppi/gruppo-studio-open-access-pubblico-dominio/) at the Associazione Italiana Biblioteche*,* and Andrea Zanni, [MLOL](https://medialibrary.it/home/cover.aspx). 
+* [Croatian](https://rightsstatements.org/hr/) - Translation partner: [National and University Library in Zagreb](https://www.nsk.hr/en/). Review by [Croatian State Intellectual Property Office](https://www.dziv.hr/en/).
+* [Catalan](https://rightsstatements.org/ca/) - Translation partner: [Legalment](https://www.legalment.net/). Review by Brigit Nonó, [Universitat de Girona - Biblioteca](https://www.udg.edu/ca/estructura/serveis/servei?ID=81), and Ariadna Matas, [Europeana Foundation](http://europeana.eu/)
 
 ## Translations under public review
 
@@ -35,10 +37,8 @@ We will give you access to the system we use for this purpose so that you can co
 
 ## Ongoing translation efforts
 
-There are currently 7 translation efforts underway:
+There are currently 5 translation efforts underway:
 
-* **Croatian** - Translation partner: [National and University Library in Zagreb](https://www.nsk.hr/en/). Review by [Croatian State Intellectual Property Office](https://www.dziv.hr/en/). **This translation can be reviewed until 15 April 2022. To review the translation, please reach out to info@rightsstatements.org.**
-* **Catalan** - Translation partner: [Legalment](https://www.legalment.net/). Review by Ariadna Matas, [Europeana Foundation](http://europeana.eu/)
 * **Portuguese** - Translation partner: [Instituto Moreira Salles](https://ims.com.br/), translator [Creative Commons Brazil](https://br.creativecommons.org/). Review by [Creative Commons Portugal](http://creativecommons.pt/). 
 * **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services. Review by [HH Partners](https://www.hhpartners.fi/en/) [*under review by RightsStatements.org*]
 * **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board. Review by the [Swedish Intellectual Property Office](www.prv.se/In-English/).
