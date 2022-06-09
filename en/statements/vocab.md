@@ -16,7 +16,7 @@ The rights statements have been specifically developed for the needs of cultural
 <div class="box">
 ## Three Categories of Rights Statements
 
-<div class="row" markdown="0">
+<div class="row statements-categories" markdown="0">
   <div class="medium-4 columns">
     <div class="statements-category-teaser">
       <a href="#collection-ic"><h3>In Copyright</h3></a>

@@ -373,6 +373,11 @@ small,
 
 /* --- statements --- */
 
+.statements-categories {
+  display: flex;
+  align-items: flex-end;
+}
+
 .statements-category-teaser {
   padding: 1em 3em 2em 3em;
 }
