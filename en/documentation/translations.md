@@ -27,7 +27,7 @@ The rights statements have been translated into the following languages:
 * [Italian]({{site.app_url}}/page/1.0/?language=it) - Translation partner: Marina Cotugno, [Juliafoto](https://www.juliafoto.it/about-us/), reviewed by Antonella De Robbio, Coordinator of [Gruppo di studio Open Access e Pubblico Dominio (GOAPD)](https://www.aib.it/struttura/commissioni-e-gruppi/gruppo-studio-open-access-pubblico-dominio/) at the Associazione Italiana Biblioteche*,* and Andrea Zanni, [MLOL](https://medialibrary.it/home/cover.aspx).
 * [Croatian]({{site.app_url}}/page/1.0/?language=hr) - Translation partner: [National and University Library in Zagreb](https://www.nsk.hr/en/), reviewed by [Croatian State Intellectual Property Office](https://www.dziv.hr/en/).
 * [Catalan]({{site.url}}/page/1.0/?language=ca) - Translation partner: [Legalment](https://www.legalment.net/), reviewed by Brigit Nonó, [Universitat de Girona - Biblioteca](https://www.udg.edu/ca/estructura/serveis/servei?ID=81), and Ariadna Matas, [Europeana Foundation](http://europeana.eu/)
-* [Irish]({{site.url}}/page/1.0/?language=ga) - Translation partner: Eoghan Ó Carragáin, [National Library of Ireland](https://www.nli.ie/), reviewed by Johanna Archbold, [Atlantic Technological University](https://www.atu.ie/).
+* [Irish]({{site.url}}/page/1.0/?language=ga) - Translation partner: [National Library of Ireland](https://www.nli.ie/), reviewed by Lauren Ní Fhloinn and Johanna Archbold, [Atlantic Technological University](https://www.atu.ie/).
 
 ## Translations under public review
 
