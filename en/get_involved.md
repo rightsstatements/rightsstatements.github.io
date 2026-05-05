@@ -8,7 +8,7 @@ lang: en
 
 # Get Involved
 
-RightsStatements.org provides a set of standardized rights statements that answers the needs of cultural heritage institutions and aggregators across the globe. If you are interested in joining the consortium, contributing to the development of the rights statements we offer, or if you have questions, please get in touch with us [rights-statements@digitalscholar.org](mailto:rights-statements@digitalscholar.org).
+RightsStatements.org provides a set of standardized rights statements that answers the needs of cultural heritage institutions and aggregators across the globe. If you are interested in joining the consortium, contributing to the development of the rights statements we offer, or if you have questions, [please get in touch with us](https://forms.gle/PE33gNi69mR4FREGA).
 
 ### Find out how to use the rights statement in your organisation
 
