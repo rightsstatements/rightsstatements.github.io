@@ -21,7 +21,7 @@ The rights statements are not just about the making things easier for the user. 
 
 ## A collaborative approach to governance which ensures the consortium meets the needs of the cultural heritage sector
 
-The rightsstatements.org consortium is currently hosted by Europeana and overseen by an interim Governance Committee.
+The rightsstatements.org consortium is currently hosted by Digital Scholar and overseen by an Interim Steering Committee.
 
 Members of the interim Governance Committee:
 * Emily Gore

@@ -8,7 +8,7 @@ lang: en
 
 # Get Involved
 
-RightsStatements.org provides a set of standardized rights statements that answers the needs of cultural heritage institutions and aggregators across the globe. If you are interested in joining the consortium, contributing to the development of the rights statements we offer, or if you have questions, please get in touch with us [copyright@europeana.eu](mailto:copyright@europeana.eu).
+RightsStatements.org provides a set of standardized rights statements that answers the needs of cultural heritage institutions and aggregators across the globe. If you are interested in joining the consortium, contributing to the development of the rights statements we offer, or if you have questions, [please get in touch with us](https://forms.gle/PE33gNi69mR4FREGA).
 
 ### Find out how to use the rights statement in your organisation
 
@@ -20,7 +20,7 @@ RightsStatements.org provides a set of standardized rights statements that answe
 
 ### Keep up to date on the latest news
 
-If you're interested in finding out more information about membership of the consortium or the working groups, or have any other questions please [contact us](mailto:copyright@europeana.eu).
+If you're interested in finding out more information about membership of the consortium or the working groups, or have any other questions please [contact us](mailto:rights-statements@digitalscholar.org).
 
 [documentation]: {{site.url}}/en/documentation/
 [translations]: {{site.url}}/en/documentation/translations.html
