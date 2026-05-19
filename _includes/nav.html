@@ -57,6 +57,20 @@
             </li>
           {% endif %}
         {% endfor %}
+          <li class="has-dropdown">
+            <a href="#"><i class="icon-language"></i>{% include languages.html lang=page.lang %}</a>
+            
+            <ul class="dropdown" style="max-height: 300px; overflow-y: auto;">
+              
+              {% for default in site.defaults %}
+                {% if default.values.lang %}
+                  <li>
+                    <a href="{{ site.url }}/{{ default.values.lang }}/">{{ default.values.iso_name }}</a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </li>
       </ul>
     </section>
   </nav>

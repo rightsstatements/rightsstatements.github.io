@@ -10,20 +10,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{% raw %}{{data.prefLabel.[@value]}}{% endraw %} | Rights Statements</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.0/foundation.min.css" />
+<link href='{{ site.url }}/css/fontello.css' rel='stylesheet'>
     {% include cookies.html %}
     <link rel="stylesheet" href="{{ site.url }}/css/rights-stmt.css"/>
     <link rel="stylesheet" type="text/css" href="{{ site.font_css_url }}" />
     {% if site.matomo_analytics %}{% include analytics.html %}{% endif %}
 </head>
 
-{% raw %}
 <body markdown="0">
 
     <script type="application/ld+json">
-        {{json data}}
+        {% raw %}{{json data}}{% endraw %}
     </script>
 
     <div class="row columns statement-container">
+        
+        {% include language_switch.html %}
+        {% raw %}
         <div class="statement-wrapper">
             <div class="row statement-main">
                 <div class="large-4 columns">
