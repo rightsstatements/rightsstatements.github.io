@@ -10,7 +10,7 @@ jobs:
       - name: Setup Ruby runtime
         uses: actions/setup-ruby@v1
         with:
-          ruby-version: '2.7'
+          ruby-version: '4.0'
       - name: Configure bundler cache
         uses: actions/cache@v4
         with:
