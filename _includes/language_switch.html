@@ -1,0 +1,39 @@
+<div class="row" style="margin-bottom: 2rem;">
+  <div class="small-10 medium-6 large-4 columns float-right">
+    
+    <form action="" method="GET">
+      <div class="input-group">
+        
+        <span class="input-group-label" style="background: transparent; border: none; font-size: 1.5rem; color: #318ac7; padding-right: 0.5rem;">
+          <i class="icon-language"></i>
+        </span>
+        
+        <select class="input-group-field" name="language" id="statement-lang-switch" onchange="this.form.submit()">
+          <option value="" disabled selected>Language</option>
+          
+          {% for default in site.defaults %}
+            {% if default.values.lang %}
+              <option value="{{ default.values.lang }}">{{ default.values.iso_name }}</option>
+            {% endif %}
+          {% endfor %}
+        </select>
+        
+        <div class="input-group-button" id="lang-submit-btn">
+          <button type="submit" class="button secondary">Go</button>
+        </div>
+        
+      </div>
+    </form>
+
+    <script>
+      // Reverse no javascript tag by hiding the go button of the language switch
+      document.getElementById("lang-submit-btn").style.display = "none";
+      // 2. Auto-select the correct language
+      var currentLang = "{% raw %}{{ language }}{% endraw %}";
+      if (currentLang) {
+          document.getElementById("statement-lang-switch").value = currentLang;
+      }
+    </script>
+    
+  </div>
+</div>
