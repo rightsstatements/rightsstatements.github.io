@@ -19,7 +19,7 @@ The statements are available in 16 languages and implemented by major cultural i
 
 This transition follows the tireless work of the Steering Committee, which includes original developers of the Rights Statements vocabulary and its technical infrastructure. Committee members Greg Cram, Emily B. Gore, Melissa Levine, Maarten Zeinstra, Ariadna Matas, and Valentine Charles guided the project through a pivotal moment and worked collectively to identify a new organizational home. Their expertise and commitment have been instrumental in sustaining the project as it matures. 
 
-“We are deeply grateful to the Interim Steering Committee for their stewardship and vision,” said Sean Takats, co-chief Executive Director of Digital Scholar. “Their work ensured continuity for a globally relied-upon standard and made this transition possible. We look forward to continuing to work with them in this next phase of the initiative.”
+“We are deeply grateful to the Interim Steering Committee for their stewardship and vision,” said Sean Takats, co-chief Executive Officer of Digital Scholar. “Their work ensured continuity for a globally relied-upon standard and made this transition possible. We look forward to continuing to work with them in this next phase of the initiative.”
 
 Follow [Digital Scholar](http://digitalscholar.org) for updates on this transition and our coming invitations to collaborate. 
 
