@@ -18,13 +18,13 @@ RightsStatements.org provides a set of standardized rights statements that answe
 
 - read about our [translations] and get in touch
 
+### Interested in contributing to our open source infrastructure?
+
+- explore our repositories, report issues, and submit pull requests on [GitHub](https://github.com/rightsstatements)
+
 ### Keep up to date on the latest news
 
 If you're interested in finding out more information about membership of the consortium or the working groups, or have any other questions please [contact us](mailto:rights-statements@digitalscholar.org).
 
 [documentation]: {{site.url}}/en/documentation/
 [translations]: {{site.url}}/en/documentation/translations.html
-
-### Interested in contributing to our open source infrastructure?
-
-- explore our repositories, report issues, and submit pull requests on [GitHub](https://github.com/rightsstatements)
