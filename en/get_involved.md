@@ -24,3 +24,7 @@ If you're interested in finding out more information about membership of the con
 
 [documentation]: {{site.url}}/en/documentation/
 [translations]: {{site.url}}/en/documentation/translations.html
+
+### Interested in contributing to our open source infrastructure?
+
+- explore our repositories, report issues, and submit pull requests on [GitHub](https://github.com/rightsstatements)
