@@ -1,0 +1,32 @@
+[main]
+host = https://www.transifex.com
+
+[rightsstatementsorg.indexmd]
+file_filter = <lang>/index.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[rightsstatementsorg.collection-icmd]
+file_filter = <lang>/statements/collection-ic.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[rightsstatementsorg.collection-ncmd]
+file_filter = <lang>/statements/collection-nc.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[rightsstatementsorg.collection-othermd]
+file_filter = <lang>/statements/collection-other.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[rightsstatementsorg.vocabmd]
+file_filter = <lang>/statements/vocab.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[rightsstatementsorg.enyml]
+file_filter = _data/i18n/<lang>.yml
+source_lang = en
+type = YAML_GENERIC

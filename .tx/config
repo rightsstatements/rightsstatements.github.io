@@ -1,32 +1,56 @@
 [main]
 host = https://www.transifex.com
 
-[rightsstatementsorg.indexmd]
-file_filter = <lang>/index.md
-source_lang = en
-type = GITHUBMARKDOWN
+[o:rightsstatements-org:p:rightsstatementsorg:r:collection-icmd]
+file_filter            = <lang>/statements/collection-ic.md
+source_file            = en/statements/collection-ic.md
+source_lang            = en
+type                   = GITHUBMARKDOWN
+replace_edited_strings = false
+keep_translations      = false
+minimum_perc           = 100
 
-[rightsstatementsorg.collection-icmd]
-file_filter = <lang>/statements/collection-ic.md
-source_lang = en
-type = GITHUBMARKDOWN
+[o:rightsstatements-org:p:rightsstatementsorg:r:collection-ncmd]
+file_filter            = <lang>/statements/collection-nc.md
+source_file            = en/statements/collection-nc.md
+source_lang            = en
+type                   = GITHUBMARKDOWN
+replace_edited_strings = false
+keep_translations      = false
+minimum_perc           = 100
 
-[rightsstatementsorg.collection-ncmd]
-file_filter = <lang>/statements/collection-nc.md
-source_lang = en
-type = GITHUBMARKDOWN
+[o:rightsstatements-org:p:rightsstatementsorg:r:collection-othermd]
+file_filter            = <lang>/statements/collection-other.md
+source_file            = en/statements/collection-other.md
+source_lang            = en
+type                   = GITHUBMARKDOWN
+replace_edited_strings = false
+keep_translations      = false
+minimum_perc           = 100
 
-[rightsstatementsorg.collection-othermd]
-file_filter = <lang>/statements/collection-other.md
-source_lang = en
-type = GITHUBMARKDOWN
+[o:rightsstatements-org:p:rightsstatementsorg:r:enyml]
+file_filter            = _data/i18n/<lang>.yml
+source_file            = _data/i18n/en.yml
+source_lang            = en
+type                   = YAML_GENERIC
+replace_edited_strings = false
+keep_translations      = false
+minimum_perc           = 100
 
-[rightsstatementsorg.vocabmd]
-file_filter = <lang>/statements/vocab.md
-source_lang = en
-type = GITHUBMARKDOWN
+[o:rightsstatements-org:p:rightsstatementsorg:r:indexmd]
+file_filter            = <lang>/index.md
+source_file            = en/index.md
+source_lang            = en
+type                   = GITHUBMARKDOWN
+replace_edited_strings = false
+keep_translations      = false
+minimum_perc           = 100
 
-[rightsstatementsorg.enyml]
-file_filter = _data/i18n/<lang>.yml
-source_lang = en
-type = YAML_GENERIC
+[o:rightsstatements-org:p:rightsstatementsorg:r:vocabmd]
+file_filter            = <lang>/statements/vocab.md
+source_file            = en/statements/vocab.md
+source_lang            = en
+type                   = GITHUBMARKDOWN
+replace_edited_strings = false
+keep_translations      = false
+minimum_perc           = 100
