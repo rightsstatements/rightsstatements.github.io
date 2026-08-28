@@ -92,6 +92,13 @@ defaults:
       lang: "pl"
       categories: ["pl"]
       iso_name: "Polski"
+  -
+    scope:
+      path: "sv_SE"
+    values:
+      lang: "sv_SE"
+      categories: ["pl"]
+      iso_name: "Svenska"      
 author: rightsstatements.org
 permalink: /:categories/:year/:month/:slug.html
 plugins:
