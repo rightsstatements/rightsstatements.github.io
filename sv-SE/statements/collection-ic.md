@@ -1,5 +1,5 @@
 ---
-layout: sidan
+layout: page
 title: Upphovsrättsbeskrivningar - Lista över upphovsrättsförklaring
 section_id: Besked
 lang: sv

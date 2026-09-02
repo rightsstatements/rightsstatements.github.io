@@ -1,5 +1,5 @@
 ---
-layout: sida
+layout: page
 title: Upphovsrättsbeskrivningar
 section_id: Beskrivningar
 alias: /vocab/

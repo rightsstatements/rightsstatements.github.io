@@ -112,11 +112,11 @@ defaults:
       iso_name: "Polski"
   -
     scope:
-      path: "sv_SE"
+      path: "sv-SE"
     values:
-      lang: "sv_SE"
-      categories: ["pl"]
-      iso_name: "Svenska"      
+      lang: "sv-SE"
+      categories: ["sv-SE"]
+      iso_name: "Svenska"
 author: rightsstatements.org
 permalink: /:categories/:year/:month/:slug.html
 plugins:
