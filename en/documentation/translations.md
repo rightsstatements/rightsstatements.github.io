@@ -28,6 +28,7 @@ The rights statements have been translated into the following languages:
 * [Croatian]({{site.app_url}}/page/1.0/?language=hr) - Translation partner: [National and University Library in Zagreb](https://www.nsk.hr/en/), reviewed by [Croatian State Intellectual Property Office](https://www.dziv.hr/en/).
 * [Catalan]({{site.url}}/page/1.0/?language=ca) - Translation partner: [Legalment](https://www.legalment.net/), reviewed by Brigit Nonó, [Universitat de Girona - Biblioteca](https://www.udg.edu/ca/estructura/serveis/servei?ID=81), and Ariadna Matas, [Europeana Foundation](http://europeana.eu/)
 * [Irish]({{site.url}}/page/1.0/?language=ga) - Translation partner: [National Library of Ireland](https://www.nli.ie/). Reviewed by Lauren Ní Fhloinn and Johanna Archbold, [Atlantic Technological University](https://www.atu.ie/).
+* [Swedish] ({{site.url}}/page/1.0/?language=sv-SE) - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board. Review by the [Swedish Intellectual Property Office](www.prv.se/In-English/).
 
 ## Translations under public review
 
@@ -42,10 +43,9 @@ There are currently 5 translation efforts underway:
 
 * **Portuguese** - Translation partner: [Instituto Moreira Salles](https://ims.com.br/), translator [Creative Commons Brazil](https://br.creativecommons.org/). Review by [Creative Commons Portugal](http://creativecommons.pt/).
 * **Finland Swedish** - Translation partner: [IDE](http://ide.fi/english/index.php?file=kop1.php) and The Prime Minister's Office's translations services. Review by [HH Partners](https://www.hhpartners.fi/en/) [*under review by RightsStatements.org*]
-* **Swedish** - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board. Review by the [Swedish Intellectual Property Office](www.prv.se/In-English/).
 * **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India. Review by [Jadavpur University](http://www.jaduniv.edu.in/) of India
 * **Serbian** - Translation partner [Wikimedia Serbia](http://wikimedia.rs/). Translation by Nevenka Antic, [Creative Commons Serbia](http://creativecommons.org.rs/). Review by the [National Library of Serbia](https://www.nb.rs/?change_lang=en).
 
-Applications from new translation partners should be sent to [copyright@europeana.eu](mailto:copyright@europeana.eu).
+Applications from new translation partners should be sent to [rs-translations@digitalscholar.org](mailto:rs-translations@digitalscholar.org).
 
 </div>
