@@ -28,7 +28,7 @@ The rights statements have been translated into the following languages:
 * [Croatian]({{site.app_url}}/page/1.0/?language=hr) - Translation partner: [National and University Library in Zagreb](https://www.nsk.hr/en/), reviewed by [Croatian State Intellectual Property Office](https://www.dziv.hr/en/).
 * [Catalan]({{site.url}}/page/1.0/?language=ca) - Translation partner: [Legalment](https://www.legalment.net/), reviewed by Brigit Nonó, [Universitat de Girona - Biblioteca](https://www.udg.edu/ca/estructura/serveis/servei?ID=81), and Ariadna Matas, [Europeana Foundation](http://europeana.eu/)
 * [Irish]({{site.url}}/page/1.0/?language=ga) - Translation partner: [National Library of Ireland](https://www.nli.ie/). Reviewed by Lauren Ní Fhloinn and Johanna Archbold, [Atlantic Technological University](https://www.atu.ie/).
-* [Swedish] ({{site.url}}/page/1.0/?language=sv-SE) - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board. Review by the [Swedish Intellectual Property Office](www.prv.se/In-English/).
+<!-- * [Swedish]({{site.url}}/page/1.0/?language=sv-SE) - Translation partner: [Digisam](http://www.digisam.se/?lang=en), Swedish National Heritage Board. Review by the [Swedish Intellectual Property Office](www.prv.se/In-English/). -->
 
 ## Translations under public review
 
@@ -37,6 +37,7 @@ weeks. Currently, the Bangla and Swedish translations are available for public r
 
 * [Bangla](https://docs.google.com/spreadsheets/d/12zRr4rO1mBoLG4x0aSua73RtrdRGdLs7ZjL904aeKvI/edit?usp=sharing)
 * [Swedish](https://docs.google.com/spreadsheets/d/1y1Iq7FKy1YQuVuTRzlz_zTv69puVDSv0s-LpRCAc_pk/edit?usp=sharing)
+* [Greek](https://docs.google.com/document/d/1-zkrDJ132f80Cfxlk_kPc7GBHtr1DE33XiQ9XOECl28/edit?usp=sharing)
 
 If you wish to review a draft translation, please contact us at [rs-translations@digitalscholar.org](mailto:rs-translations@digitalscholar.org) indicating the language that you wish to review.
 
